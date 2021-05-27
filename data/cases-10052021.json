@@ -1,0 +1,35 @@
+[{
+        "id": 63037,
+        "age": 59,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "chef",
+        "organization": "MOS Burger, Suntec City",
+        "date": "10/05/2021",
+        "serology": "-",
+        "asymptomatic": "yes",
+        "vaccinated": "-"
+    },
+    {
+        "id": 63047,
+        "age": 44,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "operations personnel",
+        "organization": "Raffles Medical, Changi Airport Terminal 3",
+        "date": "10/05/2021",
+        "serology": "-",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 63055,
+        "age": 59,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "aviation security officer",
+        "organization": "Changi Airport Terminal 3",
+        "date": "10/05/2021",
+        "serology": "-",
+        "vaccinated": "yes (2 doses)"
+    }
+]

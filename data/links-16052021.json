@@ -1,0 +1,117 @@
+[
+    {
+        "infector": 63146,
+        "infectee": 63291,
+        "date": "16/05/2021"
+    },
+    {
+        "infector": "airport",
+        "infectee": 63269,
+        "date": "16/05/2021"
+    },
+    {
+        "infector": 63269,
+        "infectee": 63316,
+        "date": "16/05/2021"
+    },
+    {
+        "infector": "airport",
+        "infectee": 63270,
+        "date": "16/05/2021"
+    },
+    {
+        "infector": "airport",
+        "infectee": 63324,
+        "date": "16/05/2021"
+    },
+    {
+        "infector": "airport",
+        "infectee": 63305,
+        "date": "16/05/2021"
+    },
+    {
+        "infector": 63160,
+        "infectee": 63294,
+        "date": "16/05/2021"
+    },
+    {
+        "infector": 63160,
+        "infectee": 63300,
+        "date": "16/05/2021"
+    },
+    {
+        "infector": 63131,
+        "infectee": 63279,
+        "date": "16/05/2021"
+    },
+    {
+        "infector": 63131,
+        "infectee": 63281,
+        "date": "16/05/2021"
+    },
+    {
+        "infector": 63131,
+        "infectee": 63282,
+        "date": "16/05/2021"
+    },
+    {
+        "infector": 63131,
+        "infectee": 63285,
+        "date": "16/05/2021"
+    },
+    {
+        "infector": 63187,
+        "infectee": 63288,
+        "date": "16/05/2021"
+    },
+    {
+        "infector": 63251,
+        "infectee": 63288,
+        "date": "16/05/2021"
+    },
+    {
+        "infector": 63186,
+        "infectee": 63296,
+        "date": "16/05/2021"
+    },
+    {
+        "infector": 63188,
+        "infectee": 63297,
+        "date": "16/05/2021"
+    },
+    {
+        "infector": 63184,
+        "infectee": 63298,
+        "date": "16/05/2021"
+    },
+    {
+        "infector": 63131,
+        "infectee": 63325,
+        "date": "16/05/2021"
+    },
+    {
+        "infector": 63166,
+        "infectee": 63280,
+        "date": "16/05/2021"
+    },
+    {
+        "infector": 63241,
+        "infectee": 63280,
+        "date": "16/05/2021"
+    },
+    {
+        "infector": 63271,
+        "infectee": 63278,
+        "date": "16/05/2021"
+    },
+    {
+        "infector": 63320,
+        "infectee": 63317,
+        "date": "16/05/2021"
+    },
+    {
+        "infector": 63273,
+        "infectee": 63318,
+        "date": "16/05/2021"
+    }
+]

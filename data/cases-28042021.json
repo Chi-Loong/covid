@@ -1,0 +1,35 @@
+[{
+        "id": 62517,
+        "age": 38,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "ICA officer",
+        "organization": "Changi Airport Terminal 1",
+        "date": "28/04/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 62526,
+        "age": 58,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "construction project manager",
+        "organization": "-",
+        "date": "28/04/2021",
+        "serology": "positive",
+        "asymptomatic": "yes",
+        "vaccinated": "-"
+    },
+    {
+        "id": 62541,
+        "age": 46,
+        "gender": "female",
+        "nationality": "Philippines",
+        "occupation": "nurse",
+        "organization": "Tan Tock Seng Hospital, Ward9D",
+        "date": "28/04/2021",
+        "serology": "-",
+        "vaccinated": "yes (2 doses)"
+    }
+]

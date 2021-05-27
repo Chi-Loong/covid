@@ -1,0 +1,106 @@
+[{
+        "infector": 63139,
+        "infectee": 63605,
+        "date": "23/05/2021"
+    },
+    {
+        "infector": 63447,
+        "infectee": 63605,
+        "date": "23/05/2021"
+    },
+    {
+        "infector": 63055,
+        "infectee": 63615,
+        "date": "23/05/2021"
+    },
+    {
+        "infector": 63382,
+        "infectee": 63616,
+        "date": "23/05/2021"
+    },
+    {
+        "infector": 63458,
+        "infectee": 63616,
+        "date": "23/05/2021"
+    },
+    {
+        "infector": "JEM",
+        "infectee": 63597,
+        "date": "23/05/2021"
+    },
+    {
+        "infector": "JEM",
+        "infectee": 63600,
+        "date": "23/05/2021"
+    },
+    {
+        "infector": "JEM",
+        "infectee": 63606,
+        "date": "23/05/2021"
+    },
+    {
+        "infector": "JEM",
+        "infectee": 63607,
+        "date": "23/05/2021"
+    },
+    {
+        "infector": 63317,
+        "infectee": 63610,
+        "date": "23/05/2021"
+    },
+    {
+        "infector": 63535,
+        "infectee": 63603,
+        "date": "23/05/2021"
+    },
+    {
+        "infector": 63535,
+        "infectee": 63624,
+        "date": "23/05/2021"
+    },
+    {
+        "infector": 63462,
+        "infectee": 63620,
+        "date": "23/05/2021"
+    },
+    {
+        "infector": 63007,
+        "infectee": 63617,
+        "date": "23/05/2021"
+    },
+    {
+        "infector": 63236,
+        "infectee": 63621,
+        "date": "23/05/2021"
+    },
+    {
+        "infector": 63304,
+        "infectee": 63598,
+        "date": "23/05/2021"
+    },
+    {
+        "infector": 63392,
+        "infectee": 63601,
+        "date": "23/05/2021"
+    },
+    {
+        "infector": 63479,
+        "infectee": 63627,
+        "date": "23/05/2021"
+    },
+    {
+        "infector": 63515,
+        "infectee": 63612,
+        "date": "23/05/2021"
+    },
+    {
+        "infector": 63466,
+        "infectee": 63618,
+        "date": "23/05/2021"
+    },
+    {
+        "infector": 63443,
+        "infectee": 63619,
+        "date": "23/05/2021"
+    }
+]

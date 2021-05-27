@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="SG Covid Case Clusters">
+    <meta name="author" content="Chi-Loong (www.vslashr.com)">
+    <meta name="google-site-verification" content="..." />
+    
+    <meta property="og:title" content="SG Covid Case Clusters">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://covid.viz.sg">
+    <meta property="og:image" content="https://covid.viz.sg/img/covid_opengraph.png">
+    <meta property="og:image:width" content="1381" />
+    <meta property="og:image:height" content="868" />
+    <meta property="og:description" content="SG Covid Case Clusters">
+
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@vslashr" />
+    <meta name="twitter:creator" content="@chiloong" />
+    
+    <title>SG Covid Case Clusters</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+</head>
+<body>
+
+<div class="container">
+  <h1 class="text-center display-4 px-5 py-3">SG Covid Case Clusters</h1>
+  <p class="text-center"><i>Chi-Loong, Updated 26th May 2021</i></p>
+  
+  <div class="row">
+    <div class="col-md-12">
+        <h4>Feature updates</h4>
+        <ul>
+            <li>27th May: Asymptomatic data field added, and viz tab added. Asymptomatic cases are often detected through surveillance / already quarantined.</li>
+            <li>26th May: Search feature added. Used to double check all open clusters listed in MOH annex and it is correct for this dataset.</li>
+            <li>24th May: Visualization launched.</li>
+        </ul>
+    </div>
+  </div>
+  <hr/>
+  
+  <div class="row">
+    <div class="col-md-12">
+        <h4>Why create this visualization?</h4>
+        <p>Because I felt we were missing a good dashboard for the public that gives us an intuitive insight into how the Covid cases are linked to each other.</p>
+        <p><a href="https://ppvbc.github.io/" target="_blank">Geospatial marker visualizations</a> can be useful and can tell you where to avoid going during this period, but it does not give you a sense of how the cases spread and relate to each other.</p>
+        <p>The Ministry Of Health (MOH) <a href="https://www.moh.gov.sg/covid-19" target="_blank">Covid dashboard</a> is good for summary statistics, but I would argue that it doesn’t do a great job in presenting how the cases spread visually.</p>
+        <p>A big kudos goes to them though for the amount of detail that goes into their daily press releases, which has detailed case notes for each community case that day.</p>
+        <p>Our media takes the data from here and covered stories on how the clusters grew, for example this <a href="https://www.channelnewsasia.com/news/singapore/covid-19-changi-airport-cluster-timeline-14855936" target="_blank">detailed airport timeline</a> by Channel News Asia (CNA).</p>
+        <p>They also did some nice <a href="https://www.channelnewsasia.com/news/singapore/covid-19-changi-airport-cluster-household-contacts-b1617-variant-14787262" target="_blank">non-interactive graphical tree charts</a> just about a week back, but I think there may be too many cases to do this easily in a manual way going forward.</p>
+        <p>And here is where technology and a bit of manual data entry can help. By indexing all the recent cases and building template dashboard, we can create a community case cluster graph visualization that:</p>
+        <ul>
+            <li>is far easier to update than manually drawing out the clusters</li>
+            <li>allows us, at a glance, to intuitively get case relationship insights</li>
+            <li>allows us to search and find each case by ID in the dataset (not possible on the MOH site).</li>
+        </ul>
+    </div>
+  </div>
+  <hr/>
+
+  <div class="row">
+    <div class="col-md-12">
+        <h4>Visual Insights: Vaccinated vs unvaccinated</h4>
+        <p>As of March 23rd 2020, we know that there are quite a bit <a href="https://www.channelnewsasia.com/news/singapore/covid-19-vaccination-effectiveness-moh-ong-ye-kung-14869342" target="_blank">more unvaccinated cases compared to vaccinated ones</a>, according to CNA.</p>
+        <p>There are about 300 cases (79 percent) to 78 (21 per cent) that have fallen ill to Covid recently.</p>
+        <p>I could tell you all these numbers. But nothing brings this point across better than seeing it visually.</p>
+        <div class="text-center">
+            <img src="img/vaccinated_23May.png" class="img-fluid"/>
+            <p><i>Yellow cases are those that are partially vaccinated (1 dose). Green cases are those that are fully vaccianted and have taken 2 doses.</i></p>
+        </div>
+    </div>
+  </div>
+  <hr/>
+
+  <div class="row">
+    <div class="col-md-12">
+        <h4>Visual Insights: Date, age and gender</h4>
+        <p>Why is the open airport cluster still a major concern? What does our biggest cluster look like?</p>
+        <p>Look at how long the chains are in the airport cluster. Compare this, for example, to the other big cluster case at Tan Tock Seng Hospital (late April /early May) which were quickly corralled and limited to mainly those with direct contact to Ward 9D.</p>
+        <p>Lastly, the latest leaf notes at the end of the airport cluster are still extremely recent, whereas the TTSH cluster has died out.</p>
+        <div class="text-center">
+            <img src="img/TTSH_airport.png" class="img-fluid"/>
+            <p><i>The redder the case, the more recent it is. Look at how the TTSH cluster is mostly old cases that all spread in one location, whereas the airport cluster has longer chains of transmission.</i></p>
+        </div>
+        <p>The learning point cluster, compared to the TTSH cluster, is also a great contrast</p>
+        <p>Take a look at the ages of the cases in the clusters!</p>
+        <div class="text-center">
+            <img src="img/learning_point_TTSH.png" class="img-fluid"/>
+            <p><i>Along a spectral rainbow scale, red denotes younger patients (10 years and below), whereas at the other extreme blue denotes old patients (80 and above).</i></p>
+        </div>
+        <p>One last cluster I would like to point out is this prison cluster (as of 23rd May 2021). Notice anything?</p>
+        <p>Yup, all the cases in this cluster are all male.</p>
+        <div class="text-center">
+            <img src="img/prison.png" class="img-fluid"/>
+            <p><i>All 10 cases in the prison cluster (as of 23rd May 2020) are male.</i></p>
+        </div>
+    </div>
+  </div>
+  <hr/>
+
+  <div class="row">
+    <div class="col-md-12">
+        <h4>Data entry and future work</h4>
+        <p>Data for the visualization is only captured from April 28th 2021.</p>
+        <p>Even though of course there were case clusters and reports in Singapore before that, this date serves as a good start point from when all the recent big clusters (TTSH and airport) started.</p>
+        <p>As I am the only one developing the dashboard and transcribing the data, I am almost certain I may have transcribed an error or two into this dashboard. </p>
+        <p>Besides the daily press releases, I also have to check the <a href="https://www.moh.gov.sg/covid-19/situation-report" target="_blank">MOH Covid siterep</a>, which sometimes reclassifies the cases and their links. Again I am certain I may have missed things.</p>
+        <p>If you find any errors, please ping me and drop me an email at <a href="mailto:chiloong@vslashr.com">chiloong@vslashr.com</a>. Let’s try and make this dashboard useful for everyone!</p>
+        <p>Data will be updated whenever MOH releases the detailed case data, which tends to be really late at night daily.</p>
+        <p>For future work, the most important thing would be to update the data daily when it comes in.</p>
+        <p>Beyond that, there are other datasets that can be visualized to get insights, e.g. by nationality, by occupation, etc.</p>
+        <p>Unfortunately, as I am the only solo developer for this passion project, my first priority is transcribing the data, then any new features when I have time.</p>
+    </div>
+  </div>
+  <hr/>
+
+  <div class="row">
+    <div class="col-md-12">
+        <h4>Shameless plugs</h4>
+        <p>If you’re interested in visualizations in Singapore, check out <a href="https://viz.sg/" target="_blank">viz.sg</a>, the local data viz community website! 
+        <p>Also check out <a href="https://www.vslashr.com/" target="_blank">V/R</a>.</p>
+        <p>Join our local SG data viz meetup communities:</p>
+        <ul>
+            <li><a href="https://www.meetup.com/Data-Vis-Singapore/" target="_blank">Data Viz SG</a></li>
+            <li><a href="https://www.meetup.com/Hacks-Hackers-Singapore/" target="_blank">Hacks and Hackers SG</a></li>
+        </ul>
+        <p> Lastly, feel free to ping me on <a href="https://sg.linkedin.com/in/chiloong">linkedin</a> or drop me an <a href="mailto:chiloong@vslashr.com">email</a>!</p>
+    </div>
+  </div>
+  <hr/>
+
+  
+  <h6 class="text-center px-3 py-3"><a href="index.html">Back to SG Covid Case Clusters</a></h6>
+</div>
+
+</body>
+</html>

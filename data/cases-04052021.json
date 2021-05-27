@@ -1,0 +1,57 @@
+[{
+        "id": 62801,
+        "age": 53,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "visitor",
+        "organization": "Tan Tock Seng Hospital Ward 9D",
+        "date": "04/05/2021",
+        "serology": "-",
+        "asymptomatic": "yes",
+        "vaccinated": "partial (1 dose)"
+    },
+    {
+        "id": 62807,
+        "age": 45,
+        "gender": "female",
+        "nationality": "Philippines",
+        "occupation": "visitor",
+        "organization": "Tan Tock Seng Hospital Ward 9D",
+        "date": "04/05/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 62808,
+        "age": 39,
+        "gender": "female",
+        "nationality": "Indonesia",
+        "occupation": "visitor",
+        "organization": "Tan Tock Seng Hospital Ward 9D",
+        "date": "04/05/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 62803,
+        "age": 25,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "Pharmacist",
+        "organization": "Tan Tock Seng Hospital",
+        "date": "08/05/2021",
+        "serology": "-",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 62816,
+        "age": 64,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "patient",
+        "organization": "Tan Tock Seng Hospital Ward 9D",
+        "date": "04/05/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    }
+]

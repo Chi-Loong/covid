@@ -1,0 +1,37 @@
+[
+    {
+        "infector": 62873,
+        "infectee": 62971,
+        "date": "09/05/2021"
+    },
+    {
+        "infector": "airport",
+        "infectee": 62972,
+        "date": "09/05/2021"
+    },
+    {
+        "infector": 62873,
+        "infectee": 63015,
+        "date": "09/05/2021"
+    },
+    {
+        "infector": "airport",
+        "infectee": 63026,
+        "date": "09/05/2021"
+    },
+    {
+        "infector": "TTSH",
+        "infectee": 63007,
+        "date": "09/05/2021"
+    },
+    {
+        "infector": "TTSH",
+        "infectee": 63008,
+        "date": "09/05/2021"
+    },
+    {
+        "infector": "TTSH",
+        "infectee": 63009,
+        "date": "09/05/2021"
+    }
+]

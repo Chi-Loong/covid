@@ -1,0 +1,102 @@
+[
+    {
+        "infector": 63096,
+        "infectee": 63122,
+        "date": "13/05/2021"
+    },
+    {
+        "infector": 63070,
+        "infectee": 63115,
+        "date": "13/05/2021"
+    },
+    {
+        "infector": 62873,
+        "infectee": 63117,
+        "date": "13/05/2021"
+    },
+    {
+        "infector": 62873,
+        "infectee": 63118,
+        "date": "13/05/2021"
+    },
+    {
+        "infector": 63097,
+        "infectee": 63119,
+        "date": "13/05/2021"
+    },
+    {
+        "infector": "airport",
+        "infectee": 63125,
+        "date": "13/05/2021"
+    },
+    {
+        "infector": "airport",
+        "infectee": 63126,
+        "date": "13/05/2021"
+    },
+    {
+        "infector": 63072,
+        "infectee": 63128,
+        "date": "13/05/2021"
+    },
+    {
+        "infector": 63072,
+        "infectee": 63129,
+        "date": "13/05/2021"
+    },
+    {
+        "infector": 63026,
+        "infectee": 63132,
+        "date": "13/05/2021"
+    },
+    {
+        "infector": 63059,
+        "infectee": 63135,
+        "date": "13/05/2021"
+    },
+    {
+        "infector": 63100,
+        "infectee": 63136,
+        "date": "13/05/2021"
+    },
+    {
+        "infector": 63100,
+        "infectee": 63138,
+        "date": "13/05/2021"
+    },
+    {
+        "infector": "airport",
+        "infectee": 63139,
+        "date": "13/05/2021"
+    },
+    {
+        "infector": "airport",
+        "infectee": 63141,
+        "date": "13/05/2021"
+    },
+    {
+        "infector": "airport",
+        "infectee": 63146,
+        "date": "13/05/2021"
+    },
+    {
+        "infector": 63059,
+        "infectee": 63148,
+        "date": "13/05/2021"
+    },
+    {
+        "infector": 62873,
+        "infectee": 63149,
+        "date": "13/05/2021"
+    },
+    {
+        "infector": 63055,
+        "infectee": 63150,
+        "date": "13/05/2021"
+    },
+    {
+        "infector": 63074,
+        "infectee": 63150,
+        "date": "13/05/2021"
+    }
+]

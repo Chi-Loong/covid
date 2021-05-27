@@ -1,0 +1,103 @@
+[{
+        "id": 62627,
+        "age": 20,
+        "gender": "male",
+        "nationality": "India",
+        "occupation": "student",
+        "organization": "National University of Singapore",
+        "date": "30/04/2021",
+        "serology": "positive",
+        "vaccinated": "-"
+    },
+    {
+        "id": 62621,
+        "age": 33,
+        "gender": "female",
+        "nationality": "India",
+        "occupation": "homemaker",
+        "organization": "-",
+        "date": "30/04/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 62622,
+        "age": 4,
+        "gender": "female",
+        "nationality": "India",
+        "occupation": "child",
+        "organization": "-",
+        "date": "30/04/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 62629,
+        "age": 41,
+        "gender": "male",
+        "nationality": "Malaysia",
+        "occupation": "sales",
+        "organization": "New Odense Confectionery & Bakery",
+        "date": "30/04/2021",
+        "serology": "negative",
+        "vaccinated": "-"
+    },
+    {
+        "id": 62638,
+        "age": 26,
+        "gender": "female",
+        "nationality": "Singapore PR",
+        "occupation": "cleaner",
+        "organization": "Exceltec Property Management Pte Ltd",
+        "date": "30/04/2021",
+        "serology": "negative",
+        "vaccinated": "-"
+    },
+    {
+        "id": 62615,
+        "age": 41,
+        "gender": "female",
+        "nationality": "China",
+        "occupation": "cleaner",
+        "organization": "ISS Facility Services Pte Ltd, TTSH Ward 9D",
+        "date": "30/04/2021",
+        "serology": "negative",
+        "asymptomatic": "yes",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 62635,
+        "age": 77,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "patient",
+        "organization": "Tan Tock Seng Hospital Ward 9D",
+        "date": "30/04/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 62643,
+        "age": 65,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "patient",
+        "organization": "Tan Tock Seng Hospital Ward 9D",
+        "date": "30/04/2021",
+        "serology": "-",
+        "asymptomatic": "yes",
+        "vaccinated": "-"
+    },
+    {
+        "id": 62648,
+        "age": 36,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "doctor",
+        "organization": "National Neuroscience Institute",
+        "date": "30/04/2021",
+        "serology": "-",
+        "asymptomatic": "yes",
+        "vaccinated": "-"
+    }
+]

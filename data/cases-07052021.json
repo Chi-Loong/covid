@@ -1,0 +1,47 @@
+[{
+        "id": 62906,
+        "age": 58,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "unemployed",
+        "organization": "-",
+        "date": "07/05/2021",
+        "serology": "negative",
+        "vaccinated": "-"
+    },
+    {
+        "id": 62894,
+        "age": 48,
+        "gender": "male",
+        "nationality": "Singapore PR",
+        "occupation": "senior executive",
+        "organization": "IGWT Pte Ltd",
+        "date": "07/05/2021",
+        "serology": "-",
+        "asymptomatic": "yes",
+        "vaccinated": "-"
+    },
+    {
+        "id": 62925,
+        "age": 72,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "retiree",
+        "organization": "-",
+        "date": "07/05/2021",
+        "serology": "-",
+        "asymptomatic": "yes",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 62933,
+        "age": 53,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "cleaner",
+        "organization": "Park Avenue Rochester, SHN facility",
+        "date": "07/05/2021",
+        "serology": "-",
+        "vaccinated": "yes (2 doses)"
+    }
+]

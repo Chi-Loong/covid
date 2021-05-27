@@ -1,0 +1,102 @@
+[
+    {
+        "infector": 63131,
+        "infectee": 63184,
+        "date": "14/05/2021"
+    },
+    {
+        "infector": 63131,
+        "infectee": 63185,
+        "date": "14/05/2021"
+    },
+    {
+        "infector": 63131,
+        "infectee": 63186,
+        "date": "14/05/2021"
+    },
+    {
+        "infector": 63131,
+        "infectee": 63188,
+        "date": "14/05/2021"
+    },
+    {
+        "infector": 63122,
+        "infectee": 63221,
+        "date": "14/05/2021"
+    },
+    {
+        "infector": 63096,
+        "infectee": 63221,
+        "date": "14/05/2021"
+    },
+    {
+        "infector": "TTSH",
+        "infectee": 63168,
+        "date": "14/05/2021"
+    },
+    {
+        "infector": 63167,
+        "infectee": 63165,
+        "date": "14/05/2021"
+    },
+    {
+        "infector": "airport",
+        "infectee": 63167,
+        "date": "14/05/2021"
+    },
+    {
+        "infector": 63047,
+        "infectee": 63169,
+        "date": "14/05/2021"
+    },
+    {
+        "infector": 63059,
+        "infectee": 63177,
+        "date": "14/05/2021"
+    },
+    {
+        "infector": 63135,
+        "infectee": 63177,
+        "date": "14/05/2021"
+    },
+    {
+        "infector": "airport",
+        "infectee": 63178,
+        "date": "14/05/2021"
+    },
+    {
+        "infector": 63070,
+        "infectee": 63179,
+        "date": "14/05/2021"
+    },
+    {
+        "infector": 63070,
+        "infectee": 63180,
+        "date": "14/05/2021"
+    },
+    {
+        "infector": 63070,
+        "infectee": 63181,
+        "date": "14/05/2021"
+    },
+    {
+        "infector": "airport",
+        "infectee": 63191,
+        "date": "14/05/2021"
+    },
+    {
+        "infector": 63071,
+        "infectee": 63192,
+        "date": "14/05/2021"
+    },
+    {
+        "infector": 63055,
+        "infectee": 63194,
+        "date": "14/05/2021"
+    },
+    {
+        "infector": 63094,
+        "infectee": 63219,
+        "date": "14/05/2021"
+    }
+]

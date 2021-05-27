@@ -1,0 +1,24 @@
+[{
+        "id": 62873,
+        "age": 88,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "cleaner",
+        "organization": "Ramky Cleantech Services Pte Ltd, Changi Airport Terminal 3",
+        "date": "06/05/2021",
+        "serology": "-",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 62877,
+        "age": 22,
+        "gender": "male",
+        "nationality": "Singapore PR",
+        "occupation": "National Serviceman",
+        "organization": "SAF",
+        "date": "06/05/2021",
+        "serology": "negative",
+        "asymptomatic": "yes",
+        "vaccinated": "-"
+    }
+]

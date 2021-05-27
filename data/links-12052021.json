@@ -1,0 +1,57 @@
+[
+    {
+        "infector": 62969,
+        "infectee": 63092,
+        "date": "12/05/2021"
+    },
+    {
+        "infector": 63083,
+        "infectee": 63092,
+        "date": "12/05/2021"
+    },
+    {
+        "infector": "airport",
+        "infectee": 63091,
+        "date": "12/05/2021"
+    },
+    {
+        "infector": "airport",
+        "infectee": 63094,
+        "date": "12/05/2021"
+    },
+    {
+        "infector": "airport",
+        "infectee": 63095,
+        "date": "12/05/2021"
+    },
+    {
+        "infector": 62940,
+        "infectee": 63097,
+        "date": "12/05/2021"
+    },
+    {
+        "infector": "airport",
+        "infectee": 63098,
+        "date": "12/05/2021"
+    },
+    {
+        "infector": 62873,
+        "infectee": 63100,
+        "date": "12/05/2021"
+    },
+    {
+        "infector": "airport",
+        "infectee": 63109,
+        "date": "12/05/2021"
+    },
+    {
+        "infector": 62873,
+        "infectee": 63005,
+        "date": "12/05/2021"
+    },
+    {
+        "infector": "TTSH",
+        "infectee": 63104,
+        "date": "12/05/2021"
+    }
+]

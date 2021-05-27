@@ -1,0 +1,77 @@
+[
+    {
+        "infector": "TTSH",
+        "infectee": 62557,
+        "date": "29/04/2021"
+    },
+    {
+        "infector": "TTSH",
+        "infectee": 62599,
+        "date": "29/04/2021"
+    },
+    {
+        "infector": "TTSH",
+        "infectee": 62561,
+        "date": "29/04/2021"
+    },
+    {
+        "infector": "TTSH",
+        "infectee": 62567,
+        "date": "29/04/2021"
+    },
+    {
+        "infector": "TTSH",
+        "infectee": 62568,
+        "date": "29/04/2021"
+    },
+    {
+        "infector": "TTSH",
+        "infectee": 62573,
+        "date": "29/04/2021"
+    },
+    {
+        "infector": "TTSH",
+        "infectee": 62574,
+        "date": "29/04/2021"
+    },
+    {
+        "infector": "TTSH",
+        "infectee": 62582,
+        "date": "29/04/2021"
+    },
+    {
+        "infector": 62517,
+        "infectee": 62571,
+        "date": "29/04/2021"
+    },
+    {
+        "infector": 62517,
+        "infectee": 62572,
+        "date": "29/04/2021"
+    },
+    {
+        "infector": 62517,
+        "infectee": 62576,
+        "date": "29/04/2021"
+    },
+    {
+        "infector": 62517,
+        "infectee": 62583,
+        "date": "29/04/2021"
+    },
+    {
+        "infector": 62517,
+        "infectee": 62594,
+        "date": "29/04/2021"
+    },
+    {
+        "infector": 62517,
+        "infectee": 62595,
+        "date": "29/04/2021"
+    },
+    {
+        "infector": 62517,
+        "infectee": 62597,
+        "date": "29/04/2021"
+    }
+]

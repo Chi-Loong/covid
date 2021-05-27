@@ -1,0 +1,115 @@
+[{
+        "id": 62969,
+        "age": 38,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "private hire car driver",
+        "organization": "Grab",
+        "date": "09/05/2021",
+        "serology": "negative",
+        "variant": "B.1.617",
+        "vaccinated": "-"
+    },
+    {
+        "id": 62998,
+        "age": 40,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "risk assessment personnel",
+        "organization": "Lendlease Pte Ltd",
+        "date": "09/05/2021",
+        "serology": "negative",
+        "variant": "B.1.617",
+        "vaccinated": "-"
+    },
+    {
+        "id": 63005,
+        "age": 47,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "landscaper",
+        "organization": "NParks",
+        "date": "09/05/2021",
+        "serology": "negative",
+        "vaccinated": "partial (1 dose)"
+    },
+    {
+        "id": 62971,
+        "age": 51,
+        "gender": "female",
+        "nationality": "Work Permit holder",
+        "occupation": "cleaner",
+        "organization": "Ramky Cleantech Services Pte Ltd, Changi Airport Terminal 3",
+        "date": "09/05/2021",
+        "serology": "negative",
+        "vaccinated": "-"
+    },
+    {
+        "id": 62972,
+        "age": 57,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "aviation security officer",
+        "organization": "Certis Cisco, Changi Airport Terminal 3",
+        "date": "09/05/2021",
+        "serology": "negative",
+        "variant": "B.1.617",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 63015,
+        "age": 63,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "cleaner",
+        "organization": "Ramky Cleantech Services Pte Ltd, Changi Airport Terminal 3",
+        "date": "09/05/2021",
+        "serology": "-",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 63026,
+        "age": 66,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "SATS passenger escort",
+        "organization": "Changi Airport Terminal 3",
+        "date": "09/05/2021",
+        "serology": "-",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 63007,
+        "age": 52,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "patient",
+        "organization": "warded in Tan Tock Seng Hospital Ward 9D",
+        "date": "09/05/2021",
+        "serology": "negative",
+        "vaccinated": "-"
+    },
+    {
+        "id": 63008,
+        "age": 90,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "patient",
+        "organization": "warded in Tan Tock Seng Hospital Ward 9D",
+        "date": "09/05/2021",
+        "serology": "negative",
+        "asymptomatic": "yes",
+        "vaccinated": "-"
+    },
+    {
+        "id": 63009,
+        "age": 78,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "patient",
+        "organization": "warded in Tan Tock Seng Hospital Ward 9D",
+        "date": "09/05/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    }
+]

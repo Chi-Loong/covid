@@ -1,0 +1,12 @@
+[
+    {
+        "infector": "airport",
+        "infectee": 62873,
+        "date": "06/05/2021"
+    },
+    {
+        "infector": 62824,
+        "infectee": 62877,
+        "date": "06/05/2021"
+    }
+]

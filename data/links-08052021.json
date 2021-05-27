@@ -1,0 +1,37 @@
+[
+    {
+        "infector": "airport",
+        "infectee": 62940,
+        "date": "08/05/2021"
+    },
+    {
+        "infector": "airport",
+        "infectee": 62941,
+        "date": "08/05/2021"
+    },
+    {
+        "infector": "airport",
+        "infectee": 62942,
+        "date": "08/05/2021"
+    },
+    {
+        "infector": "airport",
+        "infectee": 62945,
+        "date": "08/05/2021"
+    },
+    {
+        "infector": 62824,
+        "infectee": 62938,
+        "date": "08/05/2021"
+    },
+    {
+        "infector": 62824,
+        "infectee": 62939,
+        "date": "08/05/2021"
+    },
+    {
+        "infector": 62877,
+        "infectee": 62939,
+        "date": "08/05/2021"
+    }
+]

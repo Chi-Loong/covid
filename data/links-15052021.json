@@ -1,0 +1,97 @@
+[
+    {
+        "infector": 63166,
+        "infectee": 63241,
+        "date": "15/05/2021"
+    },
+    {
+        "infector": 63183,
+        "infectee": 63249,
+        "date": "15/05/2021"
+    },
+    {
+        "infector": 63160,
+        "infectee": 63253,
+        "date": "15/05/2021"
+    },
+    {
+        "infector": 63187,
+        "infectee": 63251,
+        "date": "15/05/2021"
+    },
+    {
+        "infector": 63186,
+        "infectee": 63259,
+        "date": "15/05/2021"
+    },
+    {
+        "infector": 63186,
+        "infectee": 63268,
+        "date": "15/05/2021"
+    },
+    {
+        "infector": 63259,
+        "infectee": 63268,
+        "date": "15/05/2021"
+    },
+    {
+        "infector": 63122,
+        "infectee": 63256,
+        "date": "15/05/2021"
+    },
+    {
+        "infector": 63122,
+        "infectee": 63257,
+        "date": "15/05/2021"
+    },
+    {
+        "infector": "TTSH Ward 9D",
+        "infectee": 63248,
+        "date": "15/05/2021"
+    },
+    {
+        "infector": 63070,
+        "infectee": 63235,
+        "date": "15/05/2021"
+    },
+    {
+        "infector": 63091,
+        "infectee": 63238,
+        "date": "15/05/2021"
+    },
+    {
+        "infector": 63071,
+        "infectee": 63239,
+        "date": "15/05/2021"
+    },
+    {
+        "infector": 63071,
+        "infectee": 63240,
+        "date": "15/05/2021"
+    },
+    {
+        "infector": 63178,
+        "infectee": 63242,
+        "date": "15/05/2021"
+    },
+    {
+        "infector": 63178,
+        "infectee": 63243,
+        "date": "15/05/2021"
+    },
+    {
+        "infector": 63242,
+        "infectee": 63243,
+        "date": "15/05/2021"
+    },
+    {
+        "infector": 63195,
+        "infectee": 63252,
+        "date": "15/05/2021"
+    },
+    {
+        "infector": "airport",
+        "infectee": 63255,
+        "date": "15/05/2021"
+    }
+]

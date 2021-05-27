@@ -1,0 +1,52 @@
+[
+    {
+        "infector": 62571,
+        "infectee": 62779,
+        "date": "03/05/2021"
+    },
+    {
+        "infector": 62571,
+        "infectee": 62780,
+        "date": "03/05/2021"
+    },
+    {
+        "infector": "TTSH",
+        "infectee": 62786,
+        "date": "03/05/2021"
+    },
+    {
+        "infector": "TTSH",
+        "infectee": 62787,
+        "date": "03/05/2021"
+    },
+    {
+        "infector": "TTSH",
+        "infectee": 62791,
+        "date": "03/05/2021"
+    },
+    {
+        "infector": "TTSH",
+        "infectee": 62794,
+        "date": "03/05/2021"
+    },
+    {
+        "infector": "TTSH",
+        "infectee": 62795,
+        "date": "03/05/2021"
+    },
+    {
+        "infector": "TTSH",
+        "infectee": 62781,
+        "date": "03/05/2021"
+    },
+    {
+        "infector": "TTSH",
+        "infectee": 62784,
+        "date": "03/05/2021"
+    },
+    {
+        "infector": "TTSH",
+        "infectee": 62790,
+        "date": "03/05/2021"
+    }
+]

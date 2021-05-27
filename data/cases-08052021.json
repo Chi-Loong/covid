@@ -1,0 +1,82 @@
+[{
+        "id": 62937,
+        "age": 40,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "operations assistant",
+        "organization": "Batamindo Shipping & Warehousing Pte Ltd, Keppel Distripark",
+        "date": "08/05/2021",
+        "serology": "positive",
+        "asymptomatic": "yes",
+        "vaccinated": "-"
+    },
+    {
+        "id": 62940,
+        "age": 47,
+        "gender": "male",
+        "nationality": "Work Permit holder",
+        "occupation": "cleaner",
+        "organization": "Ramky Cleantech Services Pte Ltd, Changi Airport Terminal 3",
+        "date": "08/05/2021",
+        "serology": "positive",
+        "asymptomatic": "yes",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 62941,
+        "age": 18,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "student",
+        "organization": "Victoria Junior College",
+        "date": "08/05/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 62942,
+        "age": 33,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "safety coordinator",
+        "organization": "Shimizu Corporation, Changi Airport Terminal 3",
+        "date": "08/05/2021",
+        "serology": "negative",
+        "vaccinated": "-"
+    },
+    {
+        "id": 62945,
+        "age": 57,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "aviation security officer",
+        "organization": "Certis Cisco, Changi Airport Terminal 1 and 3",
+        "date": "08/05/2021",
+        "serology": "-",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 62938,
+        "age": 27,
+        "gender": "male",
+        "nationality": "Work Permit holder",
+        "occupation": "car groomer",
+        "organization": "BlackNano Pte Ltd",
+        "date": "08/05/2021",
+        "serology": "negative",
+        "asymptomatic": "yes",
+        "vaccinated": "-"
+    },
+    {
+        "id": 62939,
+        "age": 54,
+        "gender": "male",
+        "nationality": "Singapore PR",
+        "occupation": "car mechanic",
+        "organization": "Jag Technical Service Pte Ltd",
+        "date": "08/05/2021",
+        "serology": "negative",
+        "asymptomatic": "yes",
+        "vaccinated": "yes (2 doses)"
+    }
+]

@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="SG Covid Case Clusters">
+    <meta name="author" content="Chi-Loong (www.vslashr.com)">
+    <meta name="google-site-verification" content="..." />
+    
+    <meta property="og:title" content="SG Covid Case Clusters">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://covid.viz.sg">
+    <meta property="og:image" content="https://covid.viz.sg/img/covid_opengraph.png">
+    <meta property="og:image:width" content="1381" />
+    <meta property="og:image:height" content="868" />
+    <meta property="og:description" content="SG Covid Case Clusters. A graph-based dashboard that allows a more intuitive, easier way to see case relationships and spread since the start of the 2nd wave.">
+
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@vslashr" />
+    <meta name="twitter:creator" content="@chiloong" />
+    
+    <link rel="icon" href="/favicon.ico">
+    <title>SG Covid Case Clusters</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-9">
+        <div id="graph"></div>
+    </div>
+    <div class="col-lg-3">
+        
+        <h4 class="text-center display-6 px-3 py-3">SG Covid Case Clusters</h4>
+        <p class="text-center">Last updated data set: <span id="casecount"><span></p>
+        
+        <div class="btn-group" role="group" aria-label="">
+          <input type="radio" class="btn-check" name="btnradio" id="dateSelect" autocomplete="off" checked>
+          <label class="btn btn-outline-secondary btn-sm" for="dateSelect">Date</label>
+
+          <input type="radio" class="btn-check" name="btnradio" id="ageSelect" autocomplete="off">
+          <label class="btn btn-outline-secondary btn-sm" for="ageSelect">Age</label>
+
+          <input type="radio" class="btn-check" name="btnradio" id="genderSelect" autocomplete="off">
+          <label class="btn btn-outline-secondary btn-sm" for="genderSelect">Gender</label>
+          
+          <input type="radio" class="btn-check" name="btnradio" id="vaccineSelect" autocomplete="off">
+          <label class="btn btn-outline-secondary btn-sm" for="vaccineSelect">Vaccinated</label>
+          
+          <input type="radio" class="btn-check" name="btnradio" id="asymptomaticSelect" autocomplete="off">
+          <label class="btn btn-outline-secondary btn-sm" for="asymptomaticSelect">Asymptomatic</label>
+        </div>
+        
+        <div>
+            <img id="legend" src="img/legend_date.png"/>
+        </div>
+        
+        <h5 class="text-center px-3 py-3" id="caseInfoText">Case info (<span style="color:#00f">selected</span>)</h5>
+        <table class="table small">
+          <tbody>
+            <tr>
+              <td style="width:40%">Case</td>
+              <td id="case">-</td>
+            </tr>
+            <tr>
+              <td style="width:40%">Age</td>
+              <td id="age">-</td>
+            </tr>
+            <tr>
+              <td style="width:40%">Gender</td>
+              <td id="gender">-</td>
+            </tr>
+            <tr>
+              <td style="width:40%">Occupation</td>
+              <td id="occupation">-</td>
+            </tr>
+            <tr>
+              <td style="width:40%">Organization</td>
+              <td id="organization">-</td>
+            </tr>
+            <tr>
+              <td style="width:40%">Date recorded</td>
+              <td id="date_recorded">-</td>
+            </tr>
+            <tr>
+              <td style="width:40%">Vaccinated</td>
+              <td id="vaccinated">-</td>
+            </tr>
+            <tr>
+              <td style="width:40%">Asymptomatic (when recorded)</td>
+              <td id="asymptomatic">-</td>
+            </tr>
+          </tbody>
+        </table>
+        
+        <div class="input-group rounded">
+          <input type="search" class="form-control rounded" placeholder="Search Case ID" aria-label="Search" id="searchField"/>
+          <div class="input-group-append">
+            <button type="submit" id="searchSubmit" class="btn btn-secondary" type="button"><img src="img/magnifying-glass.svg" width="15"/></button>
+          </div>
+        </div>
+        <hr/>
+            
+        <p class="text-center small">Not designed for mobile. For desktop.</p>
+        <p class="text-center small">Data set starts from 28th April onwards. Community cases only. Updated when detailed data is released late every night, and only reflects what is stated in press release.</p>
+        <p class="text-center small">Click or search to select case. Use scrollwheel to zoom. Drag background to pan.</p>
+        <h6 class="text-center">Data: <a href="https://www.moh.gov.sg/covid-19">MOH Covid-19 Site</a></h6>
+        <h6 class="text-center"><a href="about.html">More about this piece</a></h6>
+        <p class="text-center small">Chi-Loong | Supported by <a href="https://better.sg/" target="_blank"><img src="img/bettersg-logo.png" width="50"/></a></p>
+        <div>
+        </div>
+    </div>
+  </div>
+</div>
+    
+<script src="https://d3js.org/d3.v6.min.js"></script>
+<script src="js/main.js"></script>
+
+    <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-38155188-1']);
+    _gaq.push(['_trackPageview']);
+    (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+    </script>
+    
+</body>
+</html>

@@ -1,0 +1,80 @@
+[{
+        "id": 62685,
+        "age": 19,
+        "gender": "female",
+        "nationality": "Singapore PR",
+        "occupation": "student",
+        "organization": "Singapore Management University",
+        "date": "01/05/2021",
+        "serology": "positive",
+        "asymptomatic": "yes",
+        "vaccinated": "-"
+    },
+    {
+        "id": 62686,
+        "age": 22,
+        "gender": "female",
+        "nationality": "Malaysia",
+        "occupation": "spa therapist",
+        "organization": "Spa 9 (41 Holland Drive)",
+        "date": "01/05/2021",
+        "serology": "negative",
+        "vaccinated": "-"
+    },
+    {
+        "id": 62688,
+        "age": 50,
+        "gender": "female",
+        "nationality": "Singapore PR",
+        "occupation": "manager",
+        "organization": "DIC Asia Pacific Pte Ltd",
+        "date": "01/05/2021",
+        "serology": "negative",
+        "vaccinated": "-"
+    },
+    {
+        "id": 62690,
+        "age": 15,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "student",
+        "organization": "Edgefield Secondary School",
+        "date": "01/05/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 62680,
+        "age": 86,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "spouse of patient",
+        "organization": "Tan Tock Seng Hospital Ward 9D",
+        "date": "01/05/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 62687,
+        "age": 70,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "patient",
+        "organization": "Tan Tock Seng Hospital Ward 9D",
+        "date": "01/05/2021",
+        "serology": "negative",
+        "vaccinated": "-"
+    },
+    {
+        "id": 62697,
+        "age": 74,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "patient",
+        "organization": "Tan Tock Seng Hospital Ward 9D",
+        "date": "01/05/2021",
+        "serology": "-",
+        "asymptomatic": "yes",
+        "vaccinated": "-"
+    }
+]

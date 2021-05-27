@@ -1,0 +1,34 @@
+.rectBackground {
+  fill: #efefef;
+  stroke: #000;
+  stroke-width: 2px;
+}
+
+.link {
+  fill: none;
+  stroke: #666;
+  stroke-width: 1.5px;
+}
+
+.link.selected {
+  stroke: #0ff;
+}
+
+#selectedLink {
+  fill: #0ff;
+}
+
+.node {
+  stroke: #000;
+  stroke-width: 1px;
+}
+
+.node.selected {
+  stroke: #0ff;
+  stroke-width: 2px;
+}
+
+.node.clicked {
+  stroke: #00f;
+  stroke-width: 8px;
+}

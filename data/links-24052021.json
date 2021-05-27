@@ -1,0 +1,121 @@
+[{
+        "infector": 63160,
+        "infectee": 63680,
+        "date": "24/05/2021"
+    },
+    {
+        "infector": "JEM",
+        "infectee": 63665,
+        "date": "24/05/2021"
+    },
+    {
+        "infector": "JEM",
+        "infectee": 63664,
+        "date": "24/05/2021"
+    },
+    {
+        "infector": 63664,
+        "infectee": 63665,
+        "date": "24/05/2021"
+    },
+    {
+        "infector": "JEM",
+        "infectee": 63652,
+        "date": "24/05/2021"
+    },
+    {
+        "infector": "JEM",
+        "infectee": 63653,
+        "date": "24/05/2021"
+    },
+    {
+        "infector": 63678,
+        "infectee": 63675,
+        "date": "24/05/2021"
+    },
+    {
+        "infector": "JEM",
+        "infectee": 63678,
+        "date": "24/05/2021"
+    },
+    {
+        "infector": 63184,
+        "infectee": 63663,
+        "date": "24/05/2021"
+    },
+    {
+        "infector": 63282,
+        "infectee": 63667,
+        "date": "24/05/2021"
+    },
+    {
+        "infector": 63320,
+        "infectee": 63679,
+        "date": "24/05/2021"
+    },
+    {
+        "infector": 63534,
+        "infectee": 63629,
+        "date": "24/05/2021"
+    },
+    {
+        "infector": 63535,
+        "infectee": 63629,
+        "date": "24/05/2021"
+    },
+    {
+        "infector": 63629,
+        "infectee": 63668,
+        "date": "24/05/2021"
+    },
+    {
+        "infector": "MacD",
+        "infectee": 63669,
+        "date": "24/05/2021"
+    },
+    {
+        "infector": "MacD",
+        "infectee": 63676,
+        "date": "24/05/2021"
+    },
+    {
+        "infector": "MacD",
+        "infectee": 63682,
+        "date": "24/05/2021"
+    },
+    {
+        "infector": 63009,
+        "infectee": 63630,
+        "date": "24/05/2021"
+    },
+    {
+        "infector": 63621,
+        "infectee": 63641,
+        "date": "24/05/2021"
+    },
+    {
+        "infector": 63376,
+        "infectee": 63681,
+        "date": "24/05/2021"
+    },
+    {
+        "infector": 63515,
+        "infectee": 63654,
+        "date": "24/05/2021"
+    },
+    {
+        "infector": 63446,
+        "infectee": 63656,
+        "date": "24/05/2021"
+    },
+    {
+        "infector": 63507,
+        "infectee": 63677,
+        "date": "24/05/2021"
+    },
+    {
+        "infector": "MacD",
+        "infectee": 63534,
+        "date": "21/05/2021"
+    }
+]
