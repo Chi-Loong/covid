@@ -1,4 +1,84 @@
 [{
+        "infector": 63526,
+        "infectee": 63751,
+        "date": "27/05/2021"
+    },
+    {
+        "infector": 63507,
+        "infectee": 63760,
+        "date": "27/05/2021"
+    },
+    {
+        "infector": 63740,
+        "infectee": 63760,
+        "date": "27/05/2021"
+    },
+    {
+        "infector": 63507,
+        "infectee": 63761,
+        "date": "27/05/2021"
+    },
+    {
+        "infector": 63507,
+        "infectee": 63765,
+        "date": "27/05/2021"
+    },
+    {
+        "infector": 63579,
+        "infectee": 63758,
+        "date": "27/05/2021"
+    },
+    {
+        "infector": 63579,
+        "infectee": 63759,
+        "date": "27/05/2021"
+    },
+    {
+        "infector": 63579,
+        "infectee": 63762,
+        "date": "27/05/2021"
+    },
+    {
+        "infector": 63721,
+        "infectee": 63752,
+        "date": "27/05/2021"
+    },
+    {
+        "infector": 63748,
+        "infectee": 63752,
+        "date": "27/05/2021"
+    },
+    {
+        "infector": 63446,
+        "infectee": 63773,
+        "date": "27/05/2021"
+    },
+    {
+        "infector": 63656,
+        "infectee": 63773,
+        "date": "27/05/2021"
+    },
+    {
+        "infector": 63708,
+        "infectee": 63756,
+        "date": "27/05/2021"
+    },
+    {
+        "infector": 63709,
+        "infectee": 63756,
+        "date": "27/05/2021"
+    },
+    {
+        "infector": 63623,
+        "infectee": 63764,
+        "date": "27/05/2021"
+    },
+    {
+        "infector": 63575,
+        "infectee": 63766,
+        "date": "27/05/2021"
+    },
+    {
         "infector": 63160,
         "infectee": 63731,
         "date": "26/05/2021"
