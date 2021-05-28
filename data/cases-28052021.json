@@ -1,0 +1,168 @@
+[{
+        "id": 63778,
+        "age": 28,
+        "gender": "male",
+        "nationality": "Malaysia",
+        "occupation": "delivery rider",
+        "organization": "I-VIC Logistic Pte Ltd, McDonald's(Hougang Aveneue 8)",
+        "date": "28/05/2021",
+        "serology": "positive",
+        "vaccinated": "-"
+    },
+    {
+        "id": 63805,
+        "age": 38,
+        "gender": "female",
+        "nationality": "Singapore PR",
+        "occupation": "-",
+        "organization": "Sri Murugan Trading Pte Ltd (Anchorvale)",
+        "date": "28/05/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 63806,
+        "age": 49,
+        "gender": "male",
+        "nationality": "Singapore PR",
+        "occupation": "manager",
+        "organization": "Success Consultancy Pte Ltd",
+        "date": "28/05/2021",
+        "serology": "negative",
+        "vaccinated": "partial (1 dose)"
+    },
+    {
+        "id": 63809,
+        "age": 62,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "retiree",
+        "organization": "-",
+        "date": "28/05/2021",
+        "serology": "-",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 63775,
+        "age": 55,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "senior officer",
+        "organization": "NParks",
+        "date": "28/05/2021",
+        "serology": "-",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 63777,
+        "age": 23,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "waiter",
+        "organization": "Royz Et Vouz (39 Sultan Gate)",
+        "date": "28/05/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 63798,
+        "age": 10,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "student",
+        "organization": "Lee Kong Chian Gardens School",
+        "date": "28/05/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 63799,
+        "age": 37,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "part-time cleaner",
+        "organization": "ABBA Maintenance Pte Ltd",
+        "date": "28/05/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 63802,
+        "age": 12,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "student",
+        "organization": "New Town Primary School",
+        "date": "28/05/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 63791,
+        "age": 33,
+        "gender": "male",
+        "nationality": "Malaysia",
+        "occupation": "kitchen assistant",
+        "organization": "Pano Kato Grill, Pizza & Dell",
+        "date": "28/05/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 63793,
+        "age": 40,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "-",
+        "organization": "Wanderloft Capsule Hotel",
+        "date": "28/05/2021",
+        "serology": "-",
+        "asymptomatic": "yes",
+        "vaccinated": "-"
+    },
+    {
+        "id": 63796,
+        "age": 21,
+        "gender": "male",
+        "nationality": "Malaysia",
+        "occupation": "packer",
+        "organization": "DM Wines Pte Ltd",
+        "date": "28/05/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 63794,
+        "age": 33,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "manager",
+        "organization": "CIMB Bank (Raffles Branch)",
+        "date": "28/05/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 63804,
+        "age": 56,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "-",
+        "organization": "Chai & Chai Trading",
+        "date": "28/05/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 63776,
+        "age": 26,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "administrative staff",
+        "organization": "SingTel",
+        "date": "28/05/2021",
+        "serology": "-",
+        "asymptomatic": "yes",
+        "vaccinated": "-"
+    }
+]
