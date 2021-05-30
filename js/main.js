@@ -2,7 +2,7 @@ let selection = "date";
 let selectedCase = {"id": "-", "age": "-", "gender": "-", "nationality": "-", "occupation": "-", "organization": "-", "date": "-", "vaccinated": "-"};
 let dateFormat = d3.timeParse("%d/%m/%Y");
 let dateScale = d3.scaleLinear()
-  .domain([dateFormat("28/04/2021"), dateFormat("14/05/2021"), dateFormat("28/05/2021")])
+  .domain([dateFormat("28/04/2021"), dateFormat("16/05/2021"), dateFormat("30/05/2021")])
   .range(["#aaa", "#aaa", "#f00"]);
 
 let ageScale = d3.scaleQuantize([0, 90], d3.schemeSpectral[9]);
@@ -127,9 +127,11 @@ let circle = nodes.append("circle")
         });
     })
     .on("click", (event,d) => {
-        d3.select("#case_" + selectedCase.id)
+        d3.selectAll(".node")
         .classed("clicked", false);
         
+        console.log("clicked", d);
+
         if (d.id == selectedCase.id) {
             selectedCase = {"id": "-", "age": "-", "gender": "-", "nationality": "-", "occupation": "-", "organization": "-", "date": "-", "vaccinated": "-"};
         } else {
@@ -235,28 +237,39 @@ d3.select("#asymptomaticSelect").on("click", (event,d)=> {
 
 d3.select("#searchSubmit").on("click", (event,d)=> {
     let caseId = d3.select("#searchField").node().value;
-    let caseResult = data[1].find(d => d.id == caseId);
-    if (caseResult != null) {
-        d3.select("#case_" + selectedCase.id)
+    let regex = new RegExp(caseId.toLowerCase());
+
+    let caseResult = data[1].filter(d => regex.test(d.id) || regex.test(d.occupation.toLowerCase()) || regex.test(d.organization.toLowerCase()));
+    
+    if (caseResult.length > 0) {
+        
+        d3.selectAll(".node")
         .classed("clicked", false);
         
-        d3.select("#case").text(caseResult.id);
-        d3.select("#age").text(caseResult.age);
-        d3.select("#gender").text(caseResult.gender);
-        d3.select("#occupation").text(caseResult.occupation);
-        d3.select("#organization").text(caseResult.organization);
-        d3.select("#date_recorded").text( () => {
-            if (caseResult.date == "-") return "-";
-            else return d3.timeFormat("%d %b %Y, %a")(dateFormat(caseResult.date));
-        });
-        d3.select("#vaccinated").text(caseResult.vaccinated);
+        caseResult.forEach(e => {
+            d3.select("#case_" + e.id)
+                .classed("clicked", true);
+        })
+
+        if (caseResult.length == 1) {
+            d3.select("#case").text(caseResult[0].id);
+            d3.select("#age").text(caseResult[0].age);
+            d3.select("#gender").text(caseResult[0].gender);
+            d3.select("#occupation").text(caseResult[0].occupation);
+            d3.select("#organization").text(caseResult[0].organization);
+            d3.select("#date_recorded").text( () => {
+                if (caseResult.date == "-") return "-";
+                else return d3.timeFormat("%d %b %Y, %a")(dateFormat(caseResult[0].date));
+            });
+            d3.select("#vaccinated").text(caseResult[0].vaccinated);
+
+            selectedCase = caseResult[0];
+        } else {
+            selectedCase = {"id": "-", "age": "-", "gender": "-", "nationality": "-", "occupation": "-", "organization": "-", "date": "-", "vaccinated": "-"};
+        }
         
-        d3.select("#case_" + caseId)
-        .classed("clicked", true);
-        
-        selectedCase = caseResult;
     } else {
-        alert("Case " + caseId + " not found");
+        alert("String: " + caseId + " not found");
     }
 });
 
