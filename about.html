@@ -27,7 +27,7 @@
 
 <div class="container">
   <h1 class="text-center display-4 px-5 py-3">SG Covid Case Clusters</h1>
-  <p class="text-center"><i>Chi-Loong, Updated 26th May 2021</i></p>
+  <p class="text-center"><i>Chi-Loong, Updated 30th May 2021</i></p>
   
   <div class="row">
     <div class="col-md-12">
@@ -51,11 +51,12 @@
         <p>A big kudos goes to them though for the amount of detail that goes into their daily press releases, which has detailed case notes for each community case that day.</p>
         <p>Our media takes the data from here and covered stories on how the clusters grew, for example this <a href="https://www.channelnewsasia.com/news/singapore/covid-19-changi-airport-cluster-timeline-14855936" target="_blank">detailed airport timeline</a> by Channel News Asia (CNA).</p>
         <p>They also did some nice <a href="https://www.channelnewsasia.com/news/singapore/covid-19-changi-airport-cluster-household-contacts-b1617-variant-14787262" target="_blank">non-interactive graphical tree charts</a> just about a week back, but I think there may be too many cases to do this easily in a manual way going forward.</p>
-        <p>And here is where technology and a bit of manual data entry can help. By indexing all the recent cases and building template dashboard, we can create a community case cluster graph visualization that:</p>
+        <p>And here is where technology and a bit of manual data entry can help. By indexing all the recent cases and building a template dashboard, we can create a community case cluster graph visualization that:</p>
         <ul>
             <li>is far easier to update than manually drawing out the clusters</li>
             <li>allows us, at a glance, to intuitively get case relationship insights</li>
             <li>allows us to search and find each case by ID in the dataset (tedious and difficult on the MOH site).</li>
+            <li>allows us to search and find cases via occupation or organization. E.g. searching "cleaner" highlights all cases tagged with "cleaner"</li>
         </ul>
     </div>
   </div>
@@ -112,6 +113,7 @@
         <p>Data will be updated whenever MOH releases the detailed case data, which tends to be really late at night daily.</p>
         <p>For future work, the most important thing would be to update the data daily when it comes in.</p>
         <p>Beyond that, there are other datasets that can be visualized to get insights, e.g. by nationality, by occupation, etc.</p>
+        <p>I would also like to do perhaps a timeline animation, and also remove cases / clusters that are older than 28 days (but allow viewers to view part work).</p>
         <p>Unfortunately, as I am the only solo developer for this passion project, my first priority is transcribing the data, then any new features when I have time.</p>
     </div>
   </div>
@@ -121,7 +123,8 @@
     <div class="col-md-12">
         <h4>Shameless plugs</h4>
         <p>If you’re interested in visualizations in Singapore, check out <a href="https://viz.sg/" target="_blank">viz.sg</a>, the local data viz community website! 
-        <p>Also check out <a href="https://www.vslashr.com/" target="_blank">V/R</a>.</p>
+        <p>Also check out <a href="https://www.vslashr.com/" target="_blank">V/R</a>, my visualization studio.</p>
+        <p>If you've read this far you might be interested in this <a href="https://showcase.vslashr.com/virus/" target="_blank">virus simulation explorer</a> that I wrote.</p>
         <p>Join our local SG data viz meetup communities:</p>
         <ul>
             <li><a href="https://www.meetup.com/Data-Vis-Singapore/" target="_blank">Data Viz SG</a></li>
