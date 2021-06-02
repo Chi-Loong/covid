@@ -53,5 +53,10 @@
         "infector": 62873,
         "infectee": 62941,
         "date": "11/05/2021"
+    },
+    {
+        "infector": "Bunker Tanker",
+        "infectee": 63078,
+        "date": "11/05/2021"
     }
 ]

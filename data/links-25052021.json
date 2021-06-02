@@ -1,40 +1,5 @@
 [
     {
-        "infector": 62621,
-        "infectee": 62622,
-        "date": "25/05/2021"
-    },
-    {
-        "infector": "airport",
-        "infectee": 63464,
-        "date": "25/05/2021"
-    },
-    {
-        "infector": "airport",
-        "infectee": 63345,
-        "date": "25/05/2021"
-    },
-    {
-        "infector": "airport",
-        "infectee": 63195,
-        "date": "25/05/2021"
-    },
-    {
-        "infector": "airport",
-        "infectee": 63140,
-        "date": "25/05/2021"
-    },
-    {
-        "infector": "airport",
-        "infectee": 63120,
-        "date": "25/05/2021"
-    },
-    {
-        "infector": "airport",
-        "infectee": 63096,
-        "date": "25/05/2021"
-    },
-    {
         "infector": 63660,
         "infectee": 63661,
         "date": "25/05/2021"

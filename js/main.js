@@ -2,10 +2,10 @@ let selection = "date";
 let selectedCase = {"id": "-", "age": "-", "gender": "-", "nationality": "-", "occupation": "-", "organization": "-", "date": "-", "vaccinated": "-"};
 let dateFormat = d3.timeParse("%d/%m/%Y");
 let dateScale = d3.scaleLinear()
-  .domain([dateFormat("28/04/2021"), dateFormat("16/05/2021"), dateFormat("31/05/2021")])
-  .range(["#aaa", "#aaa", "#f00"]);
+  .domain([dateFormat("05/05/2021"), dateFormat("17/05/2021"), dateFormat("02/06/2021")])
+  .range(["#aaa", "#ff0", "#f00"]);
 
-let ageScale = d3.scaleQuantize([0, 90], d3.schemeSpectral[9]);
+let ageScale = d3.scaleQuantize([0, 90], d3.schemeRdBu[9]);
 let genderScale = d3.scaleOrdinal(["male", "female"], ["steelblue", "pink"]);
 let vaccineScale = d3.scaleOrdinal(["-", "partial (1 dose)", "yes (2 doses)"], ["#aaa", "yellow", "green"]);
 let asymptomaticScale = d3.scaleOrdinal(["-", "yes"], ["#aaa", "blueviolet"]);

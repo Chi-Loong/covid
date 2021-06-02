@@ -1,4 +1,14 @@
 [{
+        "infector": 63446,
+        "infectee": 63866,
+        "date": "30/05/2021"
+    },
+    {
+        "infector": 63446,
+        "infectee": 63867,
+        "date": "30/05/2021"
+    },
+    {
         "infector": 63853,
         "infectee": 63883,
         "date": "30/05/2021"

@@ -639,6 +639,11 @@
         "date": "26/05/2021"
     },
     {
+        "infector": 62621,
+        "infectee": 62622,
+        "date": "25/05/2021"
+    },
+    {
         "infector": "airport",
         "infectee": 63464,
         "date": "25/05/2021"
@@ -2344,6 +2349,16 @@
         "date": "04/05/2021"
     },
     {
+        "infector": 62571,
+        "infectee": 62779,
+        "date": "03/05/2021"
+    },
+    {
+        "infector": 62571,
+        "infectee": 62780,
+        "date": "03/05/2021"
+    },
+    {
         "infector": "TTSH",
         "infectee": 62786,
         "date": "03/05/2021"
@@ -2382,6 +2397,16 @@
         "infector": "TTSH",
         "infectee": 62790,
         "date": "03/05/2021"
+    },
+    {
+        "infector": 62638,
+        "infectee": 62760,
+        "date": "02/05/2021"
+    },
+    {
+        "infector": 62517,
+        "infectee": 62757,
+        "date": "02/05/2021"
     },
     {
         "infector": "TTSH",
@@ -2439,6 +2464,11 @@
         "date": "02/05/2021"
     },
     {
+        "infector": 62571,
+        "infectee": 62780,
+        "date": "01/05/2021"
+    },
+    {
         "infector": "TTSH",
         "infectee": 62687,
         "date": "01/05/2021"
@@ -2449,12 +2479,22 @@
         "date": "01/05/2021"
     },
     {
+        "infector": 62553,
+        "infectee": 62629,
+        "date": "30/04/2021"
+    },
+    {
         "infector": "TTSH",
         "infectee": 62680,
         "date": "01/05/2021"
     },
     {
-        "infector": "TTSH",
+        "infector": 62553,
+        "infectee": 62638,
+        "date": "30/04/2021"
+    },
+    {
+        "infector": 62541,
         "infectee": 62615,
         "date": "30/04/2021"
     },
@@ -2511,6 +2551,41 @@
     {
         "infector": "TTSH",
         "infectee": 62582,
+        "date": "29/04/2021"
+    },
+    {
+        "infector": 62517,
+        "infectee": 62571,
+        "date": "29/04/2021"
+    },
+    {
+        "infector": 62517,
+        "infectee": 62572,
+        "date": "29/04/2021"
+    },
+    {
+        "infector": 62517,
+        "infectee": 62576,
+        "date": "29/04/2021"
+    },
+    {
+        "infector": 62517,
+        "infectee": 62583,
+        "date": "29/04/2021"
+    },
+    {
+        "infector": 62517,
+        "infectee": 62594,
+        "date": "29/04/2021"
+    },
+    {
+        "infector": 62517,
+        "infectee": 62595,
+        "date": "29/04/2021"
+    },
+    {
+        "infector": 62517,
+        "infectee": 62597,
         "date": "29/04/2021"
     },
     {

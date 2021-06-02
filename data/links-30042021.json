@@ -1,5 +1,10 @@
 [
     {
+        "infector": 62621,
+        "infectee": 62622,
+        "date": "30/04/2021"
+    },
+    {
         "infector": 62553,
         "infectee": 62629,
         "date": "30/04/2021"
@@ -27,6 +32,16 @@
     {
         "infector": "TTSH",
         "infectee": 62648,
+        "date": "30/04/2021"
+    },
+    {
+        "infector": 61993,
+        "infectee": 62621,
+        "date": "30/04/2021"
+    },
+    {
+        "infector": 61993,
+        "infectee": 62622,
         "date": "30/04/2021"
     }
 ]

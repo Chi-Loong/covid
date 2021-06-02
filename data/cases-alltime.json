@@ -6004,6 +6004,30 @@
         "vaccinated": "-"
     },
     {
+        "id": 62779,
+        "age": 37,
+        "gender": "female",
+        "nationality": "Philippines",
+        "occupation": "homemaker",
+        "organization": "-",
+        "date": "03/05/2021",
+        "serology": "negative",
+        "asymptomatic": "yes",
+        "vaccinated": "-"
+    },
+    {
+        "id": 62780,
+        "age": 3,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "child",
+        "organization": "-",
+        "date": "03/05/2021",
+        "serology": "-",
+        "asymptomatic": "yes",
+        "vaccinated": "-"
+    },
+    {
         "id": 62786,
         "age": 82,
         "gender": "female",
@@ -6092,6 +6116,41 @@
         "organization": "Tan Tock Seng Hospital Ward 9D",
         "date": "03/05/2021",
         "serology": "negative",
+        "asymptomatic": "yes",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 62734,
+        "age": 37,
+        "gender": "female",
+        "nationality": "India",
+        "occupation": "foreign domestic worker",
+        "organization": "-",
+        "date": "02/05/2021",
+        "serology": "positive",
+        "asymptomatic": "yes",
+        "vaccinated": "-"
+    },
+    {
+        "id": 62760,
+        "age": 53,
+        "gender": "female",
+        "nationality": "Malaysia",
+        "occupation": "hairstylist",
+        "organization": "Me To Do Studio (883 Woodlands Street 82)",
+        "date": "02/05/2021",
+        "serology": "negative",
+        "vaccinated": "-"
+    },
+    {
+        "id": 62757,
+        "age": 32,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "ICA officer",
+        "organization": "Home Team Academy",
+        "date": "02/05/2021",
+        "serology": "-",
         "asymptomatic": "yes",
         "vaccinated": "yes (2 doses)"
     },
@@ -6223,6 +6282,51 @@
         "vaccinated": "-"
     },
     {
+        "id": 62685,
+        "age": 19,
+        "gender": "female",
+        "nationality": "Singapore PR",
+        "occupation": "student",
+        "organization": "Singapore Management University",
+        "date": "01/05/2021",
+        "serology": "positive",
+        "asymptomatic": "yes",
+        "vaccinated": "-"
+    },
+    {
+        "id": 62686,
+        "age": 22,
+        "gender": "female",
+        "nationality": "Malaysia",
+        "occupation": "spa therapist",
+        "organization": "Spa 9 (41 Holland Drive)",
+        "date": "01/05/2021",
+        "serology": "negative",
+        "vaccinated": "-"
+    },
+    {
+        "id": 62688,
+        "age": 50,
+        "gender": "female",
+        "nationality": "Singapore PR",
+        "occupation": "manager",
+        "organization": "DIC Asia Pacific Pte Ltd",
+        "date": "01/05/2021",
+        "serology": "negative",
+        "vaccinated": "-"
+    },
+    {
+        "id": 62690,
+        "age": 15,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "student",
+        "organization": "Edgefield Secondary School",
+        "date": "01/05/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
         "id": 62680,
         "age": 86,
         "gender": "female",
@@ -6254,6 +6358,61 @@
         "date": "01/05/2021",
         "serology": "-",
         "asymptomatic": "yes",
+        "vaccinated": "-"
+    },
+    {
+        "id": 62627,
+        "age": 20,
+        "gender": "male",
+        "nationality": "India",
+        "occupation": "student",
+        "organization": "National University of Singapore",
+        "date": "30/04/2021",
+        "serology": "positive",
+        "vaccinated": "-"
+    },
+    {
+        "id": 62621,
+        "age": 33,
+        "gender": "female",
+        "nationality": "India",
+        "occupation": "homemaker",
+        "organization": "-",
+        "date": "30/04/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 62622,
+        "age": 4,
+        "gender": "female",
+        "nationality": "India",
+        "occupation": "child",
+        "organization": "-",
+        "date": "30/04/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 62629,
+        "age": 41,
+        "gender": "male",
+        "nationality": "Malaysia",
+        "occupation": "sales",
+        "organization": "New Odense Confectionery & Bakery",
+        "date": "30/04/2021",
+        "serology": "negative",
+        "vaccinated": "-"
+    },
+    {
+        "id": 62638,
+        "age": 26,
+        "gender": "female",
+        "nationality": "Singapore PR",
+        "occupation": "cleaner",
+        "organization": "Exceltec Property Management Pte Ltd",
+        "date": "30/04/2021",
+        "serology": "negative",
         "vaccinated": "-"
     },
     {
@@ -6302,6 +6461,18 @@
         "serology": "-",
         "asymptomatic": "yes",
         "vaccinated": "-"
+    },
+    {
+        "id": 62553,
+        "age": 39,
+        "gender": "female",
+        "nationality": "Vietnam",
+        "occupation": "cleaner",
+        "organization": "Octo Jet Building Maintenance Pte Ltd, Tuas South",
+        "date": "29/04/2021",
+        "serology": "positive",
+        "asymptomatic": "yes",
+        "vaccinated": "yes (2 doses)"
     },
     {
         "id": 62557,
@@ -6392,6 +6563,110 @@
         "organization": "Tan Tock Seng Hospital, Ward9D",
         "date": "29/04/2021",
         "serology": "-",
+        "asymptomatic": "yes",
+        "vaccinated": "-"
+    },
+    {
+        "id": 62571,
+        "age": 39,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "security officer, food delivery driver",
+        "organization": "ION Orchard",
+        "date": "29/04/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 62572,
+        "age": 3,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "child",
+        "organization": "-",
+        "date": "29/04/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 62576,
+        "age": 33,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "homemaker",
+        "organization": "-",
+        "date": "29/04/2021",
+        "serology": "-",
+        "asymptomatic": "yes",
+        "vaccinated": "-"
+    },
+    {
+        "id": 62583,
+        "age": 32,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "nurse",
+        "organization": "Tan Tock Seng Hospital",
+        "date": "29/04/2021",
+        "serology": "-",
+        "asymptomatic": "yes",
+        "vaccinated": "-"
+    },
+    {
+        "id": 62594,
+        "age": 72,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "retiree",
+        "organization": "-",
+        "date": "29/04/2021",
+        "serology": "-",
+        "asymptomatic": "yes",
+        "vaccinated": "-"
+    },
+    {
+        "id": 62595,
+        "age": 65,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "telephone operator",
+        "organization": "Goodwood Park Hotel",
+        "date": "29/04/2021",
+        "serology": "-",
+        "asymptomatic": "yes",
+        "vaccinated": "-"
+    },
+    {
+        "id": 62597,
+        "age": 25,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "technical officer",
+        "organization": "SP PowerGrid",
+        "date": "29/04/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 62517,
+        "age": 38,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "ICA officer",
+        "organization": "Changi Airport Terminal 1",
+        "date": "28/04/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 62526,
+        "age": 58,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "construction project manager",
+        "organization": "-",
+        "date": "28/04/2021",
+        "serology": "positive",
         "asymptomatic": "yes",
         "vaccinated": "-"
     },

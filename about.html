@@ -27,17 +27,33 @@
 
 <div class="container">
   <h1 class="text-center display-4 px-5 py-3">SG Covid Case Clusters</h1>
-  <p class="text-center"><i>Chi-Loong, Updated 30th May 2021</i></p>
+  <p class="text-center"><i>Chi-Loong, Last updated 1st June 2021</i></p>
   
   <div class="row">
     <div class="col-md-12">
         <h4>Feature updates</h4>
         <ul>
+            <li>2nd June: Tweaked date color scale. Date scale now coded to emphasize MOH's calculation of when clusters are open (last 28 days where there is ome activity). Cases / clusters older than 28 days removed.</li>
+            <li>1st June: Tweaked age color scale. Red-blue instead of spectral. Anything reddish is younger than 40, and anything bluish is older than 50.</li>
             <li>30th May: Upgraded search function. Can search for occupation or organization, and highlights all results.</li>
             <li>27th May: Asymptomatic data field added, and viz tab added. Asymptomatic cases are often detected through surveillance / already quarantined.</li>
             <li>26th May: Search feature added. Used to double check all open clusters listed in MOH annex and it is correct for this dataset.</li>
             <li>24th May: Visualization launched.</li>
         </ul>
+    </div>
+  </div>
+  <hr/>
+  
+  <div class="row">
+    <div class="col-md-12">
+        <h4>Data updates, data sources and viz features</h4>
+        <p>Data for the visualization only transcribed starting from April 28th 2021 (start of the TTSH cluster).</p>
+        <p>I will prune the dataset so that it will more accurately reflect what occurs in the open clusters (last 28 days without cases) so it is has less cases and is less cluttered.</p>
+        <p>Data will be updated whenever MOH releases the detailed case data, which tends to be late at night daily (typically after midnight).</p>
+        <p>For future work, the most important thing would be to update the data daily when it comes in.</p>
+        <p>I am grateful for all the comments, emails and suggestions but I beg your understanding that I am only one solo developer on this passion project. I still have a day job to do leh, so thank you for understanding.</p>
+        <p>Not only do I have to transcribe the cases, I often have to check the annexes and <a href="https://www.moh.gov.sg/covid-19/situation-report" target="_blank">MOH siterep</a> to see if there are reclassified cases.</p>
+        <p>Feature wise I would like to add some features (a timeline widget, cleanup old data / clusters automatically once past 28 days, etc.), retag old data, etc. When I get the time.</p>
     </div>
   </div>
   <hr/>
@@ -98,23 +114,6 @@
             <img src="img/prison.png" class="img-fluid"/>
             <p><i>All 10 cases in the prison cluster (as of 23rd May 2020) are male.</i></p>
         </div>
-    </div>
-  </div>
-  <hr/>
-
-  <div class="row">
-    <div class="col-md-12">
-        <h4>Data entry and future work</h4>
-        <p>Data for the visualization is only captured from April 28th 2021.</p>
-        <p>Even though of course there were case clusters and reports in Singapore before that, this date serves as a good start point from when all the recent big clusters (TTSH and airport) started.</p>
-        <p>As I am the only one developing the dashboard and transcribing the data, I am almost certain I may have transcribed an error or two into this dashboard. </p>
-        <p>Besides the daily press releases, I also have to check the <a href="https://www.moh.gov.sg/covid-19/situation-report" target="_blank">MOH Covid siterep</a>, which sometimes reclassifies the cases and their links. Again I am certain I may have missed things.</p>
-        <p>If you find any errors, please ping me and drop me an email at <a href="mailto:chiloong@vslashr.com">chiloong@vslashr.com</a>. Let’s try and make this dashboard useful for everyone!</p>
-        <p>Data will be updated whenever MOH releases the detailed case data, which tends to be really late at night daily.</p>
-        <p>For future work, the most important thing would be to update the data daily when it comes in.</p>
-        <p>Beyond that, there are other datasets that can be visualized to get insights, e.g. by nationality, by occupation, etc.</p>
-        <p>I would also like to do perhaps a timeline animation, and also remove cases / clusters that are older than 28 days (but allow viewers to view part work).</p>
-        <p>Unfortunately, as I am the only solo developer for this passion project, my first priority is transcribing the data, then any new features when I have time.</p>
     </div>
   </div>
   <hr/>

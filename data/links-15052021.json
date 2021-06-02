@@ -93,5 +93,10 @@
         "infector": "airport",
         "infectee": 63255,
         "date": "15/05/2021"
+    },
+    {
+        "infector": "airport",
+        "infectee": 63195,
+        "date": "15/05/2021"
     }
 ]

@@ -33,5 +33,15 @@
         "infector": "TTSH",
         "infectee": 63009,
         "date": "09/05/2021"
+    },
+    {
+        "infector": "airport",
+        "infectee": 62998,
+        "date": "09/05/2021"
+    },
+    {
+        "infector": "airport",
+        "infectee": 63005,
+        "date": "09/05/2021"
     }
 ]
