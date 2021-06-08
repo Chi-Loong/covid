@@ -1,0 +1,82 @@
+[{
+        "id": 64029,
+        "age": 19,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "student",
+        "organization": "Hwa Chong Institution",
+        "date": "04/06/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64026,
+        "age": 8,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "student",
+        "organization": "Fuhua Primary School",
+        "date": "04/06/2021",
+        "serology": "negative",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64032,
+        "age": 38,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "driver",
+        "organization": "Wongso Limousine Services",
+        "date": "04/06/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64027,
+        "age": 34,
+        "gender": "male",
+        "nationality": "Malaysia",
+        "occupation": "car groomer",
+        "organization": "Kok Wang Car Grooming",
+        "date": "04/06/2021",
+        "serology": "negative",
+        "asymptomatic": "yes",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64028,
+        "age": 64,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "cleaner",
+        "organization": "Phoenix Entertainment KTV Music Lounge",
+        "date": "04/06/2021",
+        "serology": "negative",
+        "asymptomatic": "yes",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 64024,
+        "age": 31,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "technical officer",
+        "organization": "Fugro Singapore Pte Ltd",
+        "date": "04/06/2021",
+        "serology": "negative",
+        "asymptomatic": "yes",
+        "vaccinated": "partial (1 dose)"
+    },
+    {
+        "id": 64025,
+        "age": 31,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "administrative staff",
+        "organization": "Citibank",
+        "date": "04/06/2021",
+        "serology": "negative",
+        "vaccinated": "-"
+    }
+]
+

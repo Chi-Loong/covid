@@ -1,0 +1,79 @@
+[{
+        "id": 64068,
+        "age": 13,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "student",
+        "organization": "Paya Lebar Mathodist Girl's School",
+        "date": "06/06/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64076,
+        "age": 50,
+        "gender": "male",
+        "nationality": "China",
+        "occupation": "machine operator",
+        "organization": "Xinghe Knife Sharpening Service",
+        "date": "06/06/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64079,
+        "age": 29,
+        "gender": "male",
+        "nationality": "Malaysia",
+        "occupation": "delivery rider",
+        "organization": "Pizza Hut (Bukit Merah)",
+        "date": "06/06/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64065,
+        "age": 13,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "student",
+        "organization": "Canberra Secondary School",
+        "date": "06/06/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64065,
+        "age": 13,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "student",
+        "organization": "Canberra Secondary School",
+        "date": "06/06/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64066,
+        "age": 10,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "student",
+        "organization": "Endeavour Primary School",
+        "date": "06/06/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64077,
+        "age": 79,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "retiree",
+        "organization": "Endeavour Primary School",
+        "date": "06/06/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    }
+]
+

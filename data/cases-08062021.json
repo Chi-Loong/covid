@@ -1,0 +1,37 @@
+[{
+        "id": 64107,
+        "age": 54,
+        "gender": "male",
+        "nationality": "Singapore PR",
+        "occupation": "vessel manager",
+        "organization": "NYK Shipmanagement Pte Ltd",
+        "date": "08/06/2021",
+        "serology": "-",
+        "asymptomatic": "yes",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 64112,
+        "age": 35,
+        "gender": "female",
+        "nationality": "Malaysia",
+        "occupation": "retail assistant",
+        "organization": "Four Leaves (Ion Orchard and AMK Hub)",
+        "date": "08/06/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64108,
+        "age": 39,
+        "gender": "male",
+        "nationality": "Singapore PR",
+        "occupation": "resident",
+        "organization": "MINDSville@Napiri",
+        "date": "08/06/2021",
+        "serology": "-",
+        "asymptomatic": "yes",
+        "vaccinated": "yes (2 doses)"
+    }
+]
+

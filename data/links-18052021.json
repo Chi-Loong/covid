@@ -93,5 +93,10 @@
         "infector": 63271,
         "infectee": 63412,
         "date": "18/05/2021"
+    },
+    {
+        "infector": 63127,
+        "infectee": 63377,
+        "date": "18/05/2021"
     }
 ]

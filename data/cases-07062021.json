@@ -1,0 +1,60 @@
+[{
+        "id": 64091,
+        "age": 34,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "technical officer, part-time barber",
+        "organization": "Singapore Power, Atatcutz (348 Bedok Road)",
+        "date": "07/06/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64093,
+        "age": 39,
+        "gender": "male",
+        "nationality": "Singapore PR",
+        "occupation": "manager",
+        "organization": "Prudential Services Singapore",
+        "date": "07/06/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64090,
+        "age": 39,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "resident",
+        "organization": "MINDSville@Napiri",
+        "date": "07/06/2021",
+        "serology": "-",
+        "asymptomatic": "yes",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64094,
+        "age": 47,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "resident",
+        "organization": "MINDSville@Napiri",
+        "date": "07/06/2021",
+        "serology": "-",
+        "asymptomatic": "yes",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64103,
+        "age": 55,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "administrative staff",
+        "organization": "Alco Engineering Trading Pte Ltd",
+        "date": "07/06/2021",
+        "serology": "-",
+        "asymptomatic": "yes",
+        "vaccinated": "yes (2 doses)"
+    }
+]
+

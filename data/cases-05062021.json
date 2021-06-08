@@ -1,0 +1,151 @@
+[{
+        "id": 64046,
+        "age": 35,
+        "gender": "male",
+        "nationality": "Malaysia",
+        "occupation": "delivery rider",
+        "organization": "Pizza Hut (Kampong Ubi Community Centre)",
+        "date": "05/06/2021",
+        "serology": "negative",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64048,
+        "age": 46,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "manager",
+        "organization": "Workforce Singapore",
+        "date": "05/06/2021",
+        "serology": "negative",
+        "vaccinated": "partial (1 dose)"
+    },
+    {
+        "id": 64049,
+        "age": 25,
+        "gender": "male",
+        "nationality": "Malaysia",
+        "occupation": "barber",
+        "organization": "Atatcutz Singapore (348 Bedok Road)",
+        "date": "05/06/2021",
+        "serology": "negative",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64057,
+        "age": 27,
+        "gender": "male",
+        "nationality": "Malaysia",
+        "occupation": "barber",
+        "organization": "Atatcutz Singapore (348 Bedok Road)",
+        "date": "05/06/2021",
+        "serology": "negative",
+        "asymptomatic": "yes",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64056,
+        "age": 21,
+        "gender": "male",
+        "nationality": "Sri Lanka",
+        "occupation": "unemployed",
+        "organization": "-",
+        "date": "05/06/2021",
+        "serology": "negative",
+        "asymptomatic": "yes",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64061,
+        "age": 57,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "resident",
+        "organization": "MINDSville@Napiri",
+        "date": "05/06/2021",
+        "serology": "-",
+        "asymptomatic": "yes",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 64062,
+        "age": 59,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "resident",
+        "organization": "MINDSville@Napiri",
+        "date": "05/06/2021",
+        "serology": "-",
+        "asymptomatic": "yes",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 64060,
+        "age": 37,
+        "gender": "female",
+        "nationality": "Philippines",
+        "occupation": "nursing aide",
+        "organization": "MINDSville@Napiri",
+        "date": "05/06/2021",
+        "serology": "-",
+        "asymptomatic": "yes",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 64050,
+        "age": 25,
+        "gender": "female",
+        "nationality": "Indonesia",
+        "occupation": "foreign domestic worker",
+        "organization": "-",
+        "date": "05/06/2021",
+        "serology": "negative",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64052,
+        "age": 25,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "student",
+        "organization": "Singapore Institute of Management",
+        "date": "05/06/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64064,
+        "age": 1,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "-",
+        "organization": "Singapore Institute of Management",
+        "date": "05/06/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64047,
+        "age": 71,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "TCM physician",
+        "organization": "Bukit Timah Seu Teck Sean Tong Institution Limited",
+        "date": "05/06/2021",
+        "serology": "-",
+        "asymptomatic": "yes",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64059,
+        "age": 29,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "engineer",
+        "organization": "Thermo Fisher Scientific",
+        "date": "05/06/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    }
+]
+
