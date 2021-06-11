@@ -1,0 +1,24 @@
+[{
+        "id": 64114,
+        "age": 29,
+        "gender": "male",
+        "nationality": "Myanmar",
+        "occupation": "repair worker",
+        "organization": "Grandwork Interior",
+        "date": "09/06/2021",
+        "serology": "positive",
+        "vaccinated": "partial (1 dose)"
+    },
+    {
+        "id": 64117,
+        "age": 21,
+        "gender": "male",
+        "nationality": "Malaysia",
+        "occupation": "kitchen assistant",
+        "organization": "Rice Garden (308 Anchorvale Road)",
+        "date": "09/06/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    }
+]
+

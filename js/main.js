@@ -2,7 +2,7 @@ let selection = "date";
 let selectedCase = {"id": "-", "age": "-", "gender": "-", "nationality": "-", "occupation": "-", "organization": "-", "date": "-", "vaccinated": "-"};
 let dateFormat = d3.timeParse("%d/%m/%Y");
 let dateScale = d3.scaleLinear()
-  .domain([dateFormat("11/05/2021"), dateFormat("25/05/2021"), dateFormat("08/06/2021")])
+  .domain([dateFormat("14/05/2021"), dateFormat("28/05/2021"), dateFormat("11/06/2021")])
   .range(["#aaa", "#ff0", "#f00"]);
 
 let ageScale = d3.scaleQuantize([0, 90], d3.schemeRdBu[9]);

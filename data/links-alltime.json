@@ -1,4 +1,29 @@
 [{
+        "infector": 63160,
+        "infectee": 64120,
+        "date": "10/06/2021"
+    },
+    {
+        "infector": 64112,
+        "infectee": 64121,
+        "date": "10/06/2021"
+    },
+    {
+        "infector": 63127,
+        "infectee": 63147,
+        "date": "13/05/2021"
+    },
+    {
+        "infector": 63127,
+        "infectee": 63377,
+        "date": "18/05/2021"
+    },
+    {
+        "infector": 63874,
+        "infectee": 64117,
+        "date": "09/06/2021"
+    },
+    {
         "infector": "MINDSville@Napiri",
         "infectee": 64090,
         "date": "08/06/2021"

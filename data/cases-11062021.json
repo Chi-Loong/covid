@@ -1,0 +1,36 @@
+[{
+        "id": 64135,
+        "age": 57,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "promoter",
+        "organization": "Guardian (ION Orchard)",
+        "date": "11/06/2021",
+        "serology": "negative",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64139,
+        "age": 50,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "cleaner",
+        "organization": "Campaign Complete Solutions Pte Ltd, Raffles City Tower, One Raffles Quay",
+        "date": "11/06/2021",
+        "serology": "negative",
+        "asymptomatic": "yes",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 64149,
+        "age": 38,
+        "gender": "male",
+        "nationality": "Indonesia",
+        "occupation": "sea crew",
+        "organization": "Marina Offshore Pte Ltd, tugboat MARINA ARIEL",
+        "date": "10/06/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    }
+]
+
