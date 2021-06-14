@@ -1,0 +1,42 @@
+[
+    {
+        "infector": 64132,
+        "infectee": 64187,
+        "date": "13/06/2021"
+    },
+    {
+        "infector": 64132,
+        "infectee": 64193,
+        "date": "13/06/2021"
+    },
+    {
+        "infector": 64132,
+        "infectee": 64195,
+        "date": "13/06/2021"
+    },
+    {
+        "infector": 64132,
+        "infectee": 64196,
+        "date": "13/06/2021"
+    },
+    {
+        "infector": 64184,
+        "infectee": 64186,
+        "date": "13/06/2021"
+    },
+    {
+        "infector": 64184,
+        "infectee": 64191,
+        "date": "13/06/2021"
+    },
+    {
+        "infector": 64135,
+        "infectee": 64194,
+        "date": "13/06/2021"
+    },
+    {
+        "infector": 64183,
+        "infectee": 64185,
+        "date": "13/06/2021"
+    }
+]

@@ -1,4 +1,64 @@
 [{
+        "infector": 64132,
+        "infectee": 64158,
+        "date": "12/06/2021"
+    },
+    {
+        "infector": 64132,
+        "infectee": 64187,
+        "date": "13/06/2021"
+    },
+    {
+        "infector": 64132,
+        "infectee": 64193,
+        "date": "13/06/2021"
+    },
+    {
+        "infector": 64132,
+        "infectee": 64195,
+        "date": "13/06/2021"
+    },
+    {
+        "infector": 64132,
+        "infectee": 64196,
+        "date": "13/06/2021"
+    },
+    {
+        "infector": 64184,
+        "infectee": 64186,
+        "date": "13/06/2021"
+    },
+    {
+        "infector": 64184,
+        "infectee": 64191,
+        "date": "13/06/2021"
+    },
+    {
+        "infector": 64135,
+        "infectee": 64194,
+        "date": "13/06/2021"
+    },
+    {
+        "infector": 64183,
+        "infectee": 64185,
+        "date": "13/06/2021"
+    },
+    {
+        "infector": 64149,
+        "infectee": 64180,
+        "date": "12/06/2021"
+    },
+    {
+        "infector": 64149,
+        "infectee": 64181,
+        "date": "12/06/2021"
+    },
+    {
+        "infector": 63399,
+        "infectee": 64182,
+        "date": "12/06/2021"
+    },
+    {
         "infector": 63160,
         "infectee": 64120,
         "date": "10/06/2021"
@@ -24,7 +84,7 @@
         "date": "09/06/2021"
     },
     {
-        "infector": "MINDSville@Napiri",
+        "infector": "MINDSville",
         "infectee": 64090,
         "date": "08/06/2021"
     },
@@ -39,12 +99,12 @@
         "date": "07/06/2021"
     },
     {
-        "infector": "MINDSville@Napiri",
+        "infector": "MINDSville",
         "infectee": 64090,
         "date": "07/06/2021"
     },
     {
-        "infector": "MINDSville@Napiri",
+        "infector": "MINDSville",
         "infectee": 64094,
         "date": "07/06/2021"
     },
@@ -109,17 +169,17 @@
         "date": "05/06/2021"
     },
     {
-        "infector": "MINDSville@Napiri",
+        "infector": "MINDSville",
         "infectee": 64061,
         "date": "05/06/2021"
     },
     {
-        "infector": "MINDSville@Napiri",
+        "infector": "MINDSville",
         "infectee": 64062,
         "date": "05/06/2021"
     },
     {
-        "infector": "MINDSville@Napiri",
+        "infector": "MINDSville",
         "infectee": 64060,
         "date": "05/06/2021"
     },
@@ -229,112 +289,112 @@
         "date": "03/06/2021"
     },
     {
-        "infector": "MINDSville@Napiri",
+        "infector": "MINDSville",
         "infectee": 63976,
         "date": "03/06/2021"
     },
     {
-        "infector": "MINDSville@Napiri",
+        "infector": "MINDSville",
         "infectee": 63977,
         "date": "03/06/2021"
     },
     {
-        "infector": "MINDSville@Napiri",
+        "infector": "MINDSville",
         "infectee": 63979,
         "date": "03/06/2021"
     },
     {
-        "infector": "MINDSville@Napiri",
+        "infector": "MINDSville",
         "infectee": 63980,
         "date": "03/06/2021"
     },
     {
-        "infector": "MINDSville@Napiri",
+        "infector": "MINDSville",
         "infectee": 63984,
         "date": "03/06/2021"
     },
     {
-        "infector": "MINDSville@Napiri",
+        "infector": "MINDSville",
         "infectee": 63985,
         "date": "03/06/2021"
     },
     {
-        "infector": "MINDSville@Napiri",
+        "infector": "MINDSville",
         "infectee": 63986,
         "date": "03/06/2021"
     },
     {
-        "infector": "MINDSville@Napiri",
+        "infector": "MINDSville",
         "infectee": 63987,
         "date": "03/06/2021"
     },
     {
-        "infector": "MINDSville@Napiri",
+        "infector": "MINDSville",
         "infectee": 63988,
         "date": "03/06/2021"
     },
     {
-        "infector": "MINDSville@Napiri",
+        "infector": "MINDSville",
         "infectee": 63989,
         "date": "03/06/2021"
     },
     {
-        "infector": "MINDSville@Napiri",
+        "infector": "MINDSville",
         "infectee": 63990,
         "date": "03/06/2021"
     },
     {
-        "infector": "MINDSville@Napiri",
+        "infector": "MINDSville",
         "infectee": 63991,
         "date": "03/06/2021"
     },
     {
-        "infector": "MINDSville@Napiri",
+        "infector": "MINDSville",
         "infectee": 63992,
         "date": "03/06/2021"
     },
     {
-        "infector": "MINDSville@Napiri",
+        "infector": "MINDSville",
         "infectee": 63993,
         "date": "03/06/2021"
     },
     {
-        "infector": "MINDSville@Napiri",
+        "infector": "MINDSville",
         "infectee": 63994,
         "date": "03/06/2021"
     },
     {
-        "infector": "MINDSville@Napiri",
+        "infector": "MINDSville",
         "infectee": 63995,
         "date": "03/06/2021"
     },
     {
-        "infector": "MINDSville@Napiri",
+        "infector": "MINDSville",
         "infectee": 63996,
         "date": "03/06/2021"
     },
     {
-        "infector": "MINDSville@Napiri",
+        "infector": "MINDSville",
         "infectee": 63997,
         "date": "03/06/2021"
     },
     {
-        "infector": "MINDSville@Napiri",
+        "infector": "MINDSville",
         "infectee": 64001,
         "date": "03/06/2021"
     },
     {
-        "infector": "MINDSville@Napiri",
+        "infector": "MINDSville",
         "infectee": 63974,
         "date": "03/06/2021"
     },
     {
-        "infector": "MINDSville@Napiri",
+        "infector": "MINDSville",
         "infectee": 63982,
         "date": "03/06/2021"
     },
     {
-        "infector": "MINDSville@Napiri",
+        "infector": "MINDSville",
         "infectee": 63983,
         "date": "03/06/2021"
     },
@@ -434,17 +494,17 @@
         "date": "02/06/2021"
     },
     {
-        "infector": "MINDSville@Napiri",
+        "infector": "MINDSville",
         "infectee": 63924,
         "date": "02/06/2021"
     },
     {
-        "infector": "MINDSville@Napiri",
+        "infector": "MINDSville",
         "infectee": 63961,
         "date": "02/06/2021"
     },
     {
-        "infector": "MINDSville@Napiri",
+        "infector": "MINDSville",
         "infectee": 63962,
         "date": "02/06/2021"
     },
@@ -1802,6 +1862,11 @@
         "infector": 63479,
         "infectee": 63485,
         "date": "20/05/2021"
+    },
+    {
+        "infector": 63290,
+        "infectee": 63430,
+        "date": "19/05/2021"
     },
     {
         "infector": 63257,

@@ -32,3 +32,7 @@
   stroke: #00f;
   stroke-width: 8px;
 }
+
+.tick text {
+  font-size: 16px;
+}

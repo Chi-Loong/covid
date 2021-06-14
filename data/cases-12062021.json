@@ -1,0 +1,103 @@
+[{
+        "id": 64159,
+        "age": 18,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "student",
+        "organization": "SIM Global Education",
+        "date": "12/06/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64162,
+        "age": 27,
+        "gender": "female",
+        "nationality": "Myanmar",
+        "occupation": "foreign domestic worker",
+        "organization": "-",
+        "date": "12/06/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64169,
+        "age": 57,
+        "gender": "male",
+        "nationality": "Malaysia",
+        "occupation": "land rigger",
+        "organization": "Jurong Port Pte Ltd",
+        "date": "12/06/2021",
+        "serology": "negative",
+        "asymptomatic": "yes",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 64174,
+        "age": 45,
+        "gender": "female",
+        "nationality": "China",
+        "occupation": "land rigger",
+        "organization": "Hong Ye Group, ION Orchard",
+        "date": "12/06/2021",
+        "serology": "-",
+        "asymptomatic": "yes",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64183,
+        "age": 68,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "landscape gardener",
+        "organization": "Amozonia Landscape Pte Ltd",
+        "date": "12/06/2021",
+        "serology": "-",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 64180,
+        "age": 40,
+        "gender": "male",
+        "nationality": "Indonesia",
+        "occupation": "engineer",
+        "organization": "Marina Offshore Pte Ltd, tugboat MARINA ARIEL",
+        "date": "12/06/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64181,
+        "age": 38,
+        "gender": "male",
+        "nationality": "Indonesia",
+        "occupation": "sea crew",
+        "organization": "Marina Offshore Pte Ltd, tugboat MARINA ARIEL",
+        "date": "12/06/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64182,
+        "age": 35,
+        "gender": "female",
+        "nationality": "Malaysia",
+        "occupation": "administrative personnel",
+        "organization": "Ces Lamination Pte Ltd",
+        "date": "12/06/2021",
+        "serology": "negative",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64158,
+        "age": 82,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "store helper",
+        "organization": "115 Bukit Merah View Market & Hawker Centre",
+        "date": "12/06/2021",
+        "serology": "-",
+        "vaccinated": "yes (2 doses)"
+    }
+]
+
