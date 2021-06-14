@@ -1,0 +1,96 @@
+[{
+        "infector": 64184,
+        "infectee": 64219,
+        "date": "14/06/2021"
+    },
+    {
+        "infector": "Bukit Merah",
+        "infectee": 64132,
+        "date": "10/06/2021"
+    },
+    {
+        "infector": 64132,
+        "infectee": 64199,
+        "date": "14/06/2021"
+    },
+    {
+        "infector": 64199,
+        "infectee": 64205,
+        "date": "14/06/2021"
+    },
+    {
+        "infector": 64202,
+        "infectee": 64212,
+        "date": "14/06/2021"
+    },
+    {
+        "infector": 64201,
+        "infectee": 64213,
+        "date": "14/06/2021"
+    },
+    {
+        "infector": 64204,
+        "infectee": 64216,
+        "date": "14/06/2021"
+    },
+    {
+        "infector": 64132,
+        "infectee": 64221,
+        "date": "14/06/2021"
+    },
+    {
+        "infector": "Bukit Merah",
+        "infectee": 64201,
+        "date": "14/06/2021"
+    },
+    {
+        "infector": "Bukit Merah",
+        "infectee": 64202,
+        "date": "14/06/2021"
+    },
+    {
+        "infector": "Bukit Merah",
+        "infectee": 64204,
+        "date": "14/06/2021"
+    },
+    {
+        "infector": 64213,
+        "infectee": 64218,
+        "date": "14/06/2021"
+    },
+    {
+        "infector": 64184,
+        "infectee": 64197,
+        "date": "14/06/2021"
+    },
+    {
+        "infector": 64184,
+        "infectee": 64198,
+        "date": "14/06/2021"
+    },
+    {
+        "infector": 64198,
+        "infectee": 64206,
+        "date": "14/06/2021"
+    },
+    {
+        "infector": 64186,
+        "infectee": 64207,
+        "date": "14/06/2021"
+    },
+    {
+        "infector": 64184,
+        "infectee": 64208,
+        "date": "14/06/2021"
+    },
+    {
+        "infector": 64191,
+        "infectee": 64200,
+        "date": "14/06/2021"
+    },
+    {
+        "infector": 64159,
+        "infectee": 64209,
+        "date": "14/06/2021"
+    }
+]

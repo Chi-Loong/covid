@@ -1,4 +1,218 @@
 [{
+        "id": 64219,
+        "age": 26,
+        "gender": "male",
+        "nationality": "India",
+        "occupation": "electrician",
+        "organization": "GT ENGRG Pte Ltd, Westlite Juniper(23 Mandai Estate)",
+        "date": "14/06/2021",
+        "serology": "-",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 64217,
+        "age": 79,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "cleaner",
+        "organization": "AO ServicePro Pte Ltd, 375/376 Clementi Ave 4",
+        "date": "14/06/2021",
+        "serology": "-",
+        "vaccinated": "partial (1 dose)"
+    },
+    {
+        "id": 64199,
+        "age": 40,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "food stall vendor",
+        "organization": "115 Bukit Merah View Market & Food Centre",
+        "date": "14/06/2021",
+        "serology": "negative",
+        "vaccinated": "partial (1 dose)"
+    },
+    {
+        "id": 64205,
+        "age": 71,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "food stall vendor",
+        "organization": "115 Bukit Merah View Market & Food Centre",
+        "date": "14/06/2021",
+        "serology": "negative",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 64212,
+        "age": 21,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "IT engineer",
+        "organization": "IBM (Changi Business Park Central 1)",
+        "date": "14/06/2021",
+        "serology": "-",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 64213,
+        "age": 47,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "cooking assistant",
+        "organization": "115 Bukit Merah View Market & Food Centre",
+        "date": "14/06/2021",
+        "serology": "-",
+        "vaccinated": "partial (1 dose)"
+    },
+    {
+        "id": 64216,
+        "age": 94,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "retiree",
+        "organization": "often goes to Telok Blangah Parcview Active Ageing Care Hub",
+        "date": "14/06/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64221,
+        "age": 67,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "general worker",
+        "organization": "115 Bukit Merah View Market & Food Centre",
+        "date": "14/06/2021",
+        "serology": "-",
+        "asymptomatic": "yes",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 64201,
+        "age": 29,
+        "gender": "female",
+        "nationality": "India",
+        "occupation": "unemployed",
+        "organization": "-",
+        "date": "14/06/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64202,
+        "age": 17,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "student",
+        "organization": "ITE College Central",
+        "date": "14/06/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64204,
+        "age": 64,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "retiree",
+        "organization": "-",
+        "date": "14/06/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64218,
+        "age": 42,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "hawker",
+        "organization": "Telok Blangah Drive Food Centre",
+        "date": "14/06/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64197,
+        "age": 42,
+        "gender": "female",
+        "nationality": "India",
+        "occupation": "cleaner",
+        "organization": "SQ 1 Development Pte Ltd, Ascent (Science Park Drive)",
+        "date": "14/06/2021",
+        "serology": "negative",
+        "vaccinated": "partial (1 dose)"
+    },
+    {
+        "id": 64198,
+        "age": 29,
+        "gender": "female",
+        "nationality": "India",
+        "occupation": "student",
+        "organization": "Amity Global Institute",
+        "date": "14/06/2021",
+        "serology": "negative",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64206,
+        "age": 45,
+        "gender": "female",
+        "nationality": "Malaysia",
+        "occupation": "analyst",
+        "organization": "Pinnacle Credit Services",
+        "date": "14/06/2021",
+        "serology": "-",
+        "asymptomatic": "yes",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64207,
+        "age": 46,
+        "gender": "female",
+        "nationality": "Philippines",
+        "occupation": "foreign domestic worker",
+        "organization": "-",
+        "date": "14/06/2021",
+        "serology": "-",
+        "asymptomatic": "yes",
+        "vaccinated": "partial (1 dose)"
+    },
+    {
+        "id": 64208,
+        "age": 33,
+        "gender": "male",
+        "nationality": "Malaysia",
+        "occupation": "cleaner",
+        "organization": "Eunike Living Pte Ltd",
+        "date": "14/06/2021",
+        "serology": "-",
+        "asymptomatic": "yes",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64200,
+        "age": 26,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "cleaner",
+        "organization": "Cleen First Services, Emerald Park condominium",
+        "date": "14/06/2021",
+        "serology": "negative",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64209,
+        "age": 16,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "student",
+        "organization": "Anglo Chinese School (Independent)",
+        "date": "14/06/2021",
+        "serology": "-",
+        "asymptomatic": "yes",
+        "vaccinated": "-"
+    },
+    {
         "id": 64192,
         "age": 23,
         "gender": "male",
@@ -5264,17 +5478,6 @@
         "vaccinated": "yes (2 doses)"
     },
     {
-        "id": 63365,
-        "age": 62,
-        "gender": "male",
-        "nationality": "Singapore",
-        "occupation": "retiree",
-        "organization": "-",
-        "date": "17/05/2021",
-        "serology": "-",
-        "vaccinated": "-"
-    },
-    {
         "id": 63350,
         "age": 34,
         "gender": "male",
@@ -5332,18 +5535,6 @@
         "vaccinated": "-"
     },
     {
-        "id": 63274,
-        "age": 55,
-        "gender": "male",
-        "nationality": "Singapore",
-        "occupation": "driver",
-        "organization": "KEN Express Services Pte Ltd",
-        "date": "16/05/2021",
-        "serology": "-",
-        "variant": "B.1.617",
-        "vaccinated": "partial (1 dose)"
-    },
-    {
         "id": 63275,
         "age": 52,
         "gender": "male",
@@ -5390,18 +5581,6 @@
         "vaccinated": "partial (1 dose)"
     },
     {
-        "id": 63287,
-        "age": 29,
-        "gender": "female",
-        "nationality": "Philippines",
-        "occupation": "nurse",
-        "organization": "Raffles Hospital",
-        "date": "16/05/2021",
-        "serology": "-",
-        "asymptomatic": "yes",
-        "vaccinated": "partial (1 dose)"
-    },
-    {
         "id": 63289,
         "age": 34,
         "gender": "male",
@@ -5435,17 +5614,6 @@
         "serology": "-",
         "variant": "B.1.617",
         "vaccinated": "-"
-    },
-    {
-        "id": 63303,
-        "age": 28,
-        "gender": "male",
-        "nationality": "Malaysia",
-        "occupation": "-",
-        "organization": "Sheng Siong, Bukit Batok West Ave 8",
-        "date": "16/05/2021",
-        "serology": "-",
-        "vaccinated": "yes (2 doses)"
     },
     {
         "id": 63304,
@@ -5696,17 +5864,6 @@
         "vaccinated": "partial (1 dose)"
     },
     {
-        "id": 63280,
-        "age": 26,
-        "gender": "female",
-        "nationality": "Singapore",
-        "occupation": "customer service officer",
-        "organization": "Wareesan Management Pte Ltd",
-        "date": "16/05/2021",
-        "serology": "-",
-        "vaccinated": "-"
-    },
-    {
         "id": 63278,
         "age": 69,
         "gender": "male",
@@ -5749,17 +5906,6 @@
         "date": "15/05/2021",
         "serology": "negative",
         "variant": "B.1.617",
-        "vaccinated": "-"
-    },
-    {
-        "id": 63241,
-        "age": 55,
-        "gender": "female",
-        "nationality": "Singapore",
-        "occupation": "homemaker",
-        "organization": "-",
-        "date": "15/05/2021",
-        "serology": "-",
         "vaccinated": "-"
     },
     {
@@ -5933,28 +6079,6 @@
         "date": "14/05/2021",
         "serology": "-",
         "vaccinated": "yes (2 doses)"
-    },
-    {
-        "id": 63166,
-        "age": 22,
-        "gender": "male",
-        "nationality": "Singapore",
-        "occupation": "cook",
-        "organization": "Wok Hey White Sands",
-        "date": "14/05/2021",
-        "serology": "-",
-        "vaccinated": "-"
-    },
-    {
-        "id": 63220,
-        "age": 48,
-        "gender": "male",
-        "nationality": "Singapore",
-        "occupation": "food delivery",
-        "organization": "GrabFood",
-        "date": "14/05/2021",
-        "serology": "-",
-        "vaccinated": "-"
     },
     {
         "id": 63184,
@@ -6860,5 +6984,18 @@
         "serology": "-",
         "vaccinated": "-",
         "icon": "img/building.svg"
+    },
+    {
+        "id": "Bukit Merah",
+        "bigcluster": true,
+        "age": "-",
+        "gender": "-",
+        "nationality": "-",
+        "occupation": "-",
+        "organization": "115 Bukit Merah View Market & Food Centre",
+        "date": "-",
+        "serology": "-",
+        "vaccinated": "-",
+        "icon": "img/food.svg"
     }
 ]

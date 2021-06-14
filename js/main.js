@@ -3,8 +3,9 @@ let selectedCase = {"id": "-", "age": "-", "gender": "-", "nationality": "-", "o
 let caseResult = [];
 let searchString = "";
 let dateFormat = d3.timeParse("%d/%m/%Y");
+let currentDate = "14/06/2021";
 let dateScale = d3.scaleLinear()
-  .domain([dateFormat("16/05/2021"), dateFormat("30/05/2021"), dateFormat("13/06/2021")])
+  .domain([d3.timeDay.offset(dateFormat(currentDate), -28), d3.timeDay.offset(dateFormat(currentDate), -14), dateFormat(currentDate)])
   .range(["#aaa", "#ff0", "#f00"]);
 
 let ageScale = d3.scaleQuantize([0, 90], d3.schemeRdBu[9]);
@@ -338,7 +339,7 @@ function drawChart(category, data) {
     let summaryData = data.filter(d => d.bigcluster != true);
     
         if (selection == "date") {
-            summaryData = summaryData.filter(d => dateFormat(d.date) >= dateFormat("16/05/2021"));
+            summaryData = summaryData.filter(d => dateFormat(d.date) >= d3.timeDay.offset(dateFormat(currentDate), -28));
             summaryData = _.entries(_.countBy(summaryData, d => d.date));
         } else if (selection == "age") {
             summaryData = _.entries(_.countBy(summaryData, d => Math.floor(d.age / 10))).map(d => [d[0] *10, d[1]]);
@@ -354,7 +355,7 @@ function drawChart(category, data) {
     let xScale = null;
         if (selection == "date") {
             xScale = d3.scaleLinear()
-                .domain([dateFormat("16/05/2021"), dateFormat("14/06/2021")])
+                .domain([d3.timeDay.offset(dateFormat(currentDate), -28), dateFormat(currentDate)])
                 .range([0, chart.width - chart.margin.left - chart.margin.right]);
         } else if (selection == "age") {
             xScale = d3.scaleLinear()
