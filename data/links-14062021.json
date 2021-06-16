@@ -92,5 +92,10 @@
         "infector": 64159,
         "infectee": 64209,
         "date": "14/06/2021"
+    },
+{
+        "infector": "Bukit Merah",
+        "infectee": 64217,
+        "date": "14/06/2021"
     }
 ]

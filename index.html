@@ -51,11 +51,8 @@
           <input type="radio" class="btn-check" name="btnradio" id="asymptomaticSelect" autocomplete="off">
           <label class="btn btn-outline-secondary btn-sm" for="asymptomaticSelect">Asymptomatic</label>
         </div>
-        
 
-        <div class="smallwrap">
-            <svg id="summarychart"></svg>
-        </div>
+        <svg id="summarychart"></svg>
         
         <h5 class="text-center px-3 py-3" id="caseInfoText">Case info (<span style="color:#00f">selected</span>)</h5>
         <table class="table small">
@@ -102,9 +99,10 @@
           </div>
         </div>
         <hr/>
-            
+        
         <p class="text-center small">Not designed for mobile. Primarily for desktop.</p>
-        <p class="text-center small">Data set tracks open clusters and cases from MOH annex (28 days ago). Community cases only. Updated when detailed data is released late every night, and only reflects what is stated in press release.</p>
+        <p class="text-center small">Data set tracks open clusters and community cases from MOH press releases and annex (up to 28 days ago). Cases before 28 days ago only shown if in open cluster.</p>
+        <p class="text-center small">Updated when detailed data is released late every night.</p>
         <p class="text-center small">Click to select case. Search to highlight cases. Use scrollwheel to zoom. Drag background to pan.</p>
         <h6 class="text-center">Data: <a href="https://www.moh.gov.sg/covid-19">MOH Covid-19 Site</a></h6>
         <h6 class="text-center"><a href="about.html">More about this piece</a></h6>

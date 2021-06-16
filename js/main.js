@@ -3,7 +3,7 @@ let selectedCase = {"id": "-", "age": "-", "gender": "-", "nationality": "-", "o
 let caseResult = [];
 let searchString = "";
 let dateFormat = d3.timeParse("%d/%m/%Y");
-let currentDate = "14/06/2021";
+let currentDate = "16/06/2021";
 let dateScale = d3.scaleLinear()
   .domain([d3.timeDay.offset(dateFormat(currentDate), -28), d3.timeDay.offset(dateFormat(currentDate), -14), dateFormat(currentDate)])
   .range(["#aaa", "#ff0", "#f00"]);
@@ -12,6 +12,8 @@ let ageScale = d3.scaleQuantize([0, 90], d3.schemeRdBu[9]);
 let genderScale = d3.scaleOrdinal(["male", "female"], ["steelblue", "pink"]);
 let vaccinatedScale = d3.scaleOrdinal(["-", "partial (1 dose)", "yes (2 doses)"], ["#aaa", "yellow", "green"]);
 let asymptomaticScale = d3.scaleOrdinal(["-", "yes"], ["#aaa", "blueviolet"]);
+
+//console.log(d3.timeDay.offset(dateFormat(currentDate), -28));
 
 Promise.all([d3.json("data/links.json"), d3.json("data/cases.json"), d3.json("data/MOHlinks.json")]).then(data => {
 
@@ -351,6 +353,8 @@ function drawChart(category, data) {
             summaryData = _.entries(_.countBy(summaryData, d => d.asymptomatic))
                             .map(d => {if (d[0] == "undefined") return ["-", d[1]]; else return [d[0], d[1]]});
         }
+        
+    //console.log(summaryData);
 
     let xScale = null;
         if (selection == "date") {

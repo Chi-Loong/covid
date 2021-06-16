@@ -1,0 +1,160 @@
+[{
+        "id": 64233,
+        "age": 41,
+        "gender": "female",
+        "nationality": "Philippines",
+        "occupation": "foreign domestic worker",
+        "organization": "-",
+        "date": "15/06/2021",
+        "serology": "negative",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64236,
+        "age": 36,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "homemaker",
+        "organization": "-",
+        "date": "15/06/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64237,
+        "age": 30,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "sales representative",
+        "organization": "Imperva Singapore Pte Ltd",
+        "date": "15/06/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64238,
+        "age": 35,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "unemployed",
+        "organization": "-",
+        "date": "15/06/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64223,
+        "age": 37,
+        "gender": "female",
+        "nationality": "India",
+        "occupation": "food stall vendor",
+        "organization": "115 Bukit Merah View Market & Food Centre",
+        "date": "15/06/2021",
+        "serology": "-",
+        "asymptomatic": "yes",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64224,
+        "age": 77,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "food stall vendor",
+        "organization": "115 Bukit Merah View Market & Food Centre",
+        "date": "15/06/2021",
+        "serology": "negative",
+        "asymptomatic": "yes",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 64225,
+        "age": 39,
+        "gender": "male",
+        "nationality": "India",
+        "occupation": "food stall vendor",
+        "organization": "115 Bukit Merah View Market & Food Centre",
+        "date": "15/06/2021",
+        "serology": "-",
+        "asymptomatic": "yes",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 64226,
+        "age": 30,
+        "gender": "male",
+        "nationality": "India",
+        "occupation": "supervisor",
+        "organization": "Keong Hong Construction Pte Ltd",
+        "date": "15/06/2021",
+        "serology": "negative",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64234,
+        "age": 33,
+        "gender": "female",
+        "nationality": "Singapore PR",
+        "occupation": "cleaner",
+        "organization": "SATS Facility Management",
+        "date": "15/06/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64229,
+        "age": 87,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "retiree",
+        "organization": "often visited 115 and 116 Bukit Merah View",
+        "date": "15/06/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64231,
+        "age": 35,
+        "gender": "male",
+        "nationality": "India",
+        "occupation": "sales executive",
+        "organization": "Halnaz Frozen Goods Pte Ltd",
+        "date": "15/06/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64232,
+        "age": 35,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "teacher",
+        "organization": "KidsCampus (Chai Chee)",
+        "date": "15/06/2021",
+        "serology": "-",
+        "asymptomatic": "yes",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64239,
+        "age": 72,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "retiree",
+        "organization": "-",
+        "date": "15/06/2021",
+        "serology": "-",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 64230,
+        "age": 35,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "senior executive",
+        "organization": "NETS",
+        "date": "15/06/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    }
+]
+

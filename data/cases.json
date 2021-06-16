@@ -1,4 +1,377 @@
 [{
+        "id": 64254,
+        "age": 85,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "retiree",
+        "organization": "-",
+        "date": "16/06/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64263,
+        "age": 47,
+        "gender": "female",
+        "nationality": "Indonesia",
+        "occupation": "foreign domestic worker",
+        "organization": "-",
+        "date": "16/06/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64264,
+        "age": 32,
+        "gender": "female",
+        "nationality": "Indonesia",
+        "occupation": "foreign domestic worker",
+        "organization": "-",
+        "date": "16/06/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64240,
+        "age": 76,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "retiree",
+        "organization": "often visited 115 and 116 Bukit Merah View",
+        "date": "16/06/2021",
+        "serology": "-",
+        "asymptomatic": "yes",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 64241,
+        "age": 12,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "student",
+        "organization": "CHIJ St Theresa's Convent",
+        "date": "16/06/2021",
+        "serology": "negative",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64242,
+        "age": 33,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "administrative staff",
+        "organization": "South Asia Construction Pte Ltd",
+        "date": "16/06/2021",
+        "serology": "-",
+        "asymptomatic": "yes",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64246,
+        "age": 60,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "food stall vendor",
+        "organization": "115 Bukit Merah Market & Food Centre",
+        "date": "16/06/2021",
+        "serology": "-",
+        "asymptomatic": "yes",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 64252,
+        "age": 38,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "stall assistant",
+        "organization": "Zhangde Primary School's canteen",
+        "date": "16/06/2021",
+        "serology": "-",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 64260,
+        "age": 63,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "freelance worker",
+        "organization": "often visited 115 and 116 Bukit Merah View",
+        "date": "16/06/2021",
+        "serology": "negative",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 64261,
+        "age": 71,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "retiree",
+        "organization": "-",
+        "date": "16/06/2021",
+        "serology": "negative",
+        "asymptomatic": "yes",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 64262,
+        "age": 15,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "student",
+        "organization": "Gan Eng Seng School",
+        "date": "16/06/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64243,
+        "age": 69,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "food stall helper",
+        "organization": "New Changi Eating House, 115 Bukit Merah View Market & Food Centre",
+        "date": "16/06/2021",
+        "serology": "-",
+        "asymptomatic": "yes",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64244,
+        "age": 49,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "sales coordinator",
+        "organization": "Gold Lite Pte Ltd",
+        "date": "16/06/2021",
+        "serology": "negative",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 64248,
+        "age": 45,
+        "gender": "female",
+        "nationality": "Malaysia",
+        "occupation": "stall assistant",
+        "organization": "Tiong Bahru Yong Tao Hu (56 Eng Hoon Street)",
+        "date": "16/06/2021",
+        "serology": "negative",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64257,
+        "age": 64,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "taxi driver",
+        "organization": "often visited 115 Bukit Merah View Market & Food Centre",
+        "date": "16/06/2021",
+        "serology": "negative",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64258,
+        "age": 82,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "retiree",
+        "organization": "often visited 115 Bukit Merah View Market & Food Centre",
+        "date": "16/06/2021",
+        "serology": "-",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 64249,
+        "age": 50,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "part-time housekeeper",
+        "organization": "Eunike Living Pte Ltd",
+        "date": "16/06/2021",
+        "serology": "-",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 64251,
+        "age": 26,
+        "gender": "female",
+        "nationality": "Malaysia",
+        "occupation": "waitress",
+        "organization": "Common Man Stan",
+        "date": "16/06/2021",
+        "serology": "negative",
+        "asymptomatic": "yes",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64255,
+        "age": 84,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "retiree",
+        "organization": "-",
+        "date": "16/06/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64233,
+        "age": 41,
+        "gender": "female",
+        "nationality": "Philippines",
+        "occupation": "foreign domestic worker",
+        "organization": "-",
+        "date": "15/06/2021",
+        "serology": "negative",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64236,
+        "age": 36,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "homemaker",
+        "organization": "-",
+        "date": "15/06/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64237,
+        "age": 30,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "sales representative",
+        "organization": "Imperva Singapore Pte Ltd",
+        "date": "15/06/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64238,
+        "age": 35,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "unemployed",
+        "organization": "-",
+        "date": "15/06/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64223,
+        "age": 37,
+        "gender": "female",
+        "nationality": "India",
+        "occupation": "food stall vendor",
+        "organization": "115 Bukit Merah View Market & Food Centre",
+        "date": "15/06/2021",
+        "serology": "-",
+        "asymptomatic": "yes",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64224,
+        "age": 77,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "food stall vendor",
+        "organization": "115 Bukit Merah View Market & Food Centre",
+        "date": "15/06/2021",
+        "serology": "negative",
+        "asymptomatic": "yes",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 64225,
+        "age": 39,
+        "gender": "male",
+        "nationality": "India",
+        "occupation": "food stall vendor",
+        "organization": "115 Bukit Merah View Market & Food Centre",
+        "date": "15/06/2021",
+        "serology": "-",
+        "asymptomatic": "yes",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 64226,
+        "age": 30,
+        "gender": "male",
+        "nationality": "India",
+        "occupation": "supervisor",
+        "organization": "Keong Hong Construction Pte Ltd",
+        "date": "15/06/2021",
+        "serology": "negative",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64234,
+        "age": 33,
+        "gender": "female",
+        "nationality": "Singapore PR",
+        "occupation": "cleaner",
+        "organization": "SATS Facility Management",
+        "date": "15/06/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64229,
+        "age": 87,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "retiree",
+        "organization": "often visited 115 and 116 Bukit Merah View",
+        "date": "15/06/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64231,
+        "age": 35,
+        "gender": "male",
+        "nationality": "India",
+        "occupation": "sales executive",
+        "organization": "Halnaz Frozen Goods Pte Ltd",
+        "date": "15/06/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64232,
+        "age": 35,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "teacher",
+        "organization": "KidsCampus (Chai Chee)",
+        "date": "15/06/2021",
+        "serology": "-",
+        "asymptomatic": "yes",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64239,
+        "age": 72,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "retiree",
+        "organization": "-",
+        "date": "15/06/2021",
+        "serology": "-",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 64230,
+        "age": 35,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "senior executive",
+        "organization": "NETS",
+        "date": "15/06/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
         "id": 64219,
         "age": 26,
         "gender": "male",
@@ -491,7 +864,7 @@
         "gender": "male",
         "nationality": "Singapore",
         "occupation": "inmate",
-        "organization": "Changi Prison COmplex",
+        "organization": "Changi Prison Complex",
         "date": "10/06/2021",
         "serology": "-",
         "vaccinated": "-"
@@ -4996,17 +5369,6 @@
         "vaccinated": "-"
     },
     {
-        "id": 63379,
-        "age": 57,
-        "gender": "female",
-        "nationality": "Singapore",
-        "occupation": "-",
-        "organization": "Internal Security Department",
-        "date": "18/05/2021",
-        "serology": "-",
-        "vaccinated": "partial (1 dose)"
-    },
-    {
         "id": 63382,
         "age": 95,
         "gender": "female",
@@ -5035,28 +5397,6 @@
         "nationality": "Malaysia",
         "occupation": "kitchen crew",
         "organization": "Kota Zheng Zong Bak Kut Teh (Serangoon Gardens)",
-        "date": "18/05/2021",
-        "serology": "-",
-        "vaccinated": "-"
-    },
-    {
-        "id": 63403,
-        "age": 51,
-        "gender": "female",
-        "nationality": "Singapore",
-        "occupation": "clinic assistant",
-        "organization": "Dorothy's Baby and Child Clinic",
-        "date": "18/05/2021",
-        "serology": "-",
-        "vaccinated": "yes (2 doses)"
-    },
-    {
-        "id": 63409,
-        "age": 31,
-        "gender": "male",
-        "nationality": "Singapore",
-        "occupation": "-",
-        "organization": "Courts Funan",
         "date": "18/05/2021",
         "serology": "-",
         "vaccinated": "-"
@@ -5274,18 +5614,6 @@
         "vaccinated": "-"
     },
     {
-        "id": 63377,
-        "age": 59,
-        "gender": "female",
-        "nationality": "Singapore",
-        "occupation": "financial planner",
-        "organization": "Great Eastern",
-        "date": "18/05/2021",
-        "serology": "-",
-        "variant": "B.1.617",
-        "vaccinated": "partial (1 dose)"
-    },
-    {
         "id": 63333,
         "age": 26,
         "gender": "female",
@@ -5352,35 +5680,12 @@
         "vaccinated": "-"
     },
     {
-        "id": 63348,
-        "age": 47,
-        "gender": "female",
-        "nationality": "Singapore",
-        "occupation": "-",
-        "organization": "Inland Revenue Authority of Singapore",
-        "date": "17/05/2021",
-        "serology": "-",
-        "vaccinated": "-"
-    },
-    {
         "id": 63354,
         "age": 37,
         "gender": "female",
         "nationality": "Singapore",
         "occupation": "teacher",
         "organization": "Frontier Primary School",
-        "date": "17/05/2021",
-        "serology": "-",
-        "variant": "B.1.617",
-        "vaccinated": "-"
-    },
-    {
-        "id": 63356,
-        "age": 16,
-        "gender": "male",
-        "nationality": "Singapore PR",
-        "occupation": "Student",
-        "organization": "Singapore Polytechnic",
         "date": "17/05/2021",
         "serology": "-",
         "variant": "B.1.617",
@@ -5396,17 +5701,6 @@
         "date": "17/05/2021",
         "serology": "-",
         "vaccinated": "-"
-    },
-    {
-        "id": 63366,
-        "age": 20,
-        "gender": "male",
-        "nationality": "Singapore",
-        "occupation": "National Serviceman",
-        "organization": "SAF",
-        "date": "17/05/2021",
-        "serology": "-",
-        "vaccinated": "yes (2 doses)"
     },
     {
         "id": 63343,
@@ -6067,7 +6361,7 @@
         "date": "15/05/2021",
         "serology": "positive",
         "asymptomatic": "yes",
-        "vaccinated": "yes ( 2 doses)"
+        "vaccinated": "yes (2 doses)"
     },
     {
         "id": 63160,
@@ -6306,17 +6600,6 @@
         "vaccinated": "-"
     },
     {
-        "id": 63127,
-        "age": 43,
-        "gender": "female",
-        "nationality": "Myanmar",
-        "occupation": "foreign domestic worker",
-        "organization": "-",
-        "date": "13/05/2021",
-        "serology": "negative",
-        "vaccinated": "-"
-    },
-    {
         "id": 63131,
         "age": 50,
         "gender": "female",
@@ -6325,18 +6608,6 @@
         "organization": "Learning Point",
         "date": "13/05/2021",
         "serology": "-",
-        "vaccinated": "-"
-    },
-    {
-        "id": 63147,
-        "age": 51,
-        "gender": "female",
-        "nationality": "Philippines",
-        "occupation": "foreign domestic worker",
-        "organization": "-",
-        "date": "13/05/2021",
-        "serology": "-",
-        "variant": "B.1.617",
         "vaccinated": "-"
     },
     {
@@ -6992,7 +7263,7 @@
         "gender": "-",
         "nationality": "-",
         "occupation": "-",
-        "organization": "115 Bukit Merah View Market & Food Centre",
+        "organization": "115 Bukit Merah View Market & Food Centre (39 cases)",
         "date": "-",
         "serology": "-",
         "vaccinated": "-",
