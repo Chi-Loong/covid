@@ -30,11 +30,13 @@
 <div class="container">
   <div class="row">
     <div class="col-lg-9">
-        <h4 class="text-center display-6">SG Covid Case Clusters (current)</h4>
-        <p class="text-center">Last updated: <span id="casecount"><span></p>
         <div id="graph"></div>
     </div>
     <div class="col-lg-3">
+        <h4 class="text-center display-6">Historic cases</h4>
+        <h6 class="text-center">From 28 Apr 2021 to <span id="lastdate"><span></h6>
+        <h6 class="text-center">Total: <span id="casecount"><span></h6>
+    
         <div class="btn-group py-3" role="group" aria-label="">
           <input type="radio" class="btn-check" name="btnradio" id="dateSelect" autocomplete="off" checked>
           <label class="btn btn-outline-secondary btn-sm" for="dateSelect">Date</label>
@@ -100,13 +102,8 @@
         </div>
         <hr/>
         
-        <p class="text-center small">Not designed for mobile. Primarily for desktop.</p>
-        <p class="text-center small">Data set tracks open clusters and community cases from MOH press releases and annexes (up to 28 days ago). Cases before 28 days ago only shown if in open cluster.</p>
-        <p class="text-center small">Updated when detailed data is released late every night.</p>
-        <p class="text-center small">Click to select case. Search to highlight cases. Use scrollwheel to zoom. Drag background to pan.</p>
-        <h6 class="text-center">Data: <a href="https://www.moh.gov.sg/covid-19">MOH Covid-19 Site</a></h6>
         <h6 class="text-center"><a href="about.html">About piece</a></h6>
-        <h6 class="text-center"><a href="historic.html">Historic cases</a></h6>
+        <h6 class="text-center"><a href="index.html">Back to SG Covid case clusters</a></h6>
         <p class="text-center small">Chi-Loong | Supported by <a href="https://better.sg/" target="_blank"><img src="img/bettersg-logo.png" width="50"/></a></p>
         <div>
         </div>
@@ -116,7 +113,7 @@
     
 <script src="js/d3.v6.min.js"></script>
 <script src="js/lodash.min.js"></script>
-<script src="js/main.js"></script>
+<script src="js/historic.js"></script>
 
     <script type="text/javascript">
     var _gaq = _gaq || [];

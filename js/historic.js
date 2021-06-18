@@ -4,18 +4,16 @@ let caseResult = [];
 let searchString = "";
 let dateFormat = d3.timeParse("%d/%m/%Y");
 let currentDate = "18/06/2021";
-let dateScale = d3.scaleLinear()
-  .domain([d3.timeDay.offset(dateFormat(currentDate), -28), d3.timeDay.offset(dateFormat(currentDate), -14), dateFormat(currentDate)])
-  .range(["#aaa", "#ff0", "#f00"]);
+let startDate = "28/04/2021";
+let dateScale = d3.scaleSequential(d3.interpolateSpectral)
+  .domain([dateFormat(currentDate), dateFormat(startDate)]);
 
 let ageScale = d3.scaleQuantize([0, 90], d3.schemeRdBu[9]);
 let genderScale = d3.scaleOrdinal(["male", "female"], ["steelblue", "pink"]);
 let vaccinatedScale = d3.scaleOrdinal(["-", "partial (1 dose)", "yes (2 doses)"], ["#aaa", "yellow", "green"]);
 let asymptomaticScale = d3.scaleOrdinal(["-", "yes"], ["#aaa", "blueviolet"]);
 
-console.log(d3.timeDay.offset(dateFormat(currentDate), -28));
-
-Promise.all([d3.json("data/links.json"), d3.json("data/cases.json"), d3.json("data/MOHlinks.json")]).then(data => {
+Promise.all([d3.json("data/links-alltime.json"), d3.json("data/cases-alltime.json"), d3.json("data/MOHlinks.json")]).then(data => {
 
     data[0].forEach(e => {
         e.source = e.infector;
@@ -24,10 +22,11 @@ Promise.all([d3.json("data/links.json"), d3.json("data/cases.json"), d3.json("da
     
 caseResult = data[1];
 
-d3.select("#casecount").text(d3.timeFormat("%d %b %Y, %a")(dateFormat(data[2][0].date)) + " (" + (data[1].length - data[1].filter(d => d.bigcluster == true).length) + " cases)");
+d3.select("#lastdate").text(d3.timeFormat("%d %b %Y")(dateFormat(data[2][0].date)));
+d3.select("#casecount").text(data[1].length - data[1].filter(d => d.bigcluster == true).length + " cases");
 
-let width = 2000,
-    height = 1800;
+let width = 2400,
+    height = 2200;
 
 let force = d3.forceSimulation(data[1])
     .force("charge", d3.forceManyBody().strength(-300))
@@ -341,7 +340,7 @@ function drawChart(category, data) {
     let summaryData = data.filter(d => d.bigcluster != true);
     
         if (selection == "date") {
-            summaryData = summaryData.filter(d => dateFormat(d.date) >= d3.timeDay.offset(dateFormat(currentDate), -28));
+            //summaryData = summaryData.filter(d => dateFormat(d.date) >= d3.timeDay.offset(dateFormat(currentDate), -28));
             summaryData = _.entries(_.countBy(summaryData, d => d.date));
         } else if (selection == "age") {
             summaryData = _.entries(_.countBy(summaryData, d => Math.floor(d.age / 10))).map(d => [d[0] *10, d[1]]);
@@ -359,7 +358,7 @@ function drawChart(category, data) {
     let xScale = null;
         if (selection == "date") {
             xScale = d3.scaleTime()
-                .domain([d3.timeDay.offset(dateFormat(currentDate), -28), dateFormat(currentDate)])
+                .domain([dateFormat(startDate), dateFormat(currentDate)])
                 .range([0, chart.width - chart.margin.left - chart.margin.right]);
         } else if (selection == "age") {
             xScale = d3.scaleLinear()
@@ -391,7 +390,7 @@ function drawChart(category, data) {
             .append("g")
             .attr("class", "axis axis-x")
             .attr("transform", "translate(0, " + (chart.height - chart.margin.bottom - chart.margin.top) + ")")
-            .call(d3.axisBottom(xScale).ticks(5).tickFormat(d3.timeFormat("%d %b")));
+            .call(d3.axisBottom(xScale).ticks(5).tickFormat(d3.timeFormat("%d/%m")));
     } else if (selection == "age" || selection == "gender" || selection == "vaccinated" || selection == "asymptomatic") {
         summaryChart
             .append("g")
@@ -422,7 +421,7 @@ function drawChart(category, data) {
             .enter()
             .append("rect")
             .attr("x", d => xScale(dateFormat(d[0])) + 1)
-            .attr("width", 10)
+            .attr("width", 5)
             .attr("y", d => yScale(d[1]))
             .attr("height", d => yScale(0) - yScale(d[1]))
             .attr("stroke", "black")

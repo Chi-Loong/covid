@@ -1,0 +1,160 @@
+[{
+        "id": 64308,
+        "age": 69,
+        "gender": "male",
+        "nationality": "China",
+        "occupation": "retiree resident",
+        "organization": "NTUC Health Senior Group Home at Bukit Merah View",
+        "date": "18/06/2021",
+        "serology": "-",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 64310,
+        "age": 67,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "retiree",
+        "organization": "MSIG Insurance",
+        "date": "18/06/2021",
+        "serology": "",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 64311,
+        "age": 51,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "homemaker",
+        "organization": "-",
+        "date": "18/06/2021",
+        "serology": "negative",
+        "asymptomatic": "yes",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 64318,
+        "age": 83,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "retiree",
+        "organization": "-",
+        "date": "18/06/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64303,
+        "age": 5,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "student",
+        "organization": "PCF Sparkletots Preschool (78A Telok Blangah Street 32)",
+        "date": "18/06/2021",
+        "serology": "negative",
+        "asymptomatic": "yes",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64304,
+        "age": 4,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "student",
+        "organization": "PCF Sparkletots Preschool (78A Telok Blangah Street 32)",
+        "date": "18/06/2021",
+        "serology": "negative",
+        "asymptomatic": "yes",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64305,
+        "age": 39,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "logistics officer",
+        "organization": "CKD Singapore Pte Ltd",
+        "date": "18/06/2021",
+        "serology": "negative",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64316,
+        "age": 69,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "retiree",
+        "organization": "-",
+        "date": "18/06/2021",
+        "serology": "-",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 64298,
+        "age": 83,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "retiree",
+        "organization": "often visited 115 Bukit Merah View Market & Food Centre",
+        "date": "18/06/2021",
+        "serology": "negative",
+        "asymptomatic": "yes",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64299,
+        "age": 35,
+        "gender": "female",
+        "nationality": "China",
+        "occupation": "cashier",
+        "organization": "Bake King",
+        "date": "18/06/2021",
+        "serology": "negative",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64300,
+        "age": 72,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "retiree",
+        "organization": "often visited 115 Bukit Merah View Market & Food Centre",
+        "date": "18/06/2021",
+        "serology": "-",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 64307,
+        "age": 64,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "school bus driver",
+        "organization": "KAL Transport Pte Ltd, Tanglin Trust School",
+        "date": "18/06/2021",
+        "serology": "-",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 64315,
+        "age": 42,
+        "gender": "female",
+        "nationality": "Myanmar",
+        "occupation": "foreign domestic worker",
+        "organization": "-",
+        "date": "18/06/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64312,
+        "age": 59,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "retiree",
+        "organization": "-",
+        "date": "18/06/2021",
+        "serology": "negative",
+        "vaccinated": "-"
+    }
+]
+
