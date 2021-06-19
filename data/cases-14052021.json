@@ -18,7 +18,7 @@
         "organization": "Wok Hey White Sands",
         "date": "14/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63183,
@@ -29,7 +29,7 @@
         "organization": "-",
         "date": "14/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63220,
@@ -40,7 +40,7 @@
         "organization": "GrabFood",
         "date": "14/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63184,
@@ -51,7 +51,7 @@
         "organization": "St Stephen's School",
         "date": "14/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63185,
@@ -62,7 +62,7 @@
         "organization": "Kong Hwa School",
         "date": "14/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63186,
@@ -73,7 +73,7 @@
         "organization": "St Andrew's Junior School",
         "date": "14/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63187,
@@ -84,7 +84,7 @@
         "organization": "Kong Hwa School",
         "date": "14/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63188,
@@ -95,7 +95,7 @@
         "organization": "St Stephen's School",
         "date": "14/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63221,
@@ -119,7 +119,7 @@
         "date": "14/05/2021",
         "serology": "negative",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63165,
@@ -130,7 +130,7 @@
         "organization": "Store at Ngee Ann City",
         "date": "14/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63167,
@@ -152,7 +152,7 @@
         "organization": "language school",
         "date": "14/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63177,
@@ -163,7 +163,7 @@
         "organization": "Ministry of Manpower",
         "date": "14/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63178,
@@ -198,7 +198,7 @@
         "date": "14/05/2021",
         "serology": "-",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63181,
@@ -209,7 +209,7 @@
         "organization": "-",
         "date": "14/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63191,
@@ -220,7 +220,7 @@
         "organization": "Idemia Singapore Pte Ltd, Changi Airport Terminal 1 and 4",
         "date": "14/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63192,

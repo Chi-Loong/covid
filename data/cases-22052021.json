@@ -7,7 +7,7 @@
         "organization": "-",
         "date": "22/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63575,
@@ -18,7 +18,7 @@
         "organization": "Assalaamu’alaikum Enterprise Pte Ltd",
         "date": "22/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63580,
@@ -29,7 +29,7 @@
         "organization": "-",
         "date": "22/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63582,
@@ -40,7 +40,7 @@
         "organization": "Baxter Healthcare SA Singapore Branch",
         "date": "22/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63588,
@@ -52,7 +52,7 @@
         "date": "22/05/2021",
         "serology": "-",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63591,
@@ -63,7 +63,7 @@
         "organization": "Sony Electronics Pte Ltd, visited Westgate",
         "date": "22/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63593,
@@ -74,7 +74,7 @@
         "organization": "Fun Toast (Westgate Tower)",
         "date": "22/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63586,
@@ -85,7 +85,7 @@
         "organization": "-",
         "date": "22/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63571,
@@ -96,7 +96,7 @@
         "organization": "Singapore Polytechnic, SATS Food Services Pte Ltd",
         "date": "22/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63577,
@@ -107,7 +107,7 @@
         "organization": "Sms Infocmm(Singapore)Pte Ltd",
         "date": "22/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63579,
@@ -118,7 +118,7 @@
         "organization": "Pacific Law Pte Ltd",
         "date": "22/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63569,
@@ -129,7 +129,7 @@
         "organization": "IVIC Logistic Pte Ltd, McDonald’s (Pasir Ris Elias Community Club)",
         "date": "22/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63559,
@@ -151,7 +151,7 @@
         "organization": "My First Skool(51 Fernvale Link)",
         "date": "22/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63578,
@@ -162,7 +162,7 @@
         "organization": "-",
         "date": "22/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63570,
@@ -173,7 +173,7 @@
         "organization": "-",
         "date": "22/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63584,
@@ -184,7 +184,7 @@
         "organization": "Springdale Primary School",
         "date": "22/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63585,
@@ -195,7 +195,7 @@
         "organization": "M.Y. World Preschool (Anchorvale Parkview)",
         "date": "22/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63592,
@@ -207,7 +207,7 @@
         "date": "22/05/2021",
         "serology": "-",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63581,
@@ -229,7 +229,7 @@
         "organization": "Singapore Polytechnic",
         "date": "22/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63572,
@@ -240,6 +240,6 @@
         "organization": "-",
         "date": "22/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     }
 ]

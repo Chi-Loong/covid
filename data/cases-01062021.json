@@ -7,7 +7,7 @@
         "organization": "-",
         "date": "01/06/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63924,
@@ -18,7 +18,7 @@
         "organization": "MINDSville@Napiri",
         "date": "01/06/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63930,
@@ -29,7 +29,7 @@
         "organization": "SMN Elite Security Services, Shriro House(11 Chang Charn Road)",
         "date": "01/06/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63931,
@@ -40,7 +40,7 @@
         "organization": "-",
         "date": "01/06/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63932,
@@ -62,7 +62,7 @@
         "organization": "TOP Parking Pte Ltd",
         "date": "01/06/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63936,
@@ -73,7 +73,7 @@
         "organization": "Pizza Hut (Houganag Green)",
         "date": "01/06/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63929,
@@ -84,7 +84,7 @@
         "organization": "Ang Mo Kio Thye Kwan Hospital",
         "date": "01/06/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63933,
@@ -95,7 +95,7 @@
         "organization": "-",
         "date": "01/06/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63917,
@@ -106,7 +106,7 @@
         "organization": "Chir Chir Restaurant (Bugis Junction)",
         "date": "01/06/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63923,
@@ -118,7 +118,7 @@
         "date": "01/06/2021",
         "serology": "positive",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63938,
@@ -130,7 +130,7 @@
         "date": "01/06/2021",
         "serology": "-",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63920,
@@ -141,7 +141,7 @@
         "organization": "My First Skool (332B Anchorvale Link)",
         "date": "01/06/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63928,
@@ -152,7 +152,7 @@
         "organization": "-",
         "date": "01/06/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63927,
@@ -163,7 +163,7 @@
         "organization": "ST Engineering Innosparks",
         "date": "01/06/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     }
 ]
 

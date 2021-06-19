@@ -19,7 +19,7 @@
         "organization": "Tan Tock Seng Hospital Ward 9D",
         "date": "04/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 62808,
@@ -30,7 +30,7 @@
         "organization": "Tan Tock Seng Hospital Ward 9D",
         "date": "04/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 62803,
@@ -52,6 +52,6 @@
         "organization": "Tan Tock Seng Hospital Ward 9D",
         "date": "04/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     }
 ]

@@ -19,7 +19,7 @@
         "organization": "-",
         "date": "02/06/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63964,
@@ -66,7 +66,7 @@
         "serology": "-",
         "variant": "B.1.617",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63960,
@@ -77,7 +77,7 @@
         "organization": "Zenith Healing @ La Maison De Ja",
         "date": "02/06/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63952,
@@ -89,7 +89,7 @@
         "date": "02/06/2021",
         "serology": "-",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63953,
@@ -101,7 +101,7 @@
         "date": "02/06/2021",
         "serology": "-",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63970,
@@ -112,7 +112,7 @@
         "organization": "Fu Hua Primary School",
         "date": "02/06/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63949,
@@ -167,7 +167,7 @@
         "organization": "NTUC Foodfar (308 Anchorvale Road)",
         "date": "02/06/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63951,
@@ -179,7 +179,7 @@
         "date": "02/06/2021",
         "serology": "negative",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63954,
@@ -191,7 +191,7 @@
         "date": "02/06/2021",
         "serology": "-",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63955,
@@ -213,7 +213,7 @@
         "organization": "Versaform",
         "date": "02/06/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63940,
@@ -237,7 +237,7 @@
         "date": "02/06/2021",
         "serology": "negative",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63963,
@@ -248,7 +248,7 @@
         "organization": "PCF Sparkletots Preschool (Kreta Ayer – Kim Seng)",
         "date": "02/06/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63966,
@@ -259,7 +259,7 @@
         "organization": "328 Katong Laksa Tiong Bahru Plaza",
         "date": "02/06/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63969,
@@ -270,7 +270,7 @@
         "organization": "Atatcutz Singapore (348 Bedok Road)",
         "date": "02/06/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     }
 ]
 

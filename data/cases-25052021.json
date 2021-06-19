@@ -7,7 +7,7 @@
         "organization": "Tiger Sugar Bubble Tea (Holland Plaza)",
         "date": "25/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63708,
@@ -18,7 +18,7 @@
         "organization": "Westwood Secondary School",
         "date": "25/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63710,
@@ -29,7 +29,7 @@
         "organization": "Fei Ying Trading Enterprise",
         "date": "25/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63711,
@@ -40,7 +40,7 @@
         "organization": "Sengkang General Hospital",
         "date": "25/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63714,
@@ -73,7 +73,7 @@
         "organization": "Kranji Secondary School",
         "date": "25/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63707,
@@ -84,7 +84,7 @@
         "organization": "Rulang Primary School",
         "date": "25/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63706,
@@ -95,7 +95,7 @@
         "organization": "Citibank",
         "date": "25/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63694,
@@ -106,7 +106,7 @@
         "organization": "Domino's Pizza (Tanjong Katong)",
         "date": "25/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63713,
@@ -118,7 +118,7 @@
         "date": "25/05/2021",
         "serology": "-",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63717,
@@ -129,7 +129,7 @@
         "organization": "McDonald's (Bedok Reservoir)",
         "date": "25/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63699,
@@ -140,7 +140,7 @@
         "organization": "Greenland Technology Pte Ltd",
         "date": "25/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63700,
@@ -152,7 +152,7 @@
         "date": "25/05/2021",
         "serology": "-",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63701,
@@ -163,7 +163,7 @@
         "organization": "-",
         "date": "25/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63702,
@@ -174,7 +174,7 @@
         "organization": "Chong Pang City",
         "date": "25/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63703,
@@ -185,7 +185,7 @@
         "organization": "-",
         "date": "25/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63709,
@@ -196,6 +196,6 @@
         "organization": "Prestige Legal LLP",
         "date": "25/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     }
 ]

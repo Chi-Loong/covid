@@ -8,7 +8,7 @@
         "date": "03/05/2021",
         "serology": "negative",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 62780,
@@ -20,7 +20,7 @@
         "date": "03/05/2021",
         "serology": "-",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 62786,
@@ -32,7 +32,7 @@
         "date": "03/05/2021",
         "serology": "negative",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 62787,
@@ -43,7 +43,7 @@
         "organization": "Tan Tock Seng Hospital Ward 9D",
         "date": "03/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 62791,
@@ -55,7 +55,7 @@
         "date": "03/05/2021",
         "serology": "negative",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 62794,
@@ -66,7 +66,7 @@
         "organization": "Tan Tock Seng Hospital Ward 9D",
         "date": "03/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 62795,
@@ -78,7 +78,7 @@
         "date": "03/05/2021",
         "serology": "negative",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 62781,
@@ -89,7 +89,7 @@
         "organization": "UEM Solutions Pte Ltd, Tan Tock Seng Hospital",
         "date": "03/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 62784,
@@ -100,7 +100,7 @@
         "organization": "Tan Tock Seng Hospital emergency department",
         "date": "03/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 62790,

@@ -31,7 +31,7 @@
         "date": "29/04/2021",
         "serology": "negative",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 62561,
@@ -42,7 +42,7 @@
         "organization": "Tan Tock Seng Hospital, Ward9D",
         "date": "29/04/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 62567,
@@ -53,7 +53,7 @@
         "organization": "Tan Tock Seng Hospital, Ward9D",
         "date": "29/04/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 62568,
@@ -64,7 +64,7 @@
         "organization": "Tan Tock Seng Hospital, Ward9D",
         "date": "29/04/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 62573,
@@ -76,7 +76,7 @@
         "date": "29/04/2021",
         "serology": "-",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 62574,
@@ -88,7 +88,7 @@
         "date": "29/04/2021",
         "serology": "positive",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 62582,
@@ -100,7 +100,7 @@
         "date": "29/04/2021",
         "serology": "-",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 62571,
@@ -111,7 +111,7 @@
         "organization": "ION Orchard",
         "date": "29/04/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 62572,
@@ -122,7 +122,7 @@
         "organization": "-",
         "date": "29/04/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 62576,
@@ -134,7 +134,7 @@
         "date": "29/04/2021",
         "serology": "-",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 62583,
@@ -146,7 +146,7 @@
         "date": "29/04/2021",
         "serology": "-",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 62594,
@@ -158,7 +158,7 @@
         "date": "29/04/2021",
         "serology": "-",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 62595,
@@ -170,7 +170,7 @@
         "date": "29/04/2021",
         "serology": "-",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 62597,
@@ -181,6 +181,6 @@
         "organization": "SP PowerGrid",
         "date": "29/04/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     }
 ]

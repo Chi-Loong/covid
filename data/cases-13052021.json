@@ -8,7 +8,7 @@
         "date": "13/05/2021",
         "serology": "-",
         "variant": "B.1.617",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63127,
@@ -19,7 +19,7 @@
         "organization": "-",
         "date": "13/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63131,
@@ -30,7 +30,7 @@
         "organization": "Learning Point",
         "date": "13/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63147,
@@ -42,7 +42,7 @@
         "date": "13/05/2021",
         "serology": "-",
         "variant": "B.1.617",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63122,
@@ -53,7 +53,7 @@
         "organization": "Yio Chu Kang Primary School",
         "date": "13/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63115,
@@ -75,7 +75,7 @@
         "organization": "Changi Airport Terminal 3",
         "date": "13/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63118,
@@ -88,7 +88,7 @@
         "serology": "-",
         "variant": "B.1.167",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63119,
@@ -135,7 +135,7 @@
         "date": "13/05/2021",
         "serology": "-",
         "variant": "B.1.617",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63129,
@@ -159,7 +159,7 @@
         "date": "13/05/2021",
         "serology": "negative",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63135,
@@ -170,7 +170,7 @@
         "organization": "-",
         "date": "13/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63136,
@@ -182,7 +182,7 @@
         "date": "13/05/2021",
         "serology": "-",
         "variant": "B.1.617",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63138,
@@ -194,7 +194,7 @@
         "date": "13/05/2021",
         "serology": "negative",
         "variant": "B.1.617",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63139,
@@ -205,7 +205,7 @@
         "organization": "visited Changi Airport Terminal 3 multiple times",
         "date": "13/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63140,
@@ -239,7 +239,7 @@
         "date": "13/05/2021",
         "serology": "-",
         "variant": "B.1.617",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63148,
@@ -250,7 +250,7 @@
         "organization": "overseas university, on home-based learning",
         "date": "13/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63149,
@@ -262,7 +262,7 @@
         "date": "13/05/2021",
         "serology": "-",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63150,

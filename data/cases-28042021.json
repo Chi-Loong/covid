@@ -7,7 +7,7 @@
         "organization": "Changi Airport Terminal 1",
         "date": "28/04/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 62526,
@@ -19,7 +19,7 @@
         "date": "28/04/2021",
         "serology": "positive",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 62541,

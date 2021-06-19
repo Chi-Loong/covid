@@ -7,7 +7,7 @@
         "organization": "Fairfield Book Publishers",
         "date": "19/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63443,
@@ -18,7 +18,7 @@
         "organization": "Alexandra Hospital",
         "date": "19/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63446,
@@ -29,7 +29,7 @@
         "organization": "Patec Pte Ltd",
         "date": "19/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63453,
@@ -51,7 +51,7 @@
         "organization": "Nana Green Tea at DUO Galleria",
         "date": "19/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63431,
@@ -62,7 +62,7 @@
         "organization": "AFPD Pte Ltd",
         "date": "19/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63444,
@@ -74,7 +74,7 @@
         "date": "19/05/2021",
         "serology": "negative",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63445,
@@ -86,7 +86,7 @@
         "date": "19/05/2021",
         "serology": "negative",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63447,
@@ -97,7 +97,7 @@
         "organization": "St Stephen's School",
         "date": "19/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63452,
@@ -108,7 +108,7 @@
         "organization": "St Anthony Canossian Primary School",
         "date": "19/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63458,
@@ -131,7 +131,7 @@
         "organization": "-",
         "date": "19/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63424,
@@ -143,7 +143,7 @@
         "date": "19/05/2021",
         "serology": "negative",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63438,
@@ -166,7 +166,7 @@
         "organization": "Changi Prison Complex",
         "date": "19/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63427,
@@ -177,7 +177,7 @@
         "organization": "Changi Prison Complex",
         "date": "19/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63428,
@@ -188,7 +188,7 @@
         "organization": "Changi Prison Complex",
         "date": "19/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63425,
@@ -199,7 +199,7 @@
         "organization": "Jin Tai Tong Chinese Medical Centre",
         "date": "19/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63442,
@@ -210,7 +210,7 @@
         "organization": "Jin Tai Tong Food Industries Pte Ltd",
         "date": "19/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63439,
@@ -221,7 +221,7 @@
         "organization": "Marina Bay Sands Casino",
         "date": "19/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63448,
@@ -232,7 +232,7 @@
         "organization": "Sms Infocomm (Singapore) Pte Ltd",
         "date": "19/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63421,
@@ -243,7 +243,7 @@
         "organization": "-",
         "date": "19/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63430,
@@ -254,7 +254,7 @@
         "organization": "Safari Lakehouse (Lakeside)",
         "date": "19/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63455,
@@ -276,7 +276,7 @@
         "organization": "SP Trading Pte Ltd",
         "date": "19/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63434,
@@ -287,7 +287,7 @@
         "organization": "-",
         "date": "19/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63435,
@@ -298,7 +298,7 @@
         "organization": "Yu Ying Secondary School",
         "date": "19/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63436,
@@ -309,7 +309,7 @@
         "organization": "Ceva Logistics",
         "date": "19/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63440,
@@ -321,7 +321,7 @@
         "date": "19/05/2021",
         "serology": "negative",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63429,
@@ -332,7 +332,7 @@
         "organization": "Hearts Alive Church",
         "date": "19/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63433,
@@ -343,7 +343,7 @@
         "organization": "M-DAQ Pte Ltd",
         "date": "19/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63437,
@@ -354,7 +354,7 @@
         "organization": "",
         "date": "19/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63454,

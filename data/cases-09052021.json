@@ -8,7 +8,7 @@
         "date": "09/05/2021",
         "serology": "negative",
         "variant": "B.1.617",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 62998,
@@ -20,7 +20,7 @@
         "date": "09/05/2021",
         "serology": "negative",
         "variant": "B.1.617",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63005,
@@ -42,7 +42,7 @@
         "organization": "Ramky Cleantech Services Pte Ltd, Changi Airport Terminal 3",
         "date": "09/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 62972,
@@ -87,7 +87,7 @@
         "organization": "warded in Tan Tock Seng Hospital Ward 9D",
         "date": "09/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63008,
@@ -99,7 +99,7 @@
         "date": "09/05/2021",
         "serology": "negative",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63009,
@@ -110,6 +110,6 @@
         "organization": "warded in Tan Tock Seng Hospital Ward 9D",
         "date": "09/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     }
 ]

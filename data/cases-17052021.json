@@ -7,7 +7,7 @@
         "organization": "National Institute of Education (NIE)",
         "date": "17/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63334,
@@ -18,7 +18,7 @@
         "organization": "-",
         "date": "17/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63335,
@@ -29,7 +29,7 @@
         "organization": "Pacific Law Corporation",
         "date": "17/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63336,
@@ -40,7 +40,7 @@
         "organization": "Invade Industry Pte Ltd",
         "date": "17/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63345,
@@ -51,7 +51,7 @@
         "organization": "Alan Photo Pte Ltd (Funan Mall)",
         "date": "17/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63347,
@@ -62,7 +62,7 @@
         "organization": "Clean Hub Facility Pte Ltd (EuHabitat)",
         "date": "17/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63348,
@@ -73,7 +73,7 @@
         "organization": "Inland Revenue Authority of Singapore",
         "date": "17/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63354,
@@ -85,7 +85,7 @@
         "date": "17/05/2021",
         "serology": "-",
         "variant": "B.1.617",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63356,
@@ -97,7 +97,7 @@
         "date": "17/05/2021",
         "serology": "-",
         "variant": "B.1.617",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63357,
@@ -108,7 +108,7 @@
         "organization": "AbbVie Operations Singapore Pte Ltd",
         "date": "17/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63366,
@@ -130,7 +130,7 @@
         "organization": "-",
         "date": "17/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63344,
@@ -154,7 +154,7 @@
         "date": "17/05/2021",
         "serology": "negative",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63351,
@@ -166,7 +166,7 @@
         "date": "17/05/2021",
         "serology": "-",
         "variant": "B.1.617",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63353,
@@ -177,7 +177,7 @@
         "organization": "Maha Bodhi School",
         "date": "17/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63337,
@@ -199,7 +199,7 @@
         "organization": "-",
         "date": "17/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63350,
@@ -211,7 +211,7 @@
         "date": "17/05/2021",
         "serology": "-",
         "variant": "B.1.617",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63349,
@@ -222,7 +222,7 @@
         "organization": "-",
         "date": "17/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63363,

@@ -41,7 +41,7 @@
         "organization": "-",
         "date": "18/06/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64303,
@@ -53,7 +53,7 @@
         "date": "18/06/2021",
         "serology": "negative",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64304,
@@ -65,7 +65,7 @@
         "date": "18/06/2021",
         "serology": "negative",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64305,
@@ -76,7 +76,7 @@
         "organization": "CKD Singapore Pte Ltd",
         "date": "18/06/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64316,
@@ -99,7 +99,7 @@
         "date": "18/06/2021",
         "serology": "negative",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64299,
@@ -110,7 +110,7 @@
         "organization": "Bake King",
         "date": "18/06/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64300,
@@ -143,7 +143,7 @@
         "organization": "-",
         "date": "18/06/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64312,
@@ -154,7 +154,7 @@
         "organization": "-",
         "date": "18/06/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     }
 ]
 

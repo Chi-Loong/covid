@@ -224,7 +224,7 @@
         "date": "03/06/2021",
         "serology": "-",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63997,
@@ -236,7 +236,7 @@
         "date": "03/06/2021",
         "serology": "-",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64001,
@@ -294,7 +294,7 @@
         "organization": "NTUC Foodfare (308 Anchorvale Road)",
         "date": "03/06/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63999,
@@ -317,7 +317,7 @@
         "date": "03/06/2021",
         "serology": "negative",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64022,
@@ -328,7 +328,7 @@
         "organization": "Great Eastern Life, GrabFood",
         "date": "03/06/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64000,
@@ -339,7 +339,7 @@
         "organization": "School in Malaysia",
         "date": "03/06/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63981,
@@ -350,7 +350,7 @@
         "organization": "Singapore University of Social Sciences",
         "date": "03/06/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64010,
@@ -361,7 +361,7 @@
         "organization": "-",
         "date": "03/06/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64011,
@@ -406,7 +406,7 @@
         "date": "03/06/2021",
         "serology": "-",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     }
 ]
 

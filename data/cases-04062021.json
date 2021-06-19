@@ -7,7 +7,7 @@
         "organization": "Hwa Chong Institution",
         "date": "04/06/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64026,
@@ -18,7 +18,7 @@
         "organization": "Fuhua Primary School",
         "date": "04/06/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64032,
@@ -29,7 +29,7 @@
         "organization": "Wongso Limousine Services",
         "date": "04/06/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64027,
@@ -41,7 +41,7 @@
         "date": "04/06/2021",
         "serology": "negative",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64028,
@@ -76,7 +76,7 @@
         "organization": "Citibank",
         "date": "04/06/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     }
 ]
 

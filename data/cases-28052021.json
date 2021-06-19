@@ -7,7 +7,7 @@
         "organization": "I-VIC Logistic Pte Ltd, McDonald's(Hougang Aveneue 8)",
         "date": "28/05/2021",
         "serology": "positive",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63805,
@@ -18,7 +18,7 @@
         "organization": "Sri Murugan Trading Pte Ltd (Anchorvale)",
         "date": "28/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63806,
@@ -62,7 +62,7 @@
         "organization": "Royz Et Vouz (39 Sultan Gate)",
         "date": "28/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63798,
@@ -73,7 +73,7 @@
         "organization": "Lee Kong Chian Gardens School",
         "date": "28/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63799,
@@ -84,7 +84,7 @@
         "organization": "ABBA Maintenance Pte Ltd",
         "date": "28/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63802,
@@ -95,7 +95,7 @@
         "organization": "New Town Primary School",
         "date": "28/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63791,
@@ -106,7 +106,7 @@
         "organization": "Pano Kato Grill, Pizza & Dell",
         "date": "28/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63793,
@@ -118,7 +118,7 @@
         "date": "28/05/2021",
         "serology": "-",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63796,
@@ -129,7 +129,7 @@
         "organization": "DM Wines Pte Ltd",
         "date": "28/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63794,
@@ -140,7 +140,7 @@
         "organization": "CIMB Bank (Raffles Branch)",
         "date": "28/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63804,
@@ -151,7 +151,7 @@
         "organization": "Chai & Chai Trading",
         "date": "28/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63776,
@@ -163,6 +163,6 @@
         "date": "28/05/2021",
         "serology": "-",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     }
 ]

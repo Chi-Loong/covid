@@ -30,7 +30,7 @@
         "organization": "St Stephen's School",
         "date": "23/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63615,
@@ -41,7 +41,7 @@
         "organization": "STMicroelectronics Pte Ltd",
         "date": "23/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63616,
@@ -52,7 +52,7 @@
         "organization": "Hong Ye Group Pte Ltd, Changi Business Park",
         "date": "23/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63597,
@@ -65,7 +65,7 @@
         "serology": "-",
         "asymptomatic": "yes",
         "variant": "B.1.617",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63600,
@@ -76,7 +76,7 @@
         "organization": "Yamaha Music School, JEM/Westgate",
         "date": "23/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63606,
@@ -88,7 +88,7 @@
         "date": "23/05/2021",
         "serology": "-",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63607,
@@ -101,7 +101,7 @@
         "serology": "-",
         "variant": "B.1.617",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63610,
@@ -112,7 +112,7 @@
         "organization": "98 Hair House Pte Ltd",
         "date": "23/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63603,
@@ -123,7 +123,7 @@
         "organization": "McDonald’s (Pasir Ris Elias Community Club)",
         "date": "23/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63624,
@@ -134,7 +134,7 @@
         "organization": "McDonald’s (Pasir Ris Elias Community Club)",
         "date": "23/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63620,
@@ -157,7 +157,7 @@
         "date": "23/05/2021",
         "serology": "negative",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63621,
@@ -168,7 +168,7 @@
         "organization": "Heart Field Kindergarten",
         "date": "23/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63598,
@@ -179,7 +179,7 @@
         "organization": "Sure Clean Pte Ltd",
         "date": "23/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63601,
@@ -190,7 +190,7 @@
         "organization": "-",
         "date": "23/05/2021",
         "serology": "positive",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63627,
@@ -212,7 +212,7 @@
         "organization": "-",
         "date": "23/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63618,

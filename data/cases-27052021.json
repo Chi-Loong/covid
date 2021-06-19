@@ -7,7 +7,7 @@
         "organization": "GovTech",
         "date": "27/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63757,
@@ -18,7 +18,7 @@
         "organization": "-",
         "date": "27/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63751,
@@ -42,7 +42,7 @@
         "date": "27/05/2021",
         "serology": "negative",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63761,
@@ -53,7 +53,7 @@
         "organization": "Hong Ye Group Pte Ltd, Changi Business Park",
         "date": "27/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63765,
@@ -64,7 +64,7 @@
         "organization": "Hong Ye Group Pte Ltd, Changi Business Park",
         "date": "27/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63758,
@@ -87,7 +87,7 @@
         "organization": "Alpha Ausio Pte Ltd",
         "date": "27/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63762,
@@ -110,7 +110,7 @@
         "organization": "Tektronix Southeast Asia Pte Ltd",
         "date": "27/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63773,
@@ -121,7 +121,7 @@
         "organization": "MV Credit Pte Ltd",
         "date": "27/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63756,
@@ -132,7 +132,7 @@
         "organization": "Kim Transport, Grab",
         "date": "27/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63764,
@@ -155,6 +155,6 @@
         "organization": "Assalaamu’alaikum Enterprise Pte Ltd",
         "date": "27/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     }
 ]

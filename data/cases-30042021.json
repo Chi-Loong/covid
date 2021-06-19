@@ -7,7 +7,7 @@
         "organization": "National University of Singapore",
         "date": "30/04/2021",
         "serology": "positive",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 62621,
@@ -18,7 +18,7 @@
         "organization": "-",
         "date": "30/04/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 62622,
@@ -29,7 +29,7 @@
         "organization": "-",
         "date": "30/04/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 62629,
@@ -40,7 +40,7 @@
         "organization": "New Odense Confectionery & Bakery",
         "date": "30/04/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 62638,
@@ -51,7 +51,7 @@
         "organization": "Exceltec Property Management Pte Ltd",
         "date": "30/04/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 62615,
@@ -74,7 +74,7 @@
         "organization": "Tan Tock Seng Hospital Ward 9D",
         "date": "30/04/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 62643,
@@ -86,7 +86,7 @@
         "date": "30/04/2021",
         "serology": "-",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 62648,
@@ -98,6 +98,6 @@
         "date": "30/04/2021",
         "serology": "-",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     }
 ]

@@ -7,7 +7,7 @@
         "organization": "-",
         "date": "16/06/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64263,
@@ -18,7 +18,7 @@
         "organization": "-",
         "date": "16/06/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64264,
@@ -29,7 +29,7 @@
         "organization": "-",
         "date": "16/06/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64240,
@@ -52,7 +52,7 @@
         "organization": "CHIJ St Theresa's Convent",
         "date": "16/06/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64242,
@@ -64,7 +64,7 @@
         "date": "16/06/2021",
         "serology": "-",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64246,
@@ -121,7 +121,7 @@
         "organization": "Gan Eng Seng School",
         "date": "16/06/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64243,
@@ -133,7 +133,7 @@
         "date": "16/06/2021",
         "serology": "-",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64244,
@@ -155,7 +155,7 @@
         "organization": "Tiong Bahru Yong Tao Hu (56 Eng Hoon Street)",
         "date": "16/06/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64257,
@@ -166,7 +166,7 @@
         "organization": "often visited 115 Bukit Merah View Market & Food Centre",
         "date": "16/06/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64258,
@@ -200,7 +200,7 @@
         "date": "16/06/2021",
         "serology": "negative",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64255,
@@ -211,7 +211,7 @@
         "organization": "-",
         "date": "16/06/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     }
 ]
 

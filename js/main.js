@@ -10,8 +10,8 @@ let dateScale = d3.scaleLinear()
 
 let ageScale = d3.scaleQuantize([0, 90], d3.schemeRdBu[9]);
 let genderScale = d3.scaleOrdinal(["male", "female"], ["steelblue", "pink"]);
-let vaccinatedScale = d3.scaleOrdinal(["-", "partial (1 dose)", "yes (2 doses)"], ["#aaa", "yellow", "green"]);
-let asymptomaticScale = d3.scaleOrdinal(["-", "yes"], ["#aaa", "blueviolet"]);
+let vaccinatedScale = d3.scaleOrdinal(["no", "partial (1 dose)", "yes (2 doses)"], ["#aaa", "yellow", "green"]);
+let asymptomaticScale = d3.scaleOrdinal(["no", "yes"], ["#aaa", "blueviolet"]);
 let barToggle = false;
 
 console.log(d3.timeDay.offset(dateFormat(currentDate), -28));
@@ -370,7 +370,7 @@ function drawChart(category, dataset) {
             summaryData = _.entries(_.countBy(summaryData, d => d.vaccinated));
         } else if (selection == "asymptomatic") {
             summaryData = _.entries(_.countBy(summaryData, d => d.asymptomatic))
-                            .map(d => {if (d[0] == "undefined") return ["-", d[1]]; else return [d[0], d[1]]});
+                            .map(d => {if (d[0] == "undefined") return ["no", d[1]]; else return [d[0], d[1]]});
         }
         
     //console.log(summaryData);
@@ -391,12 +391,12 @@ function drawChart(category, dataset) {
                 .padding(0.1);
         } else if (selection == "vaccinated") {
             xScale = d3.scaleBand()
-                .domain(["-", "partial (1 dose)", "yes (2 doses)"])
+                .domain(["no", "partial (1 dose)", "yes (2 doses)"])
                 .rangeRound([0, chart.width - chart.margin.left - chart.margin.right])
                 .padding(0.1);
         } else if (selection == "asymptomatic") {
             xScale = d3.scaleBand()
-                .domain(["-", "yes"])
+                .domain(["no", "yes"])
                 .rangeRound([0, chart.width - chart.margin.left - chart.margin.right])
                 .padding(0.1);
         }
@@ -480,7 +480,7 @@ function drawChart(category, dataset) {
                 caseResult = data[1].filter(e => {
                     if (selection == "age") {
                         return e[selection] >= d[0] && e[selection] < d[0] + 10;
-                    } else if (selection == "asymptomatic" && d[0] == "-") {
+                    } else if (selection == "asymptomatic" && d[0] == "no") {
                         return e[selection] != "yes";
                     } else {
                         return e[selection] == d[0];

@@ -8,7 +8,7 @@
         "organization": "DBS at Marina Bay Financial Tower 3",
         "date": "18/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63379,
@@ -30,7 +30,7 @@
         "organization": "-",
         "date": "18/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63392,
@@ -41,7 +41,7 @@
         "organization": "Corner Stone Global Partners Pte Ltd",
         "date": "18/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63399,
@@ -52,7 +52,7 @@
         "organization": "Kota Zheng Zong Bak Kut Teh (Serangoon Gardens)",
         "date": "18/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63403,
@@ -74,7 +74,7 @@
         "organization": "Courts Funan",
         "date": "18/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63412,
@@ -85,7 +85,7 @@
         "organization": "Jin Tai Tong Food Industries Pte Ltd",
         "date": "18/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63413,
@@ -96,7 +96,7 @@
         "organization": "DCSS Technology Pte Ltd",
         "date": "18/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63414,
@@ -129,7 +129,7 @@
         "organization": "Accenture",
         "date": "18/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63389,
@@ -154,7 +154,7 @@
         "date": "18/05/2021",
         "serology": "-",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63386,
@@ -165,7 +165,7 @@
         "organization": "-",
         "date": "18/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63390,
@@ -176,7 +176,7 @@
         "organization": "Zespri Hub",
         "date": "18/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63391,
@@ -187,7 +187,7 @@
         "organization": "Catholic High School",
         "date": "18/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63400,
@@ -198,7 +198,7 @@
         "organization": "CHIJ (Katong) Primary School",
         "date": "18/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63383,
@@ -209,7 +209,7 @@
         "organization": "Yuhua Primary School",
         "date": "18/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63384,
@@ -220,7 +220,7 @@
         "organization": "Spring Court Restaurant",
         "date": "18/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63381,
@@ -231,7 +231,7 @@
         "organization": "-",
         "date": "18/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63393,
@@ -242,7 +242,7 @@
         "organization": "My First Skool (Westgate)",
         "date": "18/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63408,
@@ -253,7 +253,7 @@
         "organization": "-",
         "date": "18/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63370,
@@ -264,7 +264,7 @@
         "organization": "ITE College Central",
         "date": "18/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63388,
@@ -275,7 +275,7 @@
         "organization": "The Goodburger Food Truck",
         "date": "18/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63406,
@@ -286,7 +286,7 @@
         "organization": "Mizuho Bank Ltd",
         "date": "18/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63377,

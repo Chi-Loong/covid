@@ -7,7 +7,7 @@
         "organization": "Jin Tai Mart",
         "date": "16/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63273,
@@ -19,7 +19,7 @@
         "date": "16/05/2021",
         "serology": "-",
         "variant": "B.1.617",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63274,
@@ -43,7 +43,7 @@
         "date": "16/05/2021",
         "serology": "-",
         "variant": "B.1.617",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63276,
@@ -54,7 +54,7 @@
         "organization": "3R Corporation Pte Ltd",
         "date": "16/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63277,
@@ -65,7 +65,7 @@
         "organization": "Singapore Polytechnic, Star Arts (Westgate)",
         "date": "16/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63286,
@@ -101,7 +101,7 @@
         "date": "16/05/2021",
         "serology": "negative",
         "variant": "B.1.617",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63290,
@@ -124,7 +124,7 @@
         "date": "16/05/2021",
         "serology": "-",
         "variant": "B.1.617",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63303,
@@ -146,7 +146,7 @@
         "organization": "Sanofi-Aventis",
         "date": "16/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63306,
@@ -157,7 +157,7 @@
         "organization": "What The Fish (Junction 8), Pin Xiang Yan (Jurong East St 12)",
         "date": "16/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63307,
@@ -190,7 +190,7 @@
         "organization": "Marina Bay Sands Casino",
         "date": "16/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63291,
@@ -201,7 +201,7 @@
         "organization": "-",
         "date": "16/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63269,
@@ -214,7 +214,7 @@
         "serology": "-",
         "variant": "B.1.617",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63316,
@@ -236,7 +236,7 @@
         "organization": "Kopitiam, Changi Airport Terminal 3",
         "date": "16/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63324,
@@ -281,7 +281,7 @@
         "organization": "-",
         "date": "16/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63279,
@@ -293,7 +293,7 @@
         "date": "16/05/2021",
         "serology": "-",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63281,
@@ -304,7 +304,7 @@
         "organization": "Kong Hwa School",
         "date": "16/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63282,
@@ -315,7 +315,7 @@
         "organization": "Yu Neng Primary School",
         "date": "16/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63285,
@@ -326,7 +326,7 @@
         "organization": "St Maragret's Primary School",
         "date": "16/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63288,
@@ -338,7 +338,7 @@
         "date": "16/05/2021",
         "serology": "-",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63296,
@@ -349,7 +349,7 @@
         "organization": "Land Transport Authority",
         "date": "16/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63297,
@@ -360,7 +360,7 @@
         "organization": "Arcadis Pte Ltd",
         "date": "16/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63298,
@@ -371,7 +371,7 @@
         "organization": "Schenker Global Management",
         "date": "16/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63325,
@@ -394,7 +394,7 @@
         "organization": "Wareesan Management Pte Ltd",
         "date": "16/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63278,
@@ -427,6 +427,6 @@
         "organization": "Sms Infocomm (Singapore) Pte Ltd",
         "date": "16/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     }
 ]

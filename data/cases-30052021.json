@@ -8,7 +8,7 @@
         "date": "30/05/2021",
         "serology": "positive",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63868,
@@ -20,7 +20,7 @@
         "date": "30/05/2021",
         "serology": "positive",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63872,
@@ -31,7 +31,7 @@
         "organization": "Keppel Logistics Pte Ltd",
         "date": "30/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63876,
@@ -42,7 +42,7 @@
         "organization": "Nur Insan",
         "date": "30/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63887,
@@ -53,7 +53,7 @@
         "organization": "-",
         "date": "30/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63883,
@@ -64,7 +64,7 @@
         "organization": "Hua Zai HK Style Roasted Delights (21 Hougang Street 51)",
         "date": "30/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63884,
@@ -75,7 +75,7 @@
         "organization": "Hua Zai HK Style Roasted Delights (308 Anchorvale Road)",
         "date": "30/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63885,
@@ -86,7 +86,7 @@
         "organization": "Hua Zai HK Style Roasted Delights (21 Hougang Street 51)",
         "date": "30/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63886,
@@ -97,7 +97,7 @@
         "organization": "Hua Zai HK Style Roasted Delights (308 Anchorvale Road)",
         "date": "30/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },    
     {
         "id": 63874,
@@ -108,7 +108,7 @@
         "organization": "Rice Garden (308 Anchorvale Road)",
         "date": "29/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63881,
@@ -119,7 +119,7 @@
         "organization": "-",
         "date": "30/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63882,
@@ -131,7 +131,7 @@
         "date": "30/05/2021",
         "serology": "-",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63871,
@@ -143,7 +143,7 @@
         "date": "30/05/2021",
         "serology": "-",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63866,
@@ -154,7 +154,7 @@
         "organization": "Sephora",
         "date": "30/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63867,
@@ -165,7 +165,7 @@
         "organization": "-",
         "date": "30/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63862,
@@ -176,7 +176,7 @@
         "organization": "DHL Supply Chain Advanced Regional Centre (1 Greenwich Drive)",
         "date": "30/05/2021",
         "serology": "neagtive",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63863,
@@ -187,7 +187,7 @@
         "organization": "Central Provident Fund Board",
         "date": "30/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63864,
@@ -198,7 +198,7 @@
         "organization": "Lamy (Bugis Junction, Chinatown Point)",
         "date": "30/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63875,
@@ -209,6 +209,6 @@
         "organization": "ICSC Pte Ltd",
         "date": "30/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     }
 ]

@@ -7,7 +7,7 @@
         "organization": "-",
         "date": "31/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63892,
@@ -19,7 +19,7 @@
         "date": "31/05/2021",
         "serology": "positive",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63908,
@@ -42,7 +42,7 @@
         "date": "31/05/2021",
         "serology": "negative",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63903,
@@ -53,7 +53,7 @@
         "organization": "Hua Zai HK Style Roasted Delights (308 Anchorvale Road, 476D Upper Serangoon View)",
         "date": "31/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63898,
@@ -64,7 +64,7 @@
         "organization": "Hong Ye Gorup Pte Ltd, Changi Busiess Park",
         "date": "31/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63905,
@@ -86,7 +86,7 @@
         "organization": "Civil Defence Academy",
         "date": "31/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63907,
@@ -97,7 +97,7 @@
         "organization": "New Town Primary School",
         "date": "31/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63904,
@@ -109,7 +109,7 @@
         "date": "31/05/2021",
         "asymptomatic": "yes",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63894,
@@ -121,7 +121,7 @@
         "date": "31/05/2021",
         "asymptomatic": "yes",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63895,
@@ -133,7 +133,7 @@
         "date": "31/05/2021",
         "asymptomatic": "yes",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63909,
@@ -155,7 +155,7 @@
         "organization": "-",
         "date": "31/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63899,
@@ -178,6 +178,6 @@
         "organization": "Sin Wei Precision Mechnanical",
         "date": "31/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     }
 ]

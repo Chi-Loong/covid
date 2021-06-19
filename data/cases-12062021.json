@@ -7,7 +7,7 @@
         "organization": "SIM Global Education",
         "date": "12/06/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64162,
@@ -18,7 +18,7 @@
         "organization": "-",
         "date": "12/06/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64169,
@@ -42,7 +42,7 @@
         "date": "12/06/2021",
         "serology": "-",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64183,
@@ -64,7 +64,7 @@
         "organization": "Marina Offshore Pte Ltd, tugboat MARINA ARIEL",
         "date": "12/06/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64181,
@@ -75,7 +75,7 @@
         "organization": "Marina Offshore Pte Ltd, tugboat MARINA ARIEL",
         "date": "12/06/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64182,
@@ -86,7 +86,7 @@
         "organization": "Ces Lamination Pte Ltd",
         "date": "12/06/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64158,

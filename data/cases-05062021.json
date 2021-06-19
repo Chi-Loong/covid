@@ -7,7 +7,7 @@
         "organization": "Pizza Hut (Kampong Ubi Community Centre)",
         "date": "05/06/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64048,
@@ -29,7 +29,7 @@
         "organization": "Atatcutz Singapore (348 Bedok Road)",
         "date": "05/06/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64057,
@@ -41,7 +41,7 @@
         "date": "05/06/2021",
         "serology": "negative",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64056,
@@ -53,7 +53,7 @@
         "date": "05/06/2021",
         "serology": "negative",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64061,
@@ -100,7 +100,7 @@
         "organization": "-",
         "date": "05/06/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64052,
@@ -111,7 +111,7 @@
         "organization": "Singapore Institute of Management",
         "date": "05/06/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64064,
@@ -122,7 +122,7 @@
         "organization": "Singapore Institute of Management",
         "date": "05/06/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64047,
@@ -134,7 +134,7 @@
         "date": "05/06/2021",
         "serology": "-",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64059,
@@ -145,7 +145,7 @@
         "organization": "Thermo Fisher Scientific",
         "date": "05/06/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     }
 ]
 

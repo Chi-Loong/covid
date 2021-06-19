@@ -29,7 +29,7 @@
         "organization": "Hua Zai Eating House Pte Ltd",
         "date": "29/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63854,
@@ -40,7 +40,7 @@
         "organization": "West Grill Station (Anchorvale)",
         "date": "29/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63826,
@@ -51,7 +51,7 @@
         "organization": "Changi Prison Complex",
         "date": "29/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63846,
@@ -62,7 +62,7 @@
         "organization": "Indo Bowl (39 Sultan Gate)",
         "date": "29/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63830,
@@ -73,7 +73,7 @@
         "organization": "-",
         "date": "29/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63831,
@@ -84,7 +84,7 @@
         "organization": "Boon Lay Garden Primary School",
         "date": "29/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63832,
@@ -95,7 +95,7 @@
         "organization": "Boon Lay Garden Primary School",
         "date": "29/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63836,
@@ -106,7 +106,7 @@
         "organization": "Little Explorers Cove (Boon Lay)",
         "date": "29/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63837,
@@ -117,7 +117,7 @@
         "organization": "Little Explorers Cove (Boon Lay)",
         "date": "29/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63839,
@@ -128,7 +128,7 @@
         "organization": "-",
         "date": "29/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63842,
@@ -151,7 +151,7 @@
         "organization": "Xinghua Primary School",
         "date": "29/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63849,
@@ -162,7 +162,7 @@
         "organization": "National Library Board",
         "date": "29/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63829,
@@ -173,7 +173,7 @@
         "organization": "LeVeL33 (8 Marina Boulevard)",
         "date": "29/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63834,
@@ -184,7 +184,7 @@
         "organization": "Pizza Hut Express (Holland Village MRT)",
         "date": "29/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63860,
@@ -208,7 +208,7 @@
         "date": "29/05/2021",
         "serology": "negative",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63827,
@@ -230,7 +230,7 @@
         "organization": "GlobalFoundries Pte Ltd",
         "date": "29/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63848,
@@ -241,7 +241,7 @@
         "organization": "Success Consultancy Pte Ltd",
         "date": "29/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63859,
@@ -252,6 +252,6 @@
         "organization": "McDonald's (293 Yishun Street 22)",
         "date": "29/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     }
 ]

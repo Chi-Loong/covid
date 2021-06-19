@@ -19,7 +19,7 @@
         "date": "19/06/2021",
         "serology": "negative",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64333,
@@ -42,7 +42,7 @@
         "date": "19/06/2021",
         "serology": "-",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64319,
@@ -64,7 +64,7 @@
         "organization": "Paxxus Pte Ltd",
         "date": "19/06/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64321,
@@ -87,7 +87,7 @@
         "date": "19/06/2021",
         "serology": "negative",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64334,
@@ -98,7 +98,7 @@
         "organization": "J Roger Preston Ltd",
         "date": "19/06/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64331,
@@ -110,7 +110,7 @@
         "date": "19/06/2021",
         "serology": "negative",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64323,
@@ -121,7 +121,7 @@
         "organization": "-",
         "date": "19/06/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64324,
@@ -132,7 +132,7 @@
         "organization": "-",
         "date": "19/06/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64325,
@@ -155,7 +155,7 @@
         "date": "19/06/2021",
         "serology": "-",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     }
 ]
 

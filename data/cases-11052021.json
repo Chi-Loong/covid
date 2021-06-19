@@ -8,7 +8,7 @@
         "date": "11/05/2021",
         "serology": "negative",
         "variant": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63069,
@@ -30,7 +30,7 @@
         "organization": "Ng Teng Fong general Hospital",
         "date": "11/05/2021",
         "serology": "positive",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63083,
@@ -52,7 +52,7 @@
         "organization": "-",
         "date": "11/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63078,
@@ -64,7 +64,7 @@
         "date": "11/05/2021",
         "serology": "negative",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63059,
@@ -88,7 +88,7 @@
         "date": "11/05/2021",
         "serology": "negative",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63061,
@@ -111,7 +111,7 @@
         "organization": "Kopitiam (Changi Airport Terminal 3), Happy Hawkers (267 Compassvale Link)",
         "date": "11/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63071,
@@ -123,7 +123,7 @@
         "date": "11/05/2021",
         "serology": "-",
         "variant": "B.1.167",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63072,
@@ -146,6 +146,6 @@
         "organization": "SBY Frozen Food Supply",
         "date": "11/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     }
 ]

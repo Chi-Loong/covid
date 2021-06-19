@@ -18,7 +18,7 @@
         "organization": "-",
         "date": "20/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63480,
@@ -29,7 +29,7 @@
         "organization": "Times Bookstore",
         "date": "20/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63482,
@@ -51,7 +51,7 @@
         "organization": "Singapore Polytechnic",
         "date": "20/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63497,
@@ -85,7 +85,7 @@
         "organization": "Glory Ship Management Pte ltd",
         "date": "20/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63473,
@@ -96,7 +96,7 @@
         "organization": "Madrasah Al-Ma'arif Al-Islamiah",
         "date": "20/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63474,
@@ -108,7 +108,7 @@
         "date": "20/05/2021",
         "serology": "-",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63481,
@@ -130,7 +130,7 @@
         "organization": "Changi Prison Complex",
         "date": "20/05/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63468,
@@ -141,7 +141,7 @@
         "organization": "Jin Tai Tong Warehouse",
         "date": "20/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63477,
@@ -164,7 +164,7 @@
         "date": "20/05/2021",
         "serology": "-",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63462,
@@ -175,7 +175,7 @@
         "organization": "Sms Infocomm (Singapore) Pte Ltd",
         "date": "20/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63469,
@@ -187,7 +187,7 @@
         "date": "20/05/2021",
         "serology": "negative",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63470,
@@ -198,7 +198,7 @@
         "organization": "White Guard Security Pte Ltd",
         "date": "20/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63471,
@@ -234,7 +234,7 @@
         "date": "20/05/2021",
         "serology": "negative",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63488,
@@ -245,7 +245,7 @@
         "organization": "KFC (Jalan Mas Puteh)",
         "date": "20/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63484,
@@ -257,7 +257,7 @@
         "date": "20/05/2021",
         "serology": "-",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63476,
@@ -268,7 +268,7 @@
         "organization": "Anglo-Chinese School (Junior)",
         "date": "20/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63478,
@@ -279,7 +279,7 @@
         "organization": "-",
         "date": "20/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63460,
@@ -290,7 +290,7 @@
         "organization": "Pacific Law Corporation",
         "date": "20/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 63485,
@@ -301,6 +301,6 @@
         "organization": "Yuan Ching Secondary School",
         "date": "20/05/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     }
 ]

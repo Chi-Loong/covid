@@ -73,7 +73,7 @@
         "organization": "often goes to Telok Blangah Parcview Active Ageing Care Hub",
         "date": "14/06/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64221,
@@ -96,7 +96,7 @@
         "organization": "-",
         "date": "14/06/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64202,
@@ -107,7 +107,7 @@
         "organization": "ITE College Central",
         "date": "14/06/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64204,
@@ -118,7 +118,7 @@
         "organization": "-",
         "date": "14/06/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64218,
@@ -129,7 +129,7 @@
         "organization": "Telok Blangah Drive Food Centre",
         "date": "14/06/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64197,
@@ -151,7 +151,7 @@
         "organization": "Amity Global Institute",
         "date": "14/06/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64206,
@@ -163,7 +163,7 @@
         "date": "14/06/2021",
         "serology": "-",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64207,
@@ -187,7 +187,7 @@
         "date": "14/06/2021",
         "serology": "-",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64200,
@@ -198,7 +198,7 @@
         "organization": "Cleen First Services, Emerald Park condominium",
         "date": "14/06/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64209,
@@ -210,7 +210,7 @@
         "date": "14/06/2021",
         "serology": "-",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     }
 ]
 

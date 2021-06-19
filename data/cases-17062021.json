@@ -19,7 +19,7 @@
         "organization": "MSIG Insurance",
         "date": "17/06/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64270,
@@ -41,7 +41,7 @@
         "organization": "115 Bukit Merah View Market & Food Centre",
         "date": "17/06/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64273,
@@ -64,7 +64,7 @@
         "organization": "Bukit Merah Secondary School",
         "date": "17/06/2021",
         "serology": "positive",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64278,
@@ -75,7 +75,7 @@
         "organization": "-",
         "date": "17/06/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64279,
@@ -87,7 +87,7 @@
         "date": "17/06/2021",
         "serology": "positive",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64280,
@@ -99,7 +99,7 @@
         "date": "17/06/2021",
         "serology": "positive",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64281,
@@ -111,7 +111,7 @@
         "date": "17/06/2021",
         "serology": "positive",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64283,
@@ -123,7 +123,7 @@
         "date": "17/06/2021",
         "serology": "positive",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64284,
@@ -167,7 +167,7 @@
         "organization": "Skyline Shipping Pte Ltd, often visited 116 Bukit Merah View",
         "date": "17/06/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64288,
@@ -178,7 +178,7 @@
         "organization": "115 Bukit Merah View Market & Food Centre",
         "date": "17/06/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64271,
@@ -200,7 +200,7 @@
         "organization": "Zhangde Primary School",
         "date": "17/06/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64295,
@@ -222,7 +222,7 @@
         "organization": "Tangling Trust School",
         "date": "17/06/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     }
 ]
 

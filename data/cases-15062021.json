@@ -7,7 +7,7 @@
         "organization": "-",
         "date": "15/06/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64236,
@@ -18,7 +18,7 @@
         "organization": "-",
         "date": "15/06/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64237,
@@ -29,7 +29,7 @@
         "organization": "Imperva Singapore Pte Ltd",
         "date": "15/06/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64238,
@@ -40,7 +40,7 @@
         "organization": "-",
         "date": "15/06/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64223,
@@ -52,7 +52,7 @@
         "date": "15/06/2021",
         "serology": "-",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64224,
@@ -87,7 +87,7 @@
         "organization": "Keong Hong Construction Pte Ltd",
         "date": "15/06/2021",
         "serology": "negative",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64234,
@@ -98,7 +98,7 @@
         "organization": "SATS Facility Management",
         "date": "15/06/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64229,
@@ -109,7 +109,7 @@
         "organization": "often visited 115 and 116 Bukit Merah View",
         "date": "15/06/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64231,
@@ -120,7 +120,7 @@
         "organization": "Halnaz Frozen Goods Pte Ltd",
         "date": "15/06/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64232,
@@ -132,7 +132,7 @@
         "date": "15/06/2021",
         "serology": "-",
         "asymptomatic": "yes",
-        "vaccinated": "-"
+        "vaccinated": "no"
     },
     {
         "id": 64239,
@@ -154,7 +154,7 @@
         "organization": "NETS",
         "date": "15/06/2021",
         "serology": "-",
-        "vaccinated": "-"
+        "vaccinated": "no"
     }
 ]
 
