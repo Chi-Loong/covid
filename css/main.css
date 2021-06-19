@@ -36,3 +36,13 @@
 .tick text {
   font-size: 16px;
 }
+
+rect {
+  stroke: #000;
+  stroke-width: 0.5px;
+}
+
+rect.selected {
+  stroke: #0ff;
+  stroke-width: 2px;
+}

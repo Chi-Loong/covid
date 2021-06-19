@@ -1,4 +1,163 @@
 [{
+        "id": 64326,
+        "age": 46,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "homemaker",
+        "organization": "-",
+        "date": "19/06/2021",
+        "serology": "-",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 64330,
+        "age": 86,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "retiree",
+        "organization": "-",
+        "date": "19/06/2021",
+        "serology": "negative",
+        "asymptomatic": "yes",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64333,
+        "age": 44,
+        "gender": "female",
+        "nationality": "Indonesia",
+        "occupation": "foreign domestic worker",
+        "organization": "-",
+        "date": "19/06/2021",
+        "serology": "negative",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 64336,
+        "age": 31,
+        "gender": "female",
+        "nationality": "Vietnam",
+        "occupation": "pastry maker",
+        "organization": "Bakery Point (920 Tiong Bahru Road)",
+        "date": "19/06/2021",
+        "serology": "-",
+        "asymptomatic": "yes",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64319,
+        "age": 42,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "technical executive",
+        "organization": "Nanyang Polytechnic",
+        "date": "19/06/2021",
+        "serology": "negative",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 64322,
+        "age": 45,
+        "gender": "female",
+        "nationality": "Singapore PR",
+        "occupation": "operations staff",
+        "organization": "Paxxus Pte Ltd",
+        "date": "19/06/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64321,
+        "age": 81,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "retiree",
+        "organization": "-",
+        "date": "19/06/2021",
+        "serology": "negative",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 64329,
+        "age": 41,
+        "gender": "female",
+        "nationality": "Indonesia",
+        "occupation": "foreign domestic worker",
+        "organization": "-",
+        "date": "19/06/2021",
+        "serology": "negative",
+        "asymptomatic": "yes",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64334,
+        "age": 35,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "administrative staff",
+        "organization": "J Roger Preston Ltd",
+        "date": "19/06/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64331,
+        "age": 14,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "student",
+        "organization": "Canberra Secondary School",
+        "date": "19/06/2021",
+        "serology": "negative",
+        "asymptomatic": "yes",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64323,
+        "age": 66,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "retiree",
+        "organization": "-",
+        "date": "19/06/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64324,
+        "age": 89,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "retiree",
+        "organization": "-",
+        "date": "19/06/2021",
+        "serology": "-",
+        "vaccinated": "-"
+    },
+    {
+        "id": 64325,
+        "age": 64,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "administrative staff",
+        "organization": "Hong Leong Finance (16 Raffles Quay)",
+        "date": "19/06/2021",
+        "serology": "-",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 64332,
+        "age": 30,
+        "gender": "female",
+        "nationality": "Indonesia",
+        "occupation": "foreign domestic worker",
+        "organization": "-",
+        "date": "19/06/2021",
+        "serology": "-",
+        "asymptomatic": "yes",
+        "vaccinated": "-"
+    },
+    {
         "id": 64308,
         "age": 69,
         "gender": "male",
@@ -561,7 +720,7 @@
         "organization": "often visited 115 Bukit Merah View Market & Food Centre",
         "date": "16/06/2021",
         "serology": "-",
-        "vaccinated": "yes(2 doses)"
+        "vaccinated": "yes (2 doses)"
     },
     {
         "id": 64249,
@@ -572,7 +731,7 @@
         "organization": "Eunike Living Pte Ltd",
         "date": "16/06/2021",
         "serology": "-",
-        "vaccinated": "yes(2 doses)"
+        "vaccinated": "yes (2 doses)"
     },
     {
         "id": 64251,
@@ -8824,7 +8983,7 @@
         "gender": "-",
         "nationality": "-",
         "occupation": "-",
-        "organization": "MacDonald's Delivery Riders (20 cases)",
+        "organization": "MacDonald's Delivery Riders (22 cases)",
         "date": "-",
         "serology": "-",
         "vaccinated": "-",
@@ -8837,7 +8996,7 @@
         "gender": "-",
         "nationality": "-",
         "occupation": "-",
-        "organization": "MINDSville@Napiri (5 cases by 2nd June, 22 more cases 3rd June)",
+        "organization": "MINDSville@Napiri (32 cases)",
         "date": "-",
         "serology": "-",
         "vaccinated": "-",
@@ -8863,7 +9022,7 @@
         "gender": "-",
         "nationality": "-",
         "occupation": "-",
-        "organization": "115 Bukit Merah View Market & Food Centre",
+        "organization": "115 Bukit Merah View Market & Food Centre (70 cases)",
         "date": "-",
         "serology": "-",
         "vaccinated": "-",

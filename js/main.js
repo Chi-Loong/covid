@@ -3,7 +3,7 @@ let selectedCase = {"id": "-", "age": "-", "gender": "-", "nationality": "-", "o
 let caseResult = [];
 let searchString = "";
 let dateFormat = d3.timeParse("%d/%m/%Y");
-let currentDate = "18/06/2021";
+let currentDate = "19/06/2021";
 let dateScale = d3.scaleLinear()
   .domain([d3.timeDay.offset(dateFormat(currentDate), -28), d3.timeDay.offset(dateFormat(currentDate), -14), dateFormat(currentDate)])
   .range(["#aaa", "#ff0", "#f00"]);
@@ -12,6 +12,7 @@ let ageScale = d3.scaleQuantize([0, 90], d3.schemeRdBu[9]);
 let genderScale = d3.scaleOrdinal(["male", "female"], ["steelblue", "pink"]);
 let vaccinatedScale = d3.scaleOrdinal(["-", "partial (1 dose)", "yes (2 doses)"], ["#aaa", "yellow", "green"]);
 let asymptomaticScale = d3.scaleOrdinal(["-", "yes"], ["#aaa", "blueviolet"]);
+let barToggle = false;
 
 console.log(d3.timeDay.offset(dateFormat(currentDate), -28));
 
@@ -138,6 +139,7 @@ let circle = nodes.append("circle")
             searchString = "";
             d3.select("#searchField").node().value = "";
 
+            barToggle = false;
         } else {
             selectedCase = d;
             
@@ -156,6 +158,8 @@ let circle = nodes.append("circle")
 
             d3.select(event.currentTarget)
             .classed("clicked", true);
+            
+            barToggle = true;
         }
 
         drawChart(selection, caseResult);
@@ -254,6 +258,7 @@ d3.select("input[type=search]").on("search", (event, d)=> {
     d3.selectAll(".node")
     .classed("clicked", false);
 
+    barToggle = false;
     drawChart(selection, caseResult);
 });
 
@@ -275,6 +280,7 @@ d3.select("#searchSubmit").on("click", (event,d)=> {
                     .classed("clicked", true);
             })
 
+            barToggle = true;
             drawChart(selection, caseResult);
 
             if (caseResult.length == 1) {
@@ -295,9 +301,22 @@ d3.select("#searchSubmit").on("click", (event,d)=> {
             }
             
         } else {
-            alert("String: " + searchString + " not found");
+            alert("'" + searchString + "' not found in Case ID, occupation or organization");
             caseResult = data[1];
+            searchString = "";
+            d3.select("#searchField").node().value = "";
+            
+            barToggle = false;
+            drawChart(selection, caseResult);
         }
+    } else {
+        caseResult = data[1];
+        searchString = "";
+        
+        barToggle = false;
+        d3.selectAll(".node")
+        .classed("clicked", false);
+        drawChart(selection, caseResult);
     }
 });
 
@@ -322,7 +341,7 @@ function updateSelection(category) {
 }
 
 /* Histogram summary chart */
-function drawChart(category, data) {
+function drawChart(category, dataset) {
     selection = category;
     d3.select("svg#summarychart g").remove();
 
@@ -338,7 +357,7 @@ function drawChart(category, data) {
         .attr("transform", "translate(" + chart.margin.left + ", " + chart.margin.top + " )");
 
     // Remove all the extra big cluster nodes needed for graph visualization
-    let summaryData = data.filter(d => d.bigcluster != true);
+    let summaryData = dataset.filter(d => d.bigcluster != true);
     
         if (selection == "date") {
             summaryData = summaryData.filter(d => dateFormat(d.date) >= d3.timeDay.offset(dateFormat(currentDate), -28));
@@ -405,7 +424,6 @@ function drawChart(category, data) {
         .attr("class", "axis axis-y")
         .call(d3.axisLeft(yScale).ticks(5));
         
-
     let chartSearchText = (searchString == "") ? "all cases" : "search: " + searchString;
 
     summaryChart
@@ -416,51 +434,85 @@ function drawChart(category, data) {
         .style("font-weight", "bold")
         .text(selection.charAt(0).toUpperCase() + selection.slice(1) + " (" +  chartSearchText + ")");
 
-    if (selection == "date") {
-        summaryChart.selectAll("rect")
-            .data(summaryData)
-            .enter()
-            .append("rect")
-            .attr("x", d => xScale(dateFormat(d[0])) + 1)
-            .attr("width", 10)
-            .attr("y", d => yScale(d[1]))
-            .attr("height", d => yScale(0) - yScale(d[1]))
-            .attr("stroke", "black")
-            .attr("stroke-width", 0.5)
-            .attr("fill", d => dateScale(dateFormat(d[0])));
-    }else if (selection == "age") {
-        summaryChart.selectAll("rect")
-            .data(summaryData)
-            .enter()
-            .append("rect")
-            .attr("x", d => xScale(d[0]) + 1)
-            .attr("width", 30)
-            .attr("y", d => yScale(d[1]))
-            .attr("height", d => yScale(0) - yScale(d[1]))
-            .attr("stroke", "black")
-            .attr("stroke-width", 0.5)
-            .attr("fill", d => ageScale(d[0]));
-    } else if (selection == "gender" || selection == "vaccinated"|| selection == "asymptomatic") {
-        summaryChart.selectAll("rect")
-            .data(summaryData)
-            .enter()
-            .append("rect")
-            .attr("x", d => xScale(d[0]))
-            .attr("width", xScale.bandwidth())
-            .attr("y", d => yScale(d[1]))
-            .attr("height", d => yScale(0) - yScale(d[1]))
-            .attr("stroke", "black")
-            .attr("stroke-width", 0.5)
-            .attr("fill", d => { 
-                if (selection == "gender") {
-                    return genderScale(d[0]);
-                } else if (selection == "vaccinated") {
-                    return vaccinatedScale(d[0]);
-                } else if (selection == "asymptomatic") {
-                    return asymptomaticScale(d[0]);
+    summaryChart.selectAll("rect")
+        .data(summaryData)
+        .enter()
+        .append("rect")
+        .attr("x", d => {
+            if (selection == "date") {
+                return xScale(dateFormat(d[0])) + 1;
+            } else {
+                return xScale(d[0]) + 1;
+            }
+        })
+        .attr("width", () => {
+            if (selection == "date") {
+                return 10;
+            } else if (selection == "age") {
+                return 30;
+            } else {
+                return xScale.bandwidth();
+            }
+        })
+        .attr("y", d => yScale(d[1]))
+        .attr("height", d => yScale(0) - yScale(d[1]))
+        .attr("fill", d => {
+            if (selection == "date") {
+                return dateScale(dateFormat(d[0]));
+            } else if (selection == "age") {
+                return ageScale(d[0]);
+            } else if (selection == "gender") {
+                return genderScale(d[0]);
+            } else if (selection == "vaccinated") {
+                return vaccinatedScale(d[0]);
+            } else if (selection == "asymptomatic") {
+                return asymptomaticScale(d[0]);
+            }
+        })
+        .on("mouseover", (event, d) => {
+            d3.select(event.currentTarget).classed("selected", true);
+        })
+        .on("mouseout", (event, d) => {
+            d3.select(event.currentTarget).classed("selected", false);
+        })
+        .on("click", (event, d) => {
+            if (barToggle == false) {
+                caseResult = data[1].filter(e => {
+                    if (selection == "age") {
+                        return e[selection] >= d[0] && e[selection] < d[0] + 10;
+                    } else if (selection == "asymptomatic" && d[0] == "-") {
+                        return e[selection] != "yes";
+                    } else {
+                        return e[selection] == d[0];
+                    }
+                });
+
+                caseResult.forEach(e => {
+                    d3.select("#case_" + e.id)
+                        .classed("clicked", true);
+                });
+                
+                if (selection == "age") {
+                    searchString = selection + ": " + d[0] + " to " + (d[0]+ 9);
+                } else {
+                    searchString = selection + ": " + d[0];
                 }
-            });
-    }
+                
+                drawChart(selection, caseResult);
+                barToggle = true;
+                
+            } else {
+                caseResult = data[1];
+                searchString = "";
+                barToggle = false;
+
+                d3.selectAll(".node")
+                .classed("clicked", false);
+
+                d3.select("#searchField").node().value = "";
+                drawChart(selection, caseResult);
+            }
+        })
 }
 
 }); //end Promise

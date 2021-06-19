@@ -20,6 +20,7 @@
     <meta name="twitter:site" content="@vslashr" />
     <meta name="twitter:creator" content="@chiloong" />
     
+    <link rel="icon" href="img/favicon-32x32.png">
     <title>SG Covid Case Clusters</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
 </head>
@@ -27,12 +28,13 @@
 
 <div class="container">
   <h1 class="text-center display-4 px-5 py-3">SG Covid Case Clusters</h1>
-  <p class="text-center"><i>Chi-Loong, Last updated 18th June 2021</i></p>
+  <p class="text-center"><i>Chi-Loong, Last updated 20th June 2021</i></p>
   
   <div class="row">
     <div class="col-md-12">
         <h4>Feature updates</h4>
         <ul>
+            <li>20th June: Can now search dataset and highlight cases by clicking on any category bin. Allows for easier analysis! E.g. click on vaccinated (2 doses) bar, and see that of this subset about 50% are asymptomatic and mostly above 50 years old (as of June 20th). This is likely my final feature.</li>
             <li>18th June: Historic version now available, separate from current live version which tracks the last 28 days of open clusters / cases.</li>
             <li>14th June: Summary statistics now update depending on searched results. UI tweaks to make sure you can select/deselect search results. Allows for much easier analysis of search results!</li>
             <li>13th June: Added summary statistics for all the categories, which serves as the new legend. As this is now all generated SVG, should look sharp on any screen device.</li>
@@ -56,7 +58,6 @@
         <p>For future work, the most important thing would be to update the data daily when it comes in.</p>
         <p>I am grateful for all the comments, emails and suggestions but I beg your understanding that I am only one solo developer on this passion project. I still have a day job to do leh, so thank you for understanding.</p>
         <p>Not only do I have to transcribe the cases, I often have to check the annexes and <a href="https://www.moh.gov.sg/covid-19/situation-report" target="_blank">MOH siterep</a> to see if there are reclassified cases.</p>
-        <p>Feature wise I would like to add some features (a timeline widget, cleanup old data / clusters automatically once past 28 days, etc.), retag old data, etc. When I get the time.</p>
     </div>
   </div>
   <hr/>
@@ -76,6 +77,8 @@
             <li>allows us, at a glance, to intuitively get case relationship insights</li>
             <li>allows us to search and find each case by ID in the dataset (tedious and difficult on the MOH site).</li>
             <li>allows us to search and find cases via occupation or organization. E.g. searching "cleaner" highlights all cases tagged with "cleaner"</li>
+            <li>shows summary statistics of all cases or a searched subset</li>
+            <li>allows us to select a subset of a category more easily - a specific date, age band, etc. E.g. clicking the 30-40 bar under the "age" tab, it toggles the view for this specific subset.</li>
         </ul>
     </div>
   </div>

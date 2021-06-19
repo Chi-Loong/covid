@@ -55,6 +55,13 @@
         </div>
 
         <svg id="summarychart"></svg>
+        <div class="input-group rounded">
+          <input type="search" class="form-control rounded" placeholder="Search occupation, organization" aria-label="Search" id="searchField"/>
+          <div class="input-group-append">
+            <button type="submit" id="searchSubmit" class="btn btn-secondary" type="button"><img src="img/magnifying-glass.svg" width="15"/></button>
+          </div>
+        </div>
+        <p class="text-center small">Click on any bar to seach by category bin. Click any bar again to show all data.</p>
         
         <h5 class="text-center px-3 py-3" id="caseInfoText">Case info (<span style="color:#00f">selected</span>)</h5>
         <table class="table small">
@@ -93,14 +100,8 @@
             </tr>
           </tbody>
         </table>
-        
-        <div class="input-group rounded">
-          <input type="search" class="form-control rounded" placeholder="Search occupation, organization" aria-label="Search" id="searchField"/>
-          <div class="input-group-append">
-            <button type="submit" id="searchSubmit" class="btn btn-secondary" type="button"><img src="img/magnifying-glass.svg" width="15"/></button>
-          </div>
-        </div>
         <hr/>
+        <p class="text-center small">Click to select case. Search to highlight cases. Use scrollwheel to zoom. Drag background to pan.</p>
         
         <h6 class="text-center"><a href="about.html">About piece</a></h6>
         <h6 class="text-center"><a href="index.html">Back to SG Covid case clusters</a></h6>

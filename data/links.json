@@ -1,4 +1,54 @@
 [{
+        "infector": 64229,
+        "infectee": 64319,
+        "date": "19/06/2021"
+    },
+    {
+        "infector": 64231,
+        "infectee": 64322,
+        "date": "19/06/2021"
+    },
+    {
+        "infector": "Bukit Merah",
+        "infectee": 64321,
+        "date": "19/06/2021"
+    },
+    {
+        "infector": "Bukit Merah",
+        "infectee": 64329,
+        "date": "19/06/2021"
+    },
+    {
+        "infector": "Bukit Merah",
+        "infectee": 64334,
+        "date": "19/06/2021"
+    },
+    {
+        "infector": 63721,
+        "infectee": 64331,
+        "date": "19/06/2021"
+    },
+    {
+        "infector": 64263,
+        "infectee": 64323,
+        "date": "19/06/2021"
+    },
+    {
+        "infector": 64263,
+        "infectee": 64324,
+        "date": "19/06/2021"
+    },
+    {
+        "infector": 64263,
+        "infectee": 64325,
+        "date": "19/06/2021"
+    },
+    {
+        "infector": 64264,
+        "infectee": 64332,
+        "date": "19/06/2021"
+    },
+    {
         "infector": 64218,
         "infectee": 64303,
         "date": "18/06/2021"
@@ -1709,11 +1759,6 @@
         "date": "24/05/2021"
     },
     {
-        "infector": 63376,
-        "infectee": 63681,
-        "date": "24/05/2021"
-    },
-    {
         "infector": 63515,
         "infectee": 63654,
         "date": "24/05/2021"
@@ -1924,11 +1969,6 @@
         "date": "21/05/2021"
     },
     {
-        "infector": 63476,
-        "infectee": 63537,
-        "date": "21/05/2021"
-    },
-    {
         "infector": 63479,
         "infectee": 63533,
         "date": "21/05/2021"
@@ -1946,16 +1986,6 @@
     {
         "infector": 63392,
         "infectee": 63517,
-        "date": "21/05/2021"
-    },
-    {
-        "infector": 63480,
-        "infectee": 63527,
-        "date": "21/05/2021"
-    },
-    {
-        "infector": 63482,
-        "infectee": 63505,
         "date": "21/05/2021"
     },
     {
@@ -2011,11 +2041,6 @@
     {
         "infector": 63357,
         "infectee": 63488,
-        "date": "20/05/2021"
-    },
-    {
-        "infector": 63376,
-        "infectee": 63476,
         "date": "20/05/2021"
     },
     {
