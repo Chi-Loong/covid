@@ -5672,9 +5672,9 @@
         "nationality": "-",
         "occupation": "-",
         "organization": "JEM / Westgate (63 cases)",
-        "date": "-",
+        "date": "20/05/2021",
         "serology": "-",
-        "vaccinated": "no",
+        "vaccinated": "-",
         "icon": "img/mall.svg"
     },
     {
@@ -5685,9 +5685,9 @@
         "nationality": "-",
         "occupation": "-",
         "organization": "MacDonald's Delivery Riders (22 cases)",
-        "date": "-",
+        "date": "24/05/2021",
         "serology": "-",
-        "vaccinated": "no",
+        "vaccinated": "-",
         "icon": "img/scooter.svg"
     },
     {
@@ -5698,9 +5698,9 @@
         "nationality": "-",
         "occupation": "-",
         "organization": "MINDSville@Napiri (32 cases)",
-        "date": "-",
+        "date": "03/06/2021",
         "serology": "-",
-        "vaccinated": "no",
+        "vaccinated": "-",
         "icon": "img/disabled.svg"
     },
     {
@@ -5711,9 +5711,9 @@
         "nationality": "-",
         "occupation": "-",
         "organization": "506 Hougang Ave 8 (13 cases)",
-        "date": "-",
+        "date": "27/05/2021",
         "serology": "-",
-        "vaccinated": "no",
+        "vaccinated": "-",
         "icon": "img/building.svg"
     },
     {
@@ -5724,9 +5724,9 @@
         "nationality": "-",
         "occupation": "-",
         "organization": "115 Bukit Merah View Market & Food Centre (70 cases)",
-        "date": "-",
+        "date": "18/06/2021",
         "serology": "-",
-        "vaccinated": "no",
+        "vaccinated": "-",
         "icon": "img/food.svg"
     }
 ]

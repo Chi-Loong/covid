@@ -37,21 +37,27 @@
         <h6 class="text-center">From 28 Apr 2021 to <span id="lastdate"><span></h6>
         <h6 class="text-center">Total: <span id="casecount"><span></h6>
     
-        <div class="btn-group py-3" role="group" aria-label="">
-          <input type="radio" class="btn-check" name="btnradio" id="dateSelect" autocomplete="off" checked>
-          <label class="btn btn-outline-secondary btn-sm" for="dateSelect">Date</label>
+        <div class="text-center">
+            <div class="btn-group py-1" role="group" aria-label="">
+              <input type="radio" class="btn-check" name="btnradio" id="dateSelect" autocomplete="off" checked>
+              <label class="btn btn-outline-secondary btn-sm" for="dateSelect">Date</label>
 
-          <input type="radio" class="btn-check" name="btnradio" id="ageSelect" autocomplete="off">
-          <label class="btn btn-outline-secondary btn-sm" for="ageSelect">Age</label>
+              <input type="radio" class="btn-check" name="btnradio" id="ageSelect" autocomplete="off">
+              <label class="btn btn-outline-secondary btn-sm" for="ageSelect">Age</label>
 
-          <input type="radio" class="btn-check" name="btnradio" id="genderSelect" autocomplete="off">
-          <label class="btn btn-outline-secondary btn-sm" for="genderSelect">Gender</label>
-          
-          <input type="radio" class="btn-check" name="btnradio" id="vaccineSelect" autocomplete="off">
-          <label class="btn btn-outline-secondary btn-sm" for="vaccineSelect">Vaccinated</label>
-          
-          <input type="radio" class="btn-check" name="btnradio" id="asymptomaticSelect" autocomplete="off">
-          <label class="btn btn-outline-secondary btn-sm" for="asymptomaticSelect">Asymptomatic</label>
+              <input type="radio" class="btn-check" name="btnradio" id="genderSelect" autocomplete="off">
+              <label class="btn btn-outline-secondary btn-sm" for="genderSelect">Gender</label>
+              
+              <input type="radio" class="btn-check" name="btnradio" id="nationalitySelect" autocomplete="off">
+              <label class="btn btn-outline-secondary btn-sm" for="nationalitySelect">Nationality</label>
+            </div>
+            <div class="btn-group py-1" role="group" aria-label="">
+              <input type="radio" class="btn-check" name="btnradio" id="vaccinatedSelect" autocomplete="off">
+              <label class="btn btn-outline-secondary btn-sm" for="vaccinatedSelect">Vaccinated</label>
+              
+              <input type="radio" class="btn-check" name="btnradio" id="asymptomaticSelect" autocomplete="off">
+              <label class="btn btn-outline-secondary btn-sm" for="asymptomaticSelect">Asymptomatic</label>
+            </div>
         </div>
 
         <svg id="summarychart"></svg>
@@ -77,6 +83,10 @@
             <tr>
               <td style="width:40%">Gender</td>
               <td id="gender">-</td>
+            </tr>
+            <tr>
+              <td style="width:40%">Nationality</td>
+              <td id="nationality">-</td>
             </tr>
             <tr>
               <td style="width:40%">Occupation</td>

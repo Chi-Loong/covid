@@ -12,31 +12,73 @@ let ageScale = d3.scaleQuantize([0, 90], d3.schemeRdBu[9]);
 let genderScale = d3.scaleOrdinal(["male", "female"], ["steelblue", "pink"]);
 let vaccinatedScale = d3.scaleOrdinal(["no", "partial (1 dose)", "yes (2 doses)"], ["#aaa", "yellow", "green"]);
 let asymptomaticScale = d3.scaleOrdinal(["no", "yes"], ["#aaa", "blueviolet"]);
-let barToggle = false;
 
-console.log(d3.timeDay.offset(dateFormat(currentDate), -28));
+let barToggle = false;
+let nationalityLookup = {
+    "Singapore": "SG",
+    "Malaysia": "MY",
+    "Singapore PR": "SG",
+    "India": "IN",
+    "Philippines": "PH",
+    "China": "CN",
+    "Indonesia": "ID",
+    "Vietnam": "VN",
+    "Myanmar": "MM",
+    "Bangladesh": "Other",
+    "Sri Lanka": "Other",
+    "Thailand": "Other",
+    "Hong Kong": "Other",
+    "Portugal": "Other"
+}
 
 Promise.all([d3.json("data/links-alltime.json"), d3.json("data/cases-alltime.json"), d3.json("data/MOHlinks.json")]).then(data => {
 
+// Data preprocessing
     data[0].forEach(e => {
         e.source = e.infector;
         e.target = e.infectee;
     });
     
+
+let nationalitySet = data[1].filter(d => d.bigcluster != true);
+nationalitySet.forEach(d => {
+    d.nationalityCode = nationalityLookup[d.nationality];
+    if (d.asymptomatic == undefined) {
+        d.asymptomatic = "no";
+    }
+});
+
+nationalitySet = _.orderBy(_.entries(_.countBy(nationalitySet, d => d.nationalityCode)), 1, "desc");
+let nationalityScale = d3.scaleOrdinal(nationalitySet.map(d => d[0]), d3.schemeSet1);
+
 caseResult = data[1];
+
 
 d3.select("#casecount").text(d3.timeFormat("%d %b %Y, %a")(dateFormat(data[2][0].date)) + " (" + (data[1].length - data[1].filter(d => d.bigcluster == true).length) + " cases)");
 
-let width = 2000,
-    height = 1800;
+let width = 3200,
+    height = 3200;
+    
+    
+let xGraphScale = d3.scaleLinear()
+  .domain([dateFormat(startDate), dateFormat(currentDate)])
+  .range([width * 0.2, width * 0.8]);
 
 let force = d3.forceSimulation(data[1])
     .force("charge", d3.forceManyBody().strength(-300))
     .force("center", d3.forceCenter(width / 2, height / 2))
-    .force("x", d3.forceX(width / 2))
-    .force("y", d3.forceY(height / 2))
+    .force("x", d3.forceX()
+        .x(d => xGraphScale(dateFormat(d.date)))
+        .strength(0.2)
+    )
+    .force("y", d3.forceY()
+        .y(height / 2)
+        .strength(0.1)
+    )
     .force("link", d3.forceLink(data[0])
-        .id(function(d) {return d.id; })
+        .id(d => d.id)
+        .distance(20)
+        .strength(0.8)
     )
     .on("tick", tick);
 
@@ -94,10 +136,11 @@ let circle = nodes.append("circle")
         d3.select("#case").text(d.id);
         d3.select("#age").text(d.age);
         d3.select("#gender").text(d.gender);
+        d3.select("#nationality").text(d.nationality);
         d3.select("#occupation").text(d.occupation);
         d3.select("#organization").text(d.organization);
         d3.select("#date_recorded").text( () => {
-            if (d.date == "-") return "-";
+            if (d.bigcluster == true) return "-";
             else return d3.timeFormat("%d %b %Y, %a")(dateFormat(d.date));
         });
         d3.select("#vaccinated").text(d.vaccinated);
@@ -115,6 +158,7 @@ let circle = nodes.append("circle")
         d3.select("#case").text(selectedCase.id);
         d3.select("#age").text(selectedCase.age);
         d3.select("#gender").text(selectedCase.gender);
+        d3.select("#nationality").text(selectedCase.nationality);
         d3.select("#occupation").text(selectedCase.occupation);
         d3.select("#organization").text(selectedCase.organization);
         d3.select("#date_recorded").html( () => {
@@ -242,7 +286,11 @@ d3.select("#genderSelect").on("click", (event,d)=> {
     updateSelection("gender");
     drawChart("gender", caseResult);
 });
-d3.select("#vaccineSelect").on("click", (event,d)=> {
+d3.select("#nationalitySelect").on("click", (event,d)=> {
+    updateSelection("nationality");
+    drawChart("nationality", caseResult);
+});
+d3.select("#vaccinatedSelect").on("click", (event,d)=> {
     updateSelection("vaccinated");
     drawChart("vaccinated", caseResult);
 });
@@ -332,6 +380,8 @@ function updateSelection(category) {
             return ageScale(d.age);
         } else if (selection == "gender") {
             return genderScale(d.gender);
+        } else if (selection == "nationality") {
+            return nationalityScale(d.nationalityCode);
         } else if (selection == "vaccinated") {
             return vaccinatedScale(d.vaccinated);
         } else if (selection == "asymptomatic") {
@@ -358,7 +408,7 @@ function drawChart(category, dataset) {
 
     // Remove all the extra big cluster nodes needed for graph visualization
     let summaryData = dataset.filter(d => d.bigcluster != true);
-    
+        
         if (selection == "date") {
             //summaryData = summaryData.filter(d => dateFormat(d.date) >= d3.timeDay.offset(dateFormat(currentDate), -28));
             summaryData = _.entries(_.countBy(summaryData, d => d.date));
@@ -366,11 +416,12 @@ function drawChart(category, dataset) {
             summaryData = _.entries(_.countBy(summaryData, d => Math.floor(d.age / 10))).map(d => [d[0] *10, d[1]]);
         } else if (selection == "gender") {
             summaryData = _.entries(_.countBy(summaryData, d => d.gender));
+        } else if (selection == "nationality") {
+            summaryData = _.orderBy(_.entries(_.countBy(summaryData, d => d.nationalityCode)), 1, "desc");
         } else if (selection == "vaccinated") {
             summaryData = _.entries(_.countBy(summaryData, d => d.vaccinated));
         } else if (selection == "asymptomatic") {
-            summaryData = _.entries(_.countBy(summaryData, d => d.asymptomatic))
-                            .map(d => {if (d[0] == "undefined") return ["no", d[1]]; else return [d[0], d[1]]});
+            summaryData = _.entries(_.countBy(summaryData, d => d.asymptomatic));
         }
         
     //console.log(summaryData);
@@ -386,21 +437,26 @@ function drawChart(category, dataset) {
                 .range([0, chart.width - chart.margin.left - chart.margin.right]);
         } else if (selection == "gender") {
             xScale = d3.scaleBand()
-                .domain(["male", "female"])
+                .domain(genderScale.domain())
+                .rangeRound([0, chart.width - chart.margin.left - chart.margin.right])
+                .padding(0.1);
+        } else if (selection == "nationality") {
+            xScale = d3.scaleBand()
+                .domain(nationalityScale.domain())
                 .rangeRound([0, chart.width - chart.margin.left - chart.margin.right])
                 .padding(0.1);
         } else if (selection == "vaccinated") {
             xScale = d3.scaleBand()
-                .domain(["no", "partial (1 dose)", "yes (2 doses)"])
+                .domain(vaccinatedScale.domain())
                 .rangeRound([0, chart.width - chart.margin.left - chart.margin.right])
                 .padding(0.1);
         } else if (selection == "asymptomatic") {
             xScale = d3.scaleBand()
-                .domain(["no", "yes"])
+                .domain(asymptomaticScale.domain())
                 .rangeRound([0, chart.width - chart.margin.left - chart.margin.right])
                 .padding(0.1);
         }
-
+        
     let yScale = d3.scaleLinear()
         .domain([0, d3.max(summaryData.map(d => d[1]))])
         .range([chart.height - chart.margin.top - chart.margin.bottom, 0]);
@@ -411,7 +467,7 @@ function drawChart(category, dataset) {
             .attr("class", "axis axis-x")
             .attr("transform", "translate(0, " + (chart.height - chart.margin.bottom - chart.margin.top) + ")")
             .call(d3.axisBottom(xScale).ticks(5).tickFormat(d3.timeFormat("%d/%m")));
-    } else if (selection == "age" || selection == "gender" || selection == "vaccinated" || selection == "asymptomatic") {
+    } else {
         summaryChart
             .append("g")
             .attr("class", "axis axis-x")
@@ -463,6 +519,8 @@ function drawChart(category, dataset) {
                 return ageScale(d[0]);
             } else if (selection == "gender") {
                 return genderScale(d[0]);
+            } else if (selection == "nationality") {
+                return nationalityScale(d[0]);
             } else if (selection == "vaccinated") {
                 return vaccinatedScale(d[0]);
             } else if (selection == "asymptomatic") {
@@ -480,8 +538,8 @@ function drawChart(category, dataset) {
                 caseResult = data[1].filter(e => {
                     if (selection == "age") {
                         return e[selection] >= d[0] && e[selection] < d[0] + 10;
-                    } else if (selection == "asymptomatic" && d[0] == "no") {
-                        return e[selection] != "yes";
+                    } else if (selection == "nationality") {
+                        return e.nationalityCode == d[0];
                     } else {
                         return e[selection] == d[0];
                     }

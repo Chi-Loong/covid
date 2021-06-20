@@ -7967,7 +7967,7 @@
         "id": 62971,
         "age": 51,
         "gender": "female",
-        "nationality": "Work Permit holder",
+        "nationality": "China",
         "occupation": "cleaner",
         "organization": "Ramky Cleantech Services Pte Ltd, Changi Airport Terminal 3",
         "date": "09/05/2021",
@@ -8058,7 +8058,7 @@
         "id": 62940,
         "age": 47,
         "gender": "male",
-        "nationality": "Work Permit holder",
+        "nationality": "China",
         "occupation": "cleaner",
         "organization": "Ramky Cleantech Services Pte Ltd, Changi Airport Terminal 3",
         "date": "08/05/2021",
@@ -8103,7 +8103,7 @@
         "id": 62938,
         "age": 27,
         "gender": "male",
-        "nationality": "Work Permit holder",
+        "nationality": "Malaysia",
         "occupation": "car groomer",
         "organization": "BlackNano Pte Ltd",
         "date": "08/05/2021",
@@ -8945,9 +8945,9 @@
         "nationality": "-",
         "occupation": "-",
         "organization": "Changi Aiport Terminal 3 (108 cases)",
-        "date": "-",
+        "date": "16/05/2021",
         "serology": "-",
-        "vaccinated": "no",
+        "vaccinated": "-",
         "icon": "img/plane.svg"
     },
     {
@@ -8958,9 +8958,9 @@
         "nationality": "-",
         "occupation": "-",
         "organization": "Tan Tock Seng Hospital Ward 9D (48 cases)",
-        "date": "-",
+        "date": "01/05/2021",
         "serology": "-",
-        "vaccinated": "no",
+        "vaccinated": "-",
         "icon": "img/hospital.svg"
     },
     {
@@ -8971,9 +8971,9 @@
         "nationality": "-",
         "occupation": "-",
         "organization": "JEM / Westgate (63 cases)",
-        "date": "-",
+        "date": "20/05/2021",
         "serology": "-",
-        "vaccinated": "no",
+        "vaccinated": "-",
         "icon": "img/mall.svg"
     },
     {
@@ -8984,9 +8984,9 @@
         "nationality": "-",
         "occupation": "-",
         "organization": "MacDonald's Delivery Riders (22 cases)",
-        "date": "-",
+        "date": "24/05/2021",
         "serology": "-",
-        "vaccinated": "no",
+        "vaccinated": "-",
         "icon": "img/scooter.svg"
     },
     {
@@ -8997,9 +8997,9 @@
         "nationality": "-",
         "occupation": "-",
         "organization": "MINDSville@Napiri (32 cases)",
-        "date": "-",
+        "date": "03/06/2021",
         "serology": "-",
-        "vaccinated": "no",
+        "vaccinated": "-",
         "icon": "img/disabled.svg"
     },
     {
@@ -9010,9 +9010,9 @@
         "nationality": "-",
         "occupation": "-",
         "organization": "506 Hougang Ave 8 (13 cases)",
-        "date": "-",
+        "date": "27/05/2021",
         "serology": "-",
-        "vaccinated": "no",
+        "vaccinated": "-",
         "icon": "img/building.svg"
     },
     {
@@ -9023,9 +9023,9 @@
         "nationality": "-",
         "occupation": "-",
         "organization": "115 Bukit Merah View Market & Food Centre (70 cases)",
-        "date": "-",
+        "date": "18/06/2021",
         "serology": "-",
-        "vaccinated": "no",
+        "vaccinated": "-",
         "icon": "img/food.svg"
     }
 ]
