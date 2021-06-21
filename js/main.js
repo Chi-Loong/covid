@@ -3,7 +3,7 @@ let selectedCase = {"id": "-", "age": "-", "gender": "-", "nationality": "-", "o
 let caseResult = [];
 let searchString = "";
 let dateFormat = d3.timeParse("%d/%m/%Y");
-let currentDate = "19/06/2021";
+let currentDate = "20/06/2021";
 
 let dateScale = d3.scaleLinear()
   .domain([d3.timeDay.offset(dateFormat(currentDate), -28), d3.timeDay.offset(dateFormat(currentDate), -14), dateFormat(currentDate)])
@@ -32,6 +32,8 @@ let nationalityLookup = {
     "Portugal": "Other"
 }
 
+//console.log(d3.timeDay.offset(dateFormat(currentDate), -28));
+
 Promise.all([d3.json("data/links.json"), d3.json("data/cases.json"), d3.json("data/MOHlinks.json")]).then(data => {
 
 // Data preprocessing
@@ -39,7 +41,6 @@ Promise.all([d3.json("data/links.json"), d3.json("data/cases.json"), d3.json("da
         e.source = e.infector;
         e.target = e.infectee;
     });
-    
 
 let nationalitySet = data[1].filter(d => d.bigcluster != true);
 nationalitySet.forEach(d => {

@@ -3,7 +3,7 @@ let selectedCase = {"id": "-", "age": "-", "gender": "-", "nationality": "-", "o
 let caseResult = [];
 let searchString = "";
 let dateFormat = d3.timeParse("%d/%m/%Y");
-let currentDate = "19/06/2021";
+let currentDate = "20/06/2021";
 let startDate = "28/04/2021";
 let dateScale = d3.scaleSequential(d3.interpolateSpectral)
   .domain([dateFormat(currentDate), dateFormat(startDate)]);
@@ -54,7 +54,8 @@ let nationalityScale = d3.scaleOrdinal(nationalitySet.map(d => d[0]), d3.schemeS
 caseResult = data[1];
 
 
-d3.select("#casecount").text(d3.timeFormat("%d %b %Y, %a")(dateFormat(data[2][0].date)) + " (" + (data[1].length - data[1].filter(d => d.bigcluster == true).length) + " cases)");
+d3.select("#lastdate").text(d3.timeFormat("%d %b %Y")(dateFormat(data[2][0].date)));
+d3.select("#casecount").text((data[1].length - data[1].filter(d => d.bigcluster == true).length) + " cases");
 
 let width = 3200,
     height = 3200;
