@@ -9,17 +9,17 @@
         "date": "19/06/2021"
     },
     {
-        "infector": "Bukit Merah",
+        "infector": "Bukit Merah Market",
         "infectee": 64321,
         "date": "19/06/2021"
     },
     {
-        "infector": "Bukit Merah",
+        "infector": "Bukit Merah Market",
         "infectee": 64329,
         "date": "19/06/2021"
     },
     {
-        "infector": "Bukit Merah",
+        "infector": "Bukit Merah Market",
         "infectee": 64334,
         "date": "19/06/2021"
     },
@@ -46,6 +46,11 @@
     {
         "infector": 64264,
         "infectee": 64332,
+        "date": "19/06/2021"
+    },
+    {
+        "infector": 64330,
+        "infectee": 64342,
         "date": "19/06/2021"
     }
 ]

@@ -1,0 +1,171 @@
+[{
+        "id": 64374,
+        "age": 26,
+        "gender": "female",
+        "nationality": "Singapore PR",
+        "occupation": "analyst",
+        "organization": "Deutsche Bank",
+        "date": "22/06/2021",
+        "serology": "-",
+        "vaccinated": "no"
+    },
+    {
+        "id": 64378,
+        "age": 77,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "retiree",
+        "organization": "-",
+        "date": "22/06/2021",
+        "serology": "-",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 64379,
+        "age": 79,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "retiree",
+        "organization": "-",
+        "date": "22/06/2021",
+        "serology": "negative",
+        "vaccinated": "no"
+    },
+    {
+        "id": 64386,
+        "age": 82,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "retiree",
+        "organization": "-",
+        "date": "22/06/2021",
+        "serology": "-",
+        "asymptomatic": "yes",
+        "vaccinated": "partial (1 dose)"
+    },
+    {
+        "id": 64388,
+        "age": 36,
+        "gender": "male",
+        "nationality": "Malaysia",
+        "occupation": "driver",
+        "organization": "Omni Aquatic Supplies Pte Ltd",
+        "date": "22/06/2021",
+        "serology": "-",
+        "vaccinated": "no"
+    },
+    {
+        "id": 64383,
+        "age": 11,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "student",
+        "organization": "Convent of the Holy Infant Jesus (Kellock)",
+        "date": "22/06/2021",
+        "serology": "-",
+        "vaccinated": "no"
+    },
+    {
+        "id": 64385,
+        "age": 32,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "unemployed",
+        "organization": "-",
+        "date": "22/06/2021",
+        "serology": "-",
+        "asymptomatic": "yes",
+        "vaccinated": "no"
+    },
+    {
+        "id": 64389,
+        "age": 43,
+        "gender": "male",
+        "nationality": "Malaysia",
+        "occupation": "stall assistant",
+        "organization": "115 Bukit Merah View Market & Food Centre",
+        "date": "22/06/2021",
+        "serology": "-",
+        "asymptomatic": "yes",
+        "vaccinated": "no"
+    },
+    {
+        "id": 64384,
+        "age": 74,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "part-time cleaner",
+        "organization": "Theng Liang Lee Services Pte Ltd, 104 Henderson Crescent",
+        "date": "22/06/2021",
+        "serology": "-",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 64371,
+        "age": 62,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "part-time cook",
+        "organization": "Marine Parade Central Market and Food Centre",
+        "date": "22/06/2021",
+        "serology": "negative",
+        "asymptomatic": "yes",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 64377,
+        "age": 69,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "retiree",
+        "organization": "-",
+        "date": "22/06/2021",
+        "serology": "negative",
+        "vaccinated": "no"
+    },
+    {
+        "id": 64380,
+        "age": 50,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "unemployed",
+        "organization": "-",
+        "date": "22/06/2021",
+        "serology": "-",
+        "vaccinated": "no"
+    },
+    {
+        "id": 64375,
+        "age": 52,
+        "gender": "male",
+        "nationality": "Singapore PR",
+        "occupation": "consultant",
+        "organization": "Syndicate Road Pte Ltd",
+        "date": "22/06/2021",
+        "serology": "negative",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 64373,
+        "age": 24,
+        "gender": "female",
+        "nationality": "China",
+        "occupation": "analyst",
+        "organization": "Axis Specialty Limited",
+        "date": "22/06/2021",
+        "serology": "-",
+        "vaccinated": "no"
+    },
+    {
+        "id": 64387,
+        "age": 23,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "student",
+        "organization": "Singapore Institute of Management (SIM)",
+        "date": "22/06/2021",
+        "serology": "-",
+        "vaccinated": "no"
+    }
+]
+

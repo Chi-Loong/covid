@@ -3,7 +3,7 @@ let selectedCase = {"id": "-", "age": "-", "gender": "-", "nationality": "-", "o
 let caseResult = [];
 let searchString = "";
 let dateFormat = d3.timeParse("%d/%m/%Y");
-let currentDate = "20/06/2021";
+let currentDate = "23/06/2021";
 let startDate = "28/04/2021";
 let dateScale = d3.scaleSequential(d3.interpolateSpectral)
   .domain([dateFormat(currentDate), dateFormat(startDate)]);
