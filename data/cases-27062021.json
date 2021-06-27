@@ -1,0 +1,140 @@
+[{
+        "id": 64483,
+        "age": 37,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "bunk surveyor",
+        "organization": "GW Marine Pte Ltd",
+        "date": "27/06/2021",
+        "serology": "negative",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 64485,
+        "age": 30,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "executive",
+        "organization": "Central Provident Fund Board",
+        "date": "27/06/2021",
+        "serology": "negative",
+        "asymptomatic": "yes",
+        "vaccinated": "partial (1 dose)"
+    },
+    {
+        "id": 64492,
+        "age": 12,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "student",
+        "organization": "Zhangde Primary School",
+        "date": "27/06/2021",
+        "serology": "negative",
+        "asymptomatic": "yes",
+        "vaccinated": "partial (1 dose)"
+    },
+    {
+        "id": 64495,
+        "age": 82,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "retiree",
+        "organization": "-",
+        "date": "27/06/2021",
+        "serology": "-",
+        "vaccinated": "no"
+    },
+    {
+        "id": 64486,
+        "age": 58,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "homemaker",
+        "organization": "-",
+        "date": "27/06/2021",
+        "serology": "negative",
+        "vaccinated": "partial (1 dose)"
+    },
+    {
+        "id": 64487,
+        "age": 16,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "student",
+        "organization": "Republic Polytechnic",
+        "date": "27/06/2021",
+        "serology": "negative",
+        "asymptomatic": "yes",
+        "vaccinated": "partial (1 dose)"
+    },
+    {
+        "id": 64489,
+        "age": 62,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "porter",
+        "organization": "Changi General Hospital",
+        "date": "27/06/2021",
+        "serology": "-",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 64490,
+        "age": 24,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "porter",
+        "organization": "National University Hospital",
+        "date": "27/06/2021",
+        "serology": "negative",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 64484,
+        "age": 69,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "healthcare assistant",
+        "organization": "Changi General Hospital",
+        "date": "27/06/2021",
+        "serology": "-",
+        "vaccinated": "partial (1 dose)"
+    },
+    {
+        "id": 64494,
+        "age": 58,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "private hire driver",
+        "organization": "Grab",
+        "date": "27/06/2021",
+        "serology": "-",
+        "asymptomatic": "yes",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 64488,
+        "age": 74,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "retiree",
+        "organization": "-",
+        "date": "27/06/2021",
+        "serology": "negative",
+        "asymptomatic": "yes",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 64491,
+        "age": 83,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "cleaner",
+        "organization": "Seacare Environment Pte Ltd",
+        "date": "27/06/2021",
+        "serology": "-",
+        "asymptomatic": "yes",
+        "vaccinated": "yes (2 doses)"
+    }
+]
+

@@ -47,5 +47,10 @@
         "infector": 64185,
         "infectee": 64312,
         "date": "18/06/2021"
+    },
+    {
+        "infector": "Henderson Crescent",
+        "infectee": 64310,
+        "date": "18/06/2021"
     }
 ]

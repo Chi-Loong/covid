@@ -3,7 +3,7 @@ let selectedCase = {"id": "-", "age": "-", "gender": "-", "nationality": "-", "o
 let caseResult = [];
 let searchString = "";
 let dateFormat = d3.timeParse("%d/%m/%Y");
-let currentDate = "23/06/2021";
+let currentDate = "27/06/2021";
 
 let dateScale = d3.scaleLinear()
   .domain([d3.timeDay.offset(dateFormat(currentDate), -28), d3.timeDay.offset(dateFormat(currentDate), -14), dateFormat(currentDate)])
@@ -420,6 +420,7 @@ function drawChart(category, dataset) {
         } else if (selection == "nationality") {
             summaryData = _.orderBy(_.entries(_.countBy(summaryData, d => d.nationalityCode)), 1, "desc");
         } else if (selection == "vaccinated") {
+            //console.log(_.groupBy(summaryData, d => d.vaccinated));
             summaryData = _.entries(_.countBy(summaryData, d => d.vaccinated));
         } else if (selection == "asymptomatic") {
             summaryData = _.entries(_.countBy(summaryData, d => d.asymptomatic));
@@ -467,7 +468,7 @@ function drawChart(category, dataset) {
             .append("g")
             .attr("class", "axis axis-x")
             .attr("transform", "translate(0, " + (chart.height - chart.margin.bottom - chart.margin.top) + ")")
-            .call(d3.axisBottom(xScale).ticks(5).tickFormat(d3.timeFormat("%d/%m")));
+            .call(d3.axisBottom(xScale).ticks(5).tickFormat(d3.timeFormat("%d %b")));
     } else {
         summaryChart
             .append("g")

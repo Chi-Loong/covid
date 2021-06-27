@@ -1,4 +1,254 @@
 [{
+        "infector": 64474,
+        "infectee": 64485,
+        "date": "27/06/2021"
+    },
+    {
+        "infector": 64461,
+        "infectee": 64492,
+        "date": "27/06/2021"
+    },
+    {
+        "infector": 64473,
+        "infectee": 64495,
+        "date": "27/06/2021"
+    },
+    {
+        "infector": 64462,
+        "infectee": 64486,
+        "date": "27/06/2021"
+    },
+    {
+        "infector": 64476,
+        "infectee": 64487,
+        "date": "27/06/2021"
+    },
+    {
+        "infector": 64413,
+        "infectee": 64489,
+        "date": "27/06/2021"
+    },
+    {
+        "infector": 64462,
+        "infectee": 64490,
+        "date": "27/06/2021"
+    },
+    {
+        "infector": 64413,
+        "infectee": 64484,
+        "date": "27/06/2021"
+    },
+    {
+        "infector": 64438,
+        "infectee": 64494,
+        "date": "27/06/2021"
+    },
+    {
+        "infector": 64444,
+        "infectee": 64488,
+        "date": "27/06/2021"
+    },
+    {
+        "infector": 64444,
+        "infectee": 64491,
+        "date": "27/06/2021"
+    },
+    {
+        "infector": 64305,
+        "infectee": 64472,
+        "date": "26/06/2021"
+    },
+    {
+        "infector": "Bukit Merah Market",
+        "infectee": 64474,
+        "date": "26/06/2021"
+    },
+    {
+        "infector": "119 Bukit Merah View",
+        "infectee": 64470,
+        "date": "26/06/2021"
+    },
+    {
+        "infector": "Henderson Crescent",
+        "infectee": 64473,
+        "date": "26/06/2021"
+    },
+    {
+        "infector": 64413,
+        "infectee": 64476,
+        "date": "26/06/2021"
+    },
+    {
+        "infector": 64413,
+        "infectee": 64462,
+        "date": "26/06/2021"
+    },
+    {
+        "infector": 64420,
+        "infectee": 64475,
+        "date": "26/06/2021"
+    },
+    {
+        "infector": 64387,
+        "infectee": 64465,
+        "date": "26/06/2021"
+    },
+    {
+        "infector": 64387,
+        "infectee": 64467,
+        "date": "26/06/2021"
+    },
+    {
+        "infector": 64112,
+        "infectee": 64230,
+        "date": "15/06/2021"
+    },
+    {
+        "infector": 64112,
+        "infectee": 64174,
+        "date": "12/06/2021"
+    },
+    {
+        "infector": 64255,
+        "infectee": 64420,
+        "date": "24/06/2021"
+    },
+    {
+        "infector": "Henderson Crescent",
+        "infectee": 64386,
+        "date": "22/06/2021"
+    },
+   {
+        "infector": "Henderson Crescent",
+        "infectee": 64378,
+        "date": "22/06/2021"
+    },
+    {
+        "infector": "Henderson Crescent",
+        "infectee": 64310,
+        "date": "18/06/2021"
+    },
+    {
+        "infector": 64421,
+        "infectee": 64445,
+        "date": "25/06/2021"
+    },
+    {
+        "infector": 64435,
+        "infectee": 64461,
+        "date": "25/06/2021"
+    },
+    {
+        "infector": "Henderson Crescent",
+        "infectee": 64446,
+        "date": "25/06/2021"
+    },
+    {
+        "infector": 64446,
+        "infectee": 64447,
+        "date": "25/06/2021"
+    },
+    {
+        "infector": "Henderson Crescent",
+        "infectee": 64448,
+        "date": "25/06/2021"
+    },
+    {
+        "infector": "Henderson Crescent",
+        "infectee": 64455,
+        "date": "25/06/2021"
+    },
+    {
+        "infector": 64455,
+        "infectee": 64456,
+        "date": "25/06/2021"
+    },
+    {
+        "infector": "Henderson Crescent",
+        "infectee": 64457,
+        "date": "25/06/2021"
+    },
+    {
+        "infector": 64413,
+        "infectee": 64442,
+        "date": "25/06/2021"
+    },
+    {
+        "infector": 64413,
+        "infectee": 64443,
+        "date": "25/06/2021"
+    },
+    {
+        "infector": 64420,
+        "infectee": 64449,
+        "date": "25/06/2021"
+    },
+    {
+        "infector": 64388,
+        "infectee": 64451,
+        "date": "25/06/2021"
+    },
+    {
+        "infector": 64221,
+        "infectee": 64421,
+        "date": "24/06/2021"
+    },
+    {
+        "infector": 64385,
+        "infectee": 64435,
+        "date": "24/06/2021"
+    },
+    {
+        "infector": 64385,
+        "infectee": 64436,
+        "date": "24/06/2021"
+    },
+    {
+        "infector": 64194,
+        "infectee": 64429,
+        "date": "24/06/2021"
+    },
+    {
+        "infector": 64197,
+        "infectee": 64419,
+        "date": "24/06/2021"
+    },
+    {
+        "infector": 64387,
+        "infectee": 64414,
+        "date": "24/06/2021"
+    },
+    {
+        "infector": 64387,
+        "infectee": 64415,
+        "date": "24/06/2021"
+    },
+    {
+        "infector": 64387,
+        "infectee": 64416,
+        "date": "24/06/2021"
+    },
+    {
+        "infector": 64387,
+        "infectee": 64437,
+        "date": "24/06/2021"
+    },
+    {
+        "infector": 64359,
+        "infectee": 64417,
+        "date": "24/06/2021"
+    },
+    {
+        "infector": 64390,
+        "infectee": 64430,
+        "date": "24/06/2021"
+    },
+    {
+        "infector": 64394,
+        "infectee": 64438,
+        "date": "24/06/2021"
+    },
+    {
         "infector": 64231,
         "infectee": 64403,
         "date": "23/06/2021"
@@ -729,11 +979,6 @@
         "date": "06/06/2021"
     },
     {
-        "infector": 63629,
-        "infectee": 64079,
-        "date": "06/06/2021"
-    },
-    {
         "infector": 63721,
         "infectee": 64065,
         "date": "06/06/2021"
@@ -771,11 +1016,6 @@
     {
         "infector": 63969,
         "infectee": 64057,
-        "date": "05/06/2021"
-    },
-    {
-        "infector": 63629,
-        "infectee": 64056,
         "date": "05/06/2021"
     },
     {
@@ -892,11 +1132,6 @@
         "infector": "Hougang",
         "infectee": 63286,
         "date": "16/05/2021"
-    },
-    {
-        "infector": 63534,
-        "infectee": 64016,
-        "date": "03/06/2021"
     },
     {
         "infector": "MINDSville",
@@ -1244,16 +1479,6 @@
         "date": "31/05/2021"
     },
     {
-        "infector": 63746,
-        "infectee": 63894,
-        "date": "31/05/2021"
-    },
-    {
-        "infector": 63746,
-        "infectee": 63895,
-        "date": "31/05/2021"
-    },
-    {
         "infector": 63747,
         "infectee": 63909,
         "date": "31/05/2021"
@@ -1272,16 +1497,6 @@
         "infector": 63399,
         "infectee": 63900,
         "date": "31/05/2021"
-    },
-    {
-        "infector": 63446,
-        "infectee": 63866,
-        "date": "30/05/2021"
-    },
-    {
-        "infector": 63446,
-        "infectee": 63867,
-        "date": "30/05/2021"
     },
     {
         "infector": 63853,
@@ -1331,11 +1546,6 @@
     {
         "infector": 63829,
         "infectee": 63882,
-        "date": "30/05/2021"
-    },
-    {
-        "infector": 63629,
-        "infectee": 63871,
         "date": "30/05/2021"
     },
     {
@@ -1419,11 +1629,6 @@
         "date": "29/05/2021"
     },
     {
-        "infector": 63629,
-        "infectee": 63834,
-        "date": "29/05/2021"
-    },
-    {
         "infector": 63847,
         "infectee": 63827,
         "date": "29/05/2021"
@@ -1469,21 +1674,6 @@
         "date": "28/05/2021"
     },
     {
-        "infector": 63629,
-        "infectee": 63791,
-        "date": "28/05/2021"
-    },
-    {
-        "infector": 63629,
-        "infectee": 63793,
-        "date": "28/05/2021"
-    },
-    {
-        "infector": 63629,
-        "infectee": 63796,
-        "date": "28/05/2021"
-    },
-    {
         "infector": 63714,
         "infectee": 63794,
         "date": "28/05/2021"
@@ -1491,16 +1681,6 @@
     {
         "infector": 63747,
         "infectee": 63794,
-        "date": "28/05/2021"
-    },
-    {
-        "infector": 63618,
-        "infectee": 63804,
-        "date": "28/05/2021"
-    },
-    {
-        "infector": 63710,
-        "infectee": 63776,
         "date": "28/05/2021"
     },
     {
@@ -1536,36 +1716,6 @@
     {
         "infector": 63748,
         "infectee": 63752,
-        "date": "27/05/2021"
-    },
-    {
-        "infector": 63446,
-        "infectee": 63773,
-        "date": "27/05/2021"
-    },
-    {
-        "infector": 63656,
-        "infectee": 63773,
-        "date": "27/05/2021"
-    },
-    {
-        "infector": 63708,
-        "infectee": 63756,
-        "date": "27/05/2021"
-    },
-    {
-        "infector": 63709,
-        "infectee": 63756,
-        "date": "27/05/2021"
-    },
-    {
-        "infector": 63623,
-        "infectee": 63764,
-        "date": "27/05/2021"
-    },
-    {
-        "infector": 63575,
-        "infectee": 63766,
         "date": "27/05/2021"
     },
     {
@@ -1621,26 +1771,6 @@
     {
         "infector": "JEM",
         "infectee": 63733,
-        "date": "26/05/2021"
-    },
-    {
-        "infector": 63629,
-        "infectee": 63732,
-        "date": "26/05/2021"
-    },
-    {
-        "infector": "MacD",
-        "infectee": 63726,
-        "date": "26/05/2021"
-    },
-    {
-        "infector": 63515,
-        "infectee": 63741,
-        "date": "26/05/2021"
-    },
-    {
-        "infector": 63709,
-        "infectee": 63746,
         "date": "26/05/2021"
     },
     {
@@ -1789,21 +1919,6 @@
         "date": "25/05/2021"
     },
     {
-        "infector": 63629,
-        "infectee": 63694,
-        "date": "25/05/2021"
-    },
-    {
-        "infector": "MacD",
-        "infectee": 63713,
-        "date": "25/05/2021"
-    },
-    {
-        "infector": 63534,
-        "infectee": 63717,
-        "date": "25/05/2021"
-    },
-    {
         "infector": 63661,
         "infectee": 63701,
         "date": "25/05/2021"
@@ -1816,11 +1931,6 @@
     {
         "infector": 63661,
         "infectee": 63703,
-        "date": "25/05/2021"
-    },
-    {
-        "infector": 63708,
-        "infectee": 63709,
         "date": "25/05/2021"
     },
     {
@@ -1864,54 +1974,9 @@
         "date": "24/05/2021"
     },
     {
-        "infector": 63534,
-        "infectee": 63629,
-        "date": "24/05/2021"
-    },
-    {
-        "infector": 63535,
-        "infectee": 63629,
-        "date": "24/05/2021"
-    },
-    {
-        "infector": 63629,
-        "infectee": 63668,
-        "date": "24/05/2021"
-    },
-    {
-        "infector": "MacD",
-        "infectee": 63669,
-        "date": "24/05/2021"
-    },
-    {
-        "infector": "MacD",
-        "infectee": 63676,
-        "date": "24/05/2021"
-    },
-    {
-        "infector": "MacD",
-        "infectee": 63682,
-        "date": "24/05/2021"
-    },
-    {
-        "infector": 63515,
-        "infectee": 63654,
-        "date": "24/05/2021"
-    },
-    {
-        "infector": 63446,
-        "infectee": 63656,
-        "date": "24/05/2021"
-    },
-    {
         "infector": 63507,
         "infectee": 63677,
         "date": "24/05/2021"
-    },
-    {
-        "infector": "MacD",
-        "infectee": 63534,
-        "date": "21/05/2021"
     },
     {
         "infector": "JEM",
@@ -1934,16 +1999,6 @@
         "date": "23/05/2021"
     },
     {
-        "infector": 63535,
-        "infectee": 63603,
-        "date": "23/05/2021"
-    },
-    {
-        "infector": 63535,
-        "infectee": 63624,
-        "date": "23/05/2021"
-    },
-    {
         "infector": 63462,
         "infectee": 63620,
         "date": "23/05/2021"
@@ -1959,16 +2014,6 @@
         "date": "23/05/2021"
     },
     {
-        "infector": 63515,
-        "infectee": 63612,
-        "date": "23/05/2021"
-    },
-    {
-        "infector": 63466,
-        "infectee": 63618,
-        "date": "23/05/2021"
-    },
-    {
         "infector": 63462,
         "infectee": 63571,
         "date": "22/05/2021"
@@ -1976,16 +2021,6 @@
     {
         "infector": 63448,
         "infectee": 63577,
-        "date": "22/05/2021"
-    },
-    {
-        "infector": 63534,
-        "infectee": 63569,
-        "date": "22/05/2021"
-    },
-    {
-        "infector": 63535,
-        "infectee": 63569,
         "date": "22/05/2021"
     },
     {
@@ -2041,11 +2076,6 @@
     {
         "infector": 63392,
         "infectee": 63517,
-        "date": "21/05/2021"
-    },
-    {
-        "infector": 63534,
-        "infectee": 63535,
         "date": "21/05/2021"
     },
     {

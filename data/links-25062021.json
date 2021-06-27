@@ -1,0 +1,61 @@
+[{
+        "infector": 64421,
+        "infectee": 64445,
+        "date": "25/06/2021"
+    },
+    {
+        "infector": 64435,
+        "infectee": 64461,
+        "date": "25/06/2021"
+    },
+    {
+        "infector": "Henderson Crescent",
+        "infectee": 64446,
+        "date": "25/06/2021"
+    },
+    {
+        "infector": 64446,
+        "infectee": 64447,
+        "date": "25/06/2021"
+    },
+    {
+        "infector": "Henderson Crescent",
+        "infectee": 64448,
+        "date": "25/06/2021"
+    },
+    {
+        "infector": "Henderson Crescent",
+        "infectee": 64455,
+        "date": "25/06/2021"
+    },
+    {
+        "infector": 64455,
+        "infectee": 64456,
+        "date": "25/06/2021"
+    },
+    {
+        "infector": "Henderson Crescent",
+        "infectee": 64457,
+        "date": "25/06/2021"
+    },
+    {
+        "infector": 64413,
+        "infectee": 64442,
+        "date": "25/06/2021"
+    },
+    {
+        "infector": 64413,
+        "infectee": 64443,
+        "date": "25/06/2021"
+    },
+    {
+        "infector": 64420,
+        "infectee": 64449,
+        "date": "25/06/2021"
+    },
+    {
+        "infector": 64388,
+        "infectee": 64451,
+        "date": "25/06/2021"
+    }
+]

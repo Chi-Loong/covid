@@ -1,0 +1,46 @@
+[{
+        "infector": 64305,
+        "infectee": 64472,
+        "date": "26/06/2021"
+    },
+    {
+        "infector": "Bukit Merah Market",
+        "infectee": 64474,
+        "date": "26/06/2021"
+    },
+    {
+        "infector": "119 Bukit Merah View",
+        "infectee": 64470,
+        "date": "26/06/2021"
+    },
+    {
+        "infector": "Henderson Crescent",
+        "infectee": 64473,
+        "date": "26/06/2021"
+    },
+    {
+        "infector": 64413,
+        "infectee": 64476,
+        "date": "26/06/2021"
+    },
+    {
+        "infector": 64413,
+        "infectee": 64462,
+        "date": "26/06/2021"
+    },
+    {
+        "infector": 64420,
+        "infectee": 64475,
+        "date": "26/06/2021"
+    },
+    {
+        "infector": 64387,
+        "infectee": 64465,
+        "date": "26/06/2021"
+    },
+    {
+        "infector": 64387,
+        "infectee": 64467,
+        "date": "26/06/2021"
+    }
+]

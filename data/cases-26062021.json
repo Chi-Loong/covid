@@ -1,0 +1,146 @@
+[{
+        "id": 64463,
+        "age": 32,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "administrative staff",
+        "organization": "Walt Disney",
+        "date": "26/06/2021",
+        "serology": "positive",
+        "vaccinated": "no"
+    },
+    {
+        "id": 64464,
+        "age": 21,
+        "gender": "female",
+        "nationality": "Singapor",
+        "occupation": "nurse",
+        "organization": "Changi General Hospital",
+        "date": "26/06/2021",
+        "serology": "negative",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 64468,
+        "age": 27,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "serviceman",
+        "organization": "Singapore Navy",
+        "date": "26/06/2021",
+        "serology": "-",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 64478,
+        "age": 76,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "retiree",
+        "organization": "-",
+        "date": "26/06/2021",
+        "serology": "-",
+        "asymptomatic": "yes",
+        "vaccinated": "no"
+    },
+    {
+        "id": 64472,
+        "age": 31,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "waitress",
+        "organization": "Cheflix Restaurant",
+        "date": "26/06/2021",
+        "serology": "-",
+        "vaccinated": "no"
+    },
+    {
+        "id": 64474,
+        "age": 28,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "officer",
+        "organization": "Singapore Police Force",
+        "date": "26/06/2021",
+        "serology": "-",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 64470,
+        "age": 34,
+        "gender": "female",
+        "nationality": "Philippines",
+        "occupation": "foreign domestic worker",
+        "organization": "-",
+        "date": "26/06/2021",
+        "serology": "-",
+        "vaccinated": "no"
+    },
+    {
+        "id": 64473,
+        "age": 43,
+        "gender": "female",
+        "nationality": "Indonesia",
+        "occupation": "foreign domestic worker",
+        "organization": "-",
+        "date": "26/06/2021",
+        "serology": "-",
+        "vaccinated": "no"
+    },
+    {
+        "id": 64476,
+        "age": 48,
+        "gender": "female",
+        "nationality": "Singapore",
+        "occupation": "porter",
+        "organization": "Grab, Foodpanda",
+        "date": "26/06/2021",
+        "serology": "-",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 64462,
+        "age": 66,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "porter",
+        "organization": "Changi General Hospital",
+        "date": "26/06/2021",
+        "serology": "negative",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 64475,
+        "age": 86,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "retiree",
+        "organization": "attends day care at St Luke’s ElderCare (Hougang Meadow Centre)",
+        "date": "26/06/2021",
+        "serology": "-",
+        "vaccinated": "no"
+    },
+    {
+        "id": 64465,
+        "age": 22,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "trainee engineer",
+        "organization": "Skyworks Global Pte Ltd",
+        "date": "26/06/2021",
+        "serology": "-",
+        "vaccinated": "no"
+    },
+    {
+        "id": 64467,
+        "age": 26,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "-",
+        "organization": "Helping Hands Cleaning Services",
+        "date": "26/06/2021",
+        "serology": "-",
+        "vaccinated": "no"
+    }
+]
+
