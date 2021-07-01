@@ -16,3 +16,5 @@ By manually tagging and indexing all the cases, it:
 ## Updates ##
 
 MOH has stopped all updates of detailed case notes since June 29th 2021 and hence the data for this project will not be updated any further.
+
+Here's an article from Straits Times explaining why: [MOH to stop giving details of Covid-19 community cases](https://www.straitstimes.com/singapore/health/moh-to-stop-giving-details-of-covid-19-community-cases), June 30th 2021
