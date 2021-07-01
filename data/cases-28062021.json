@@ -1,0 +1,47 @@
+[{
+        "id": 64499,
+        "age": 60,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "-",
+        "organization": "Lam Chuan Import-Export Pte Ltd",
+        "date": "28/06/2021",
+        "serology": "negative",
+        "vaccinated": "yes (2 doses)"
+    },
+    {
+        "id": 64496,
+        "age": 37,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "televisin installer",
+        "organization": "Best Denki",
+        "date": "28/06/2021",
+        "serology": "positive",
+        "vaccinated": "no"
+    },
+    {
+        "id": 64498,
+        "age": 81,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "retiree",
+        "organization": "-",
+        "date": "28/06/2021",
+        "serology": "-",
+        "vaccinated": "no"
+    },
+    {
+        "id": 64504,
+        "age": 56,
+        "gender": "male",
+        "nationality": "Singapore",
+        "occupation": "engineer",
+        "organization": "PUB (80 Toh Guan Road)",
+        "date": "28/06/2021",
+        "serology": "negative",
+        "asymptomatic": "yes",
+        "vaccinated": "yes (2 doses)"
+    }
+]
+

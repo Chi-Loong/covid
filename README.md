@@ -13,4 +13,6 @@ By manually tagging and indexing all the cases, it:
 * shows summary statistics of all cases or a searched subset.
 * allows us to select a subset of a category more easily - a specific date, age band, etc. E.g. clicking the 30-40 bar under the "age" tab, it toggles the view for this specific subset.
 
+## Updates ##
 
+MOH has stopped all updates of detailed case notes since June 29th 2021 and hence the data for this project will not be updated any further.
