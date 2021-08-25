@@ -425,7 +425,7 @@ function drawChart(category, dataset) {
             summaryData = _.entries(_.countBy(summaryData, d => d.asymptomatic));
         }
         
-    //console.log(summaryData);
+    console.log(summaryData);
 
     let xScale = null;
         if (selection == "date") {
